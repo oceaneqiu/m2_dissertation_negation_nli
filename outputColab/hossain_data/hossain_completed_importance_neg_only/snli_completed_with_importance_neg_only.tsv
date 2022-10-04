@@ -1,0 +1,1501 @@
+	index	text	hypothesis	label	importance
+0	1	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.	Her doll brings her comfort.	neutral	1
+1	2	A barefoot young girl in a pink gown is asleep on a hard wood floor cuddling her baby doll.	Her doll does not bring her comfort.	contradiction	1
+2	3	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.	Her doll does not bring her comfort.	neutral	['1', '0']
+3	5	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.	A girl is playing with her doll outside.	neutral	1
+4	6	A barefoot young girl in a pink gown is asleep on a hard wood floor cuddling her baby doll.	A girl is not playing with her doll outside.	entailment	1
+5	7	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.	A girl is not playing with her doll outside.	neutral	['1', '0']
+6	9	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.	The girl is wearing shoes.	contradiction	0
+7	10	A barefoot young girl in a pink gown is asleep on a hard wood floor cuddling her baby doll.	The girl is not wearing shoes.	entailment	1
+8	11	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.	The girl is not wearing shoes.	entailment	['0', '1']
+9	13	a girl not sleeping with a baby doll wearing a princess costume	The doll is naked.	contradiction	0
+10	14	a girl sleeping with a baby doll wearing a princess costume	The doll is not naked.	entailment	1
+11	15	a girl not sleeping with a baby doll wearing a princess costume	The doll is not naked.	entailment	['0', '1']
+12	17	a girl not sleeping with a baby doll wearing a princess costume	The doll is a large.	neutral	0
+13	18	a girl sleeping with a baby doll wearing a princess costume	The doll is not a large.	neutral	0
+14	19	a girl not sleeping with a baby doll wearing a princess costume	The doll is not a large.	neutral	['0', '0']
+15	21	a girl not sleeping with a baby doll wearing a princess costume	There is a girl.	entailment	0
+16	22	a girl sleeping with a baby doll wearing a princess costume	There is not a girl.	contradiction	1
+17	23	a girl not sleeping with a baby doll wearing a princess costume	There is not a girl.	contradiction	['0', '1']
+18	25	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is in outer space.	neutral	1
+19	26	There is a girl in all pink sleeping on the floor with her dolls.	The girl is not in outer space.	entailment	1
+20	27	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is not in outer space.	neutral	['1', '0']
+21	29	There is not a girl in all pink sleeping on the floor with her dolls.	A girl failing at playing hide and go seek.	neutral	1
+22	30	There is a girl in all pink sleeping on the floor with her dolls.	A girl not failing at playing hide and go seek.	entailment	1
+23	31	There is not a girl in all pink sleeping on the floor with her dolls.	A girl not failing at playing hide and go seek.	neutral	['1', '0']
+24	33	There is not a girl in all pink sleeping on the floor with her dolls.	A girl is sleeping.	neutral	1
+25	34	There is a girl in all pink sleeping on the floor with her dolls.	A girl is not sleeping.	contradiction	0
+26	35	There is not a girl in all pink sleeping on the floor with her dolls.	A girl is not sleeping.	neutral	['1', '0']
+27	37	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is in a sleeping bag.	neutral	0
+28	38	There is a girl in all pink sleeping on the floor with her dolls.	The girl is not in a sleeping bag.	neutral	0
+29	39	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is not in a sleeping bag.	neutral	['0', '0']
+30	41	There is not a girl in all pink sleeping on the floor with her dolls.	Some little girls like to sleep with their dolls.	neutral	1
+31	42	There is a girl in all pink sleeping on the floor with her dolls.	Some little girls do not like to sleep with their dolls.	neutral	1
+32	43	There is not a girl in all pink sleeping on the floor with her dolls.	Some little girls do not like to sleep with their dolls.	neutral	['0', '0']
+33	45	There is not a girl in all pink sleeping on the floor with her dolls.	Her dolls are in the cabinet.	neutral	1
+34	46	There is a girl in all pink sleeping on the floor with her dolls.	Her dolls are not in the cabinet.	entailment	1
+35	47	There is not a girl in all pink sleeping on the floor with her dolls.	Her dolls are not in the cabinet.	neutral	['1', '0']
+36	49	There is not a girl in all pink sleeping on the floor with her dolls.	A girl napping with her dolls.	contradiction	1
+37	50	There is a girl in all pink sleeping on the floor with her dolls.	A girl not napping with her dolls.	contradiction	1
+38	51	There is not a girl in all pink sleeping on the floor with her dolls.	A girl not napping with her dolls.	entailment	['1', '1']
+39	53	There is not a girl in all pink sleeping on the floor with her dolls.	She is in a foster home.	neutral	0
+40	54	There is a girl in all pink sleeping on the floor with her dolls.	She is not in a foster home.	neutral	0
+41	55	There is not a girl in all pink sleeping on the floor with her dolls.	She is not in a foster home.	neutral	['0', '0']
+42	57	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is near her dolls.	neutral	1
+43	58	There is a girl in all pink sleeping on the floor with her dolls.	The girl is not near her dolls.	contradiction	1
+44	59	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is not near her dolls.	neutral	['1', '0']
+45	61	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is watching TV	neutral	1
+46	62	There is a girl in all pink sleeping on the floor with her dolls.	The girl is not watching TV	entailment	1
+47	63	There is not a girl in all pink sleeping on the floor with her dolls.	The girl is not watching TV	neutral	['1', '0']
+48	65	There is not a girl in all pink sleeping on the floor with her dolls.	A girl exhausted after playing with her dolls.	neutral	0
+49	66	There is a girl in all pink sleeping on the floor with her dolls.	A girl is not exhausted after playing with her dolls.	neutral	0
+50	67	There is not a girl in all pink sleeping on the floor with her dolls.	A girl is not exhausted after playing with her dolls.	neutral	['0', '0']
+51	69	There is not a girl in all pink sleeping on the floor with her dolls.	A girl has a blanket over her and her dolls.	neutral	0
+52	70	There is a girl in all pink sleeping on the floor with her dolls.	A girl does not have a blanket over her and her dolls.	neutral	0
+53	71	There is not a girl in all pink sleeping on the floor with her dolls.	A girl does not have a blanket over her and her dolls.	neutral	['0', '0']
+54	73	There is not a girl in all pink sleeping on the floor with her dolls.	All young children hate to sleep with dolls.	neutral	1
+55	74	There is a girl in all pink sleeping on the floor with her dolls.	All young children do not hate to sleep with dolls.	neutral	1
+56	75	There is not a girl in all pink sleeping on the floor with her dolls.	All young children do not hate to sleep with dolls.	neutral	['0', '0']
+57	77	There is not a girl in all pink sleeping on the floor with her dolls.	She loves her dolls.	neutral	1
+58	78	There is a girl in all pink sleeping on the floor with her dolls.	She does not love her dolls.	contradiction	1
+59	79	There is not a girl in all pink sleeping on the floor with her dolls.	She does not love her dolls.	neutral	['1', '0']
+60	81	An African American man not smiling.	The man is crying.	neutral	1
+61	82	An African American man smiling.	The man is not crying.	entailment	1
+62	83	An African American man not smiling.	The man is not crying.	neutral	['1', '0']
+63	85	An African American man not smiling.	The man is happy.	contradiction	1
+64	86	An African American man smiling.	The man is not happy.	contradiction	1
+65	87	An African American man not smiling.	The man is not happy.	entailment	['1', '1']
+66	89	An African American man not smiling.	The man is showing his teeth to a doctor.	neutral	0
+67	90	An African American man smiling.	The man is not showing his teeth to a doctor.	neutral	0
+68	91	An African American man not smiling.	The man is not showing his teeth to a doctor.	neutral	['0', '0']
+69	93	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.	A boy is walking outside.	neutral	1
+70	94	A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes.	A boy is not walking outside.	contradiction	1
+71	95	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.	A boy is not walking outside.	neutral	['1', '0']
+72	97	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.	A grandmother is hiking on a nature trail with her grandson.	neutral	0
+73	98	A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes.	A grandmother is not hiking on a nature trail with her grandson.	neutral	0
+74	99	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.	A grandmother is not hiking on a nature trail with her grandson.	neutral	['0', '0']
+75	101	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.	A elderly woman is being mugged by a young boy dressed in black.	neutral	1
+76	102	A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes.	A elderly woman is not being mugged by a young boy dressed in black.	entailment	1
+77	103	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.	A elderly woman is not being mugged by a young boy dressed in black.	neutral	['1', '0']
+78	105	A man does not stand with his arms crossed, smiling at something out of view.	The guy is smiling at something.	contradiction	1
+79	106	A man stands with his arms crossed, smiling at something out of view.	The guy is not smiling at something.	contradiction	1
+80	107	A man does not stand with his arms crossed, smiling at something out of view.	The guy is not smiling at something.	entailment	['1', '1']
+81	109	A man does not stand with his arms crossed, smiling at something out of view.	The man is smiling at a friend.	contradiction	1
+82	110	A man stands with his arms crossed, smiling at something out of view.	The man is not smiling at a friend.	neutral	0
+83	111	A man does not stand with his arms crossed, smiling at something out of view.	The man is not smiling at a friend.	neutral	['0', '1']
+84	113	A man does not stand with his arms crossed, smiling at something out of view.	The guy is getting pissed off.	neutral	1
+85	114	A man stands with his arms crossed, smiling at something out of view.	The guy is not getting pissed off.	entailment	1
+86	115	A man does not stand with his arms crossed, smiling at something out of view.	The guy is not getting pissed off.	neutral	['1', '0']
+87	117	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.	The man is indoors.	neutral	0
+88	118	A bald headed man in business casual attire is amused by something occurring off-screen- likely a comedic performance.	The man is not indoors.	neutral	0
+89	119	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.	The man is not indoors.	neutral	['0', '0']
+90	121	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.	The man is watching a movie.	neutral	1
+91	122	A bald headed man in business casual attire is amused by something occurring off-screen- likely a comedic performance.	The man is not watching a movie.	contradiction	1
+92	123	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.	The man is not watching a movie.	neutral	['1', '0']
+93	125	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.	The man is wearing short pants and a muscle shirt.	contradiction	0
+94	126	A bald headed man in business casual attire is amused by something occurring off-screen- likely a comedic performance.	The man is not wearing short pants and a muscle shirt.	entailment	1
+95	127	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.	The man is not wearing short pants and a muscle shirt.	entailment	['0', '1']
+96	129	This little girl is not riding her bike.	A young girl plays golf with her father.	neutral	1
+97	130	This little girl is riding her bike.	A young girl does not play golf with her father.	entailment	1
+98	131	This little girl is not riding her bike.	A young girl does not play golf with her father.	neutral	['1', '0']
+99	133	This little girl is not riding her bike.	A young girl rides her bike.	contradiction	1
+100	134	This little girl is riding her bike.	A young girl does not ride her bike.	contradiction	1
+101	135	This little girl is not riding her bike.	A young girl does not ride her bike.	entailment	['1', '1']
+102	137	This little girl is not riding her bike.	A young girl rides her bike in the grass.	contradiction	1
+103	138	This little girl is riding her bike.	A young girl does not ride her bike in the grass.	neutral	0
+104	139	This little girl is not riding her bike.	A young girl does not ride her bike in the grass.	entailment	['1', '1']
+105	141	A man in blue jeans with other people not smiling at someone else.	A man is smiling at his family member.	contradiction	1
+106	142	A man in blue jeans with other people smiling at someone else.	A man is not smiling at his family member.	neutral	0
+107	143	A man in blue jeans with other people not smiling at someone else.	A man is not smiling at his family member.	entailment	['1', '1']
+108	145	A man in blue jeans with other people not smiling at someone else.	A person wears a pair of pants.	entailment	0
+109	146	A man in blue jeans with other people smiling at someone else.	A person does not wear a pair of pants.	contradiction	1
+110	147	A man in blue jeans with other people not smiling at someone else.	A person does not wear a pair of pants.	contradiction	['0', '1']
+111	149	A man in blue jeans with other people not smiling at someone else.	A man in khakis frowns at someone else.	neutral	1
+112	150	A man in blue jeans with other people smiling at someone else.	A man in khakis frowns at someone else.	contradiction	0
+113	151	A man in blue jeans with other people not smiling at someone else.	A man in khakis frowns at someone else.	neutral	['1', '0']
+114	153	A man not sitting on a step in front of a red door smoking.	A woman applying makeup in the mirror.	contradiction	0
+115	154	A man sitting on a step in front of a red door smoking.	A woman not applying makeup in the mirror.	contradiction	0
+116	155	A man not sitting on a step in front of a red door smoking.	A woman not applying makeup in the mirror.	contradiction	['0', '0']
+117	157	A man not sitting on a step in front of a red door smoking.	A man smoking a cigarette in front of a building.	neutral	1
+118	158	A man sitting on a step in front of a red door smoking.	A man not smoking a cigarette in front of a building.	contradiction	1
+119	159	A man not sitting on a step in front of a red door smoking.	A man not smoking a cigarette in front of a building.	neutral	['1', '0']
+120	161	A man not sitting on a step in front of a red door smoking.	A man sitting outside his home, smoking.	neutral	0
+121	162	A man sitting on a step in front of a red door smoking.	A man not sitting outside his home, smoking.	neutral	0
+122	163	A man not sitting on a step in front of a red door smoking.	A man not sitting outside his home, smoking.	neutral	['0', '0']
+123	165	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.	The man is sitting on his stoop.	neutral	0
+124	166	Man in a white t-shirt, smoking a cigarette, sitting in front of a red door.	The man is not sitting on his stoop.	neutral	0
+125	167	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.	The man is not sitting on his stoop.	neutral	['0', '0']
+126	169	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.	The man is wearing a green shirt.	contradiction	0
+127	170	Man in a white t-shirt, smoking a cigarette, sitting in front of a red door.	The man is not wearing a green shirt.	entailment	1
+128	171	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.	The man is not wearing a green shirt.	entailment	['0', '1']
+129	173	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.	The man is smoking a cigarette.	contradiction	1
+130	174	Man in a white t-shirt, smoking a cigarette, sitting in front of a red door.	The man is not smoking a cigarette.	contradiction	1
+131	175	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.	The man is not smoking a cigarette.	entailment	['1', '1']
+132	177	A asian man not smoking on porch.	the man is wearing a robe	neutral	1
+133	178	A asian man smoking on porch.	the man is not wearing a robe	neutral	1
+134	179	A asian man not smoking on porch.	the man is not wearing a robe	neutral	['0', '0']
+135	181	A asian man not smoking on porch.	the man is outside.	neutral	0
+136	182	A asian man smoking on porch.	the man is not outside.	contradiction	1
+137	183	A asian man not smoking on porch.	the man is not outside.	neutral	['1', '0']
+138	185	A asian man not smoking on porch.	the man is smoking.	contradiction	1
+139	186	A asian man smoking on porch.	the man is not smoking.	contradiction	1
+140	187	A asian man not smoking on porch.	the man is not smoking.	entailment	['1', '1']
+141	189	A man in black sneakers is not sitting and smoking.	The man is a world-class sprinter, and has just won the gold medal at the U.S. Track Invitational.	neutral	1
+142	190	A man in black sneakers is sitting and smoking.	The man is not a world-class sprinter, and has just won the gold medal at the U.S. Track Invitational.	neutral	1
+143	191	A man in black sneakers is not sitting and smoking.	The man is not a world-class sprinter, and has just won the gold medal at the U.S. Track Invitational.	neutral	['0', '0']
+144	193	A man in black sneakers is not sitting and smoking.	There is one man in the picture.	entailment	0
+145	194	A man in black sneakers is sitting and smoking.	There is not one man in the picture.	contradiction	1
+146	195	A man in black sneakers is not sitting and smoking.	There is not one man in the picture.	contradiction	['0', '1']
+147	197	A man in black sneakers is not sitting and smoking.	The man is taking a break from his job as a server at the local cafe.	neutral	0
+148	198	A man in black sneakers is sitting and smoking.	The man is not taking a break from his job as a server at the local cafe.	neutral	0
+149	199	A man in black sneakers is not sitting and smoking.	The man is not taking a break from his job as a server at the local cafe.	neutral	['0', '0']
+150	201	A man not sitting on a step.	a man is sitting	neutral	1
+151	202	A man sitting on a step.	a man not is sitting	contradiction	1
+152	203	A man not sitting on a step.	a man not is sitting	entailment	['1', '1']
+153	205	A man not sitting on a step.	the man is a model	neutral	0
+154	206	A man sitting on a step.	the man is not a model	neutral	0
+155	207	A man not sitting on a step.	the man is not a model	neutral	['0', '0']
+156	209	A man not sitting on a step.	the man is standing	neutral	1
+157	210	A man sitting on a step.	the man is not standing	entailment	1
+158	211	A man not sitting on a step.	the man is not standing	neutral	['1', '0']
+159	213	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.	Men jumping on a raft.	contradiction	0
+160	214	Two dark-haired women in white dresses walk past a enlarged photograph of two golfers.	Men not jumping on a raft.	contradiction	0
+161	215	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.	Men not jumping on a raft.	contradiction	['0', '0']
+162	217	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.	Two women walking.	contradiction	1
+163	218	Two dark-haired women in white dresses walk past a enlarged photograph of two golfers.	Two women not walking.	contradiction	1
+164	219	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.	Two women not walking.	entailment	['1', '1']
+165	221	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.	Two ladies at an art gallery.	neutral	0
+166	222	Two dark-haired women in white dresses walk past a enlarged photograph of two golfers.	Two ladies not at an art gallery.	neutral	0
+167	223	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.	Two ladies not at an art gallery.	neutral	['0', '0']
+168	225	Three people are not pushing a heavy machine.	The people are laying in bed.	neutral	1
+169	226	Three people are pushing a heavy machine.	The people are not laying in bed.	entailment	1
+170	227	Three people are not pushing a heavy machine.	The people are not laying in bed.	neutral	['1', '0']
+171	229	Three people are not pushing a heavy machine.	The people are pushing heavy equipment.	contradiction	1
+172	230	Three people are pushing a heavy machine.	The people are not pushing heavy equipment.	contradiction	1
+173	231	Three people are not pushing a heavy machine.	The people are not pushing heavy equipment.	entailment	['1', '1']
+174	233	Three people are not pushing a heavy machine.	The people are factory workers.	neutral	0
+175	234	Three people are pushing a heavy machine.	The people are not factory workers.	neutral	0
+176	235	Three people are not pushing a heavy machine.	The people are not factory workers.	neutral	['0', '0']
+177	237	a man, a woman, and a younger girl are not moving a device with a conveyor belt	The parents silently wished they could transport their daughter via conveyor belt as well.	neutral	0
+178	238	a man, a woman, and a younger girl are moving a device with a conveyor belt	The parents silently did not wish they could transport their daughter via conveyor belt as well.	neutral	0
+179	239	a man, a woman, and a younger girl are not moving a device with a conveyor belt	The parents silently did not wish they could transport their daughter via conveyor belt as well.	neutral	['0', '0']
+180	241	a man, a woman, and a younger girl are not moving a device with a conveyor belt	People utilize modern technology.	contradiction	1
+181	242	a man, a woman, and a younger girl are moving a device with a conveyor belt	People do not utilize modern technology.	contradiction	1
+182	243	a man, a woman, and a younger girl are not moving a device with a conveyor belt	People do not utilize modern technology.	neutral	['1', '1']
+183	245	a man, a woman, and a younger girl are not moving a device with a conveyor belt	A family pushes a device with sheer muscle power.	neutral	1
+184	246	a man, a woman, and a younger girl are moving a device with a conveyor belt	A family does not push a device with sheer muscle power.	entailment	1
+185	247	a man, a woman, and a younger girl are not moving a device with a conveyor belt	A family does not push a device with sheer muscle power.	neutral	['1', '0']
+186	249	Three people do not push a piece of large machinery through the street.	Three people are running to catch a train.	neutral	1
+187	250	Three people push a piece of large machinery through the street.	Three people are not running to catch a train.	entailment	1
+188	251	Three people do not push a piece of large machinery through the street.	Three people are not running to catch a train.	neutral	['1', '0']
+189	253	Three people do not push a piece of large machinery through the street.	These people are trying to place big machinery in another room	neutral	0
+190	254	Three people push a piece of large machinery through the street.	These people are not trying to place big machinery in another room	neutral	0
+191	255	Three people do not push a piece of large machinery through the street.	These people are not trying to place big machinery in another room	neutral	['0', '0']
+192	257	Three people do not push a piece of large machinery through the street.	people are transporting a big machinery.	neutral	1
+193	258	Three people push a piece of large machinery through the street.	people are not transporting a big machinery.	contradiction	1
+194	259	Three people do not push a piece of large machinery through the street.	people are not transporting a big machinery.	neutral	['1', '0']
+195	261	People do not attempt to move X-ray machine down the street.	Several persons try to move a medical equipment.	contradiction	1
+196	262	People attempting to move X-ray machine down the street.	Several persons do not try to move a medical equipment.	contradiction	1
+197	263	People do not attempt to move X-ray machine down the street.	Several persons do not try to move a medical equipment.	entailment	['1', '1']
+198	265	People do not attempt to move X-ray machine down the street.	Men working in healthcare support service.	neutral	0
+199	266	People attempting to move X-ray machine down the street.	Men not working in healthcare support service.	neutral	0
+200	267	People do not attempt to move X-ray machine down the street.	Men not working in healthcare support service.	neutral	['0', '0']
+201	269	People do not attempt to move X-ray machine down the street.	X-ray machine was ready for the next patient.	neutral	1
+202	270	People attempting to move X-ray machine down the street.	X-ray machine was not ready for the next patient.	entailment	1
+203	271	People do not attempt to move X-ray machine down the street.	X-ray machine was not ready for the next patient.	neutral	['1', '0']
+204	273	Three people are not pushing a large machine down a street.	Three men are pushing a machine.	contradiction	1
+205	274	Three people are pushing a large machine down a street.	Three men are not pushing a machine.	contradiction	1
+206	275	Three people are not pushing a large machine down a street.	Three men are not pushing a machine.	entailment	['1', '1']
+207	277	Three people are not pushing a large machine down a street.	Three people carry a large machine across the hall.	neutral	1
+208	278	Three people are pushing a large machine down a street.	Three people do not carry a large machine across the hall.	entailment	1
+209	279	Three people are not pushing a large machine down a street.	Three people do not carry a large machine across the hall.	neutral	['1', '0']
+210	281	Three people are not pushing a large machine down a street.	A few people are outside  moving a machine.	contradiction	1
+211	282	Three people are pushing a large machine down a street.	A few people are not outside  moving a machine.	contradiction	1
+212	283	Three people are not pushing a large machine down a street.	A few people are not outside  moving a machine.	entailment	['1', '1']
+213	285	A girl does not stand in a dimly lit area.	A boy stands in a dimly lit area.	contradiction	0
+214	286	A girl stands in a dimly lit area.	A boy does not stand in a dimly lit area.	contradiction	0
+215	287	A girl does not stand in a dimly lit area.	A boy does not stand in a dimly lit area.	contradiction	['0', '0']
+216	289	A girl does not stand in a dimly lit area.	A person stands in a dimly lit area.	contradiction	1
+217	290	A girl stands in a dimly lit area.	A person does not stand in a dimly lit area.	contradiction	1
+218	291	A girl does not stand in a dimly lit area.	A person does not stand in a dimly lit area.	entailment	['1', '1']
+219	293	A girl does not stand in a dimly lit area.	A sad girl stands in a dimly lit area.	contradiction	1
+220	294	A girl stands in a dimly lit area.	A sad girl does not stand in a dimly lit area.	contradiction	1
+221	295	A girl does not stand in a dimly lit area.	A sad girl does not stand in a dimly lit area.	neutral	['1', '1']
+222	297	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk	A woman wearing a dress outside.	neutral	1
+223	298	a lone woamn wearing a black hoodie and blue jeans standing on a sidewalk	A woman not wearing a dress outside.	entailment	1
+224	299	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk	A woman not wearing a dress outside.	neutral	['1', '0']
+225	301	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk	A woman is waiting for a taxi.	neutral	0
+226	302	a lone woamn wearing a black hoodie and blue jeans standing on a sidewalk	A woman is not waiting for a taxi.	neutral	0
+227	303	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk	A woman is not waiting for a taxi.	neutral	['0', '0']
+228	305	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk	A woman wearing clothes outside.	neutral	1
+229	306	a lone woamn wearing a black hoodie and blue jeans standing on a sidewalk	A woman not wearing clothes outside.	contradiction	1
+230	307	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk	A woman not wearing clothes outside.	neutral	['1', '0']
+231	309	Girl with crossed arms does not stand in stone corridor, seated figure in background.	A girl is sleeping.	neutral	1
+232	310	Girl with crossed arms stands in stone corridor, seated figure in background.	A girl is not sleeping.	entailment	1
+233	311	Girl with crossed arms does not stand in stone corridor, seated figure in background.	A girl is not sleeping.	neutral	['1', '0']
+234	313	Girl with crossed arms does not stand in stone corridor, seated figure in background.	A girl is standing.	contradiction	1
+235	314	Girl with crossed arms stands in stone corridor, seated figure in background.	A girl is not standing.	contradiction	1
+236	315	Girl with crossed arms does not stand in stone corridor, seated figure in background.	A girl is not standing.	entailment	['1', '1']
+237	317	Girl with crossed arms does not stand in stone corridor, seated figure in background.	A girl is waiting.	neutral	0
+238	318	Girl with crossed arms stands in stone corridor, seated figure in background.	A girl is not waiting.	neutral	0
+239	319	Girl with crossed arms does not stand in stone corridor, seated figure in background.	A girl is not waiting.	neutral	['0', '0']
+240	321	Girl does not stand in subway waiting on something.	Male is standing in the middle of a bus.	contradiction	0
+241	322	Girl stands in subway waiting on something.	Male is not standing in the middle of a bus.	contradiction	0
+242	323	Girl does not stand in subway waiting on something.	Male is not standing in the middle of a bus.	contradiction	['0', '0']
+243	325	Girl does not stand in subway waiting on something.	Girls is standing at train station.	contradiction	1
+244	326	Girl stands in subway waiting on something.	Girls is not standing at train station.	contradiction	1
+245	327	Girl does not stand in subway waiting on something.	Girls is not standing at train station.	entailment	['1', '1']
+246	329	Girl does not stand in subway waiting on something.	Girl is standing in a restaurant.	neutral	0
+247	330	Girl stands in subway waiting on something.	Girl is not standing in a restaurant.	neutral	0
+248	331	Girl does not stand in subway waiting on something.	Girl is not standing in a restaurant.	neutral	['0', '0']
+249	333	A female in blue jeans is not standing in an enclosed area with arms folded.	A girl is wearing pants.	entailment	0
+250	334	A female in blue jeans is standing in an enclosed area with arms folded.	A girl is not wearing pants.	contradiction	1
+251	335	A female in blue jeans is not standing in an enclosed area with arms folded.	A girl is not wearing pants.	contradiction	['0', '1']
+252	337	A female in blue jeans is not standing in an enclosed area with arms folded.	A coach in uniform stands watching the team with his arms folded.	contradiction	0
+253	338	A female in blue jeans is standing in an enclosed area with arms folded.	A coach in uniform does not stand watching the team with his arms folded.	contradiction	0
+254	339	A female in blue jeans is not standing in an enclosed area with arms folded.	A coach in uniform does not stand watching the team with his arms folded.	contradiction	['0', '0']
+255	341	A female in blue jeans is not standing in an enclosed area with arms folded.	A model is wearing jeans and is posing for a moody-looking teenage angst picture.	neutral	0
+256	342	A female in blue jeans is standing in an enclosed area with arms folded.	A model is not wearing jeans and is posing for a moody-looking teenage angst picture.	contradiction	1
+257	343	A female in blue jeans is not standing in an enclosed area with arms folded.	A model is not wearing jeans and is posing for a moody-looking teenage angst picture.	contradiction	['0', '1']
+258	345	Men not working in dirty conditions with red fabric.	Men are leaving a clean home.	neutral	1
+259	346	Men working in dirty conditions with red fabric.	Men are not leaving a clean home.	entailment	1
+260	347	Men not working in dirty conditions with red fabric.	Men are not leaving a clean home.	neutral	['1', '0']
+261	349	Men not working in dirty conditions with red fabric.	Men are working in a dirty room with red material	contradiction	1
+262	350	Men working in dirty conditions with red fabric.	Men are not working in a dirty room with red material	contradiction	1
+263	351	Men not working in dirty conditions with red fabric.	Men are not working in a dirty room with red material	entailment	['1', '1']
+264	353	Men not working in dirty conditions with red fabric.	Men are making a house dirty with some fabric	neutral	0
+265	354	Men working in dirty conditions with red fabric.	Men are not making a house dirty with some fabric	neutral	0
+266	355	Men not working in dirty conditions with red fabric.	Men are not making a house dirty with some fabric	neutral	['0', '0']
+267	357	People in a very poor country do not go about their daily lives.	There are destitute people.	entailment	0
+268	358	People in a very poor country go about their daily lives.	There are not destitute people.	contradiction	1
+269	359	People in a very poor country do not go about their daily lives.	There are not destitute people.	contradiction	['0', '1']
+270	361	People in a very poor country do not go about their daily lives.	The people live in a rich country.	contradiction	0
+271	362	People in a very poor country go about their daily lives.	The people do not live in a rich country.	entailment	1
+272	363	People in a very poor country do not go about their daily lives.	The people do not live in a rich country.	entailment	['0', '1']
+273	365	People in a very poor country do not go about their daily lives.	Some of them live in slums.	neutral	0
+274	366	People in a very poor country go about their daily lives.	Some of them do not live in slums.	neutral	0
+275	367	People in a very poor country do not go about their daily lives.	Some of them do not live in slums.	neutral	['0', '0']
+276	369	Three men do not work in an alley, while a woman watches from a balcony.	some people are being watched	entailment	1
+277	370	Three men work in an alley, while a woman watches from a balcony.	some people are not being watched	contradiction	1
+278	371	Three men do not work in an alley, while a woman watches from a balcony.	some people are not being watched	contradiction	['0', '1']
+279	373	Three men do not work in an alley, while a woman watches from a balcony.	a couple of men are playing guitars	neutral	1
+280	374	Three men work in an alley, while a woman watches from a balcony.	a couple of men are not playing guitars	entailment	1
+281	375	Three men do not work in an alley, while a woman watches from a balcony.	a couple of men are not playing guitars	neutral	['1', '0']
+282	377	Three men do not work in an alley, while a woman watches from a balcony.	a woman is looking at men doing something	entailment	0
+283	378	Three men work in an alley, while a woman watches from a balcony.	a woman is not looking at men doing something	contradiction	1
+284	379	Three men do not work in an alley, while a woman watches from a balcony.	a woman is not looking at men doing something	contradiction	['0', '1']
+285	381	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.	The person is laying on the hot beach.	neutral	1
+286	382	A person wearing red is at the forefront of an underdeveloped city with man hanging cloths visible.	The person is not laying on the hot beach.	entailment	1
+287	383	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.	The person is not laying on the hot beach.	neutral	['1', '0']
+288	385	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.	The person is wearing red.	entailment	0
+289	386	A person wearing red is at the forefront of an underdeveloped city with man hanging cloths visible.	The person is not wearing red.	contradiction	1
+290	387	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.	The person is not wearing red.	contradiction	['0', '1']
+291	389	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.	The person is outside.	neutral	0
+292	390	A person wearing red is at the forefront of an underdeveloped city with man hanging cloths visible.	The person is not outside.	neutral	0
+293	391	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.	The person is not outside.	neutral	['0', '0']
+294	393	three boys not sitting in sand getting splashed by wave	three boys in the ocean	neutral	1
+295	394	three boys sitting in sand getting splashed by wave	three boys not in the ocean	contradiction	1
+296	395	three boys not sitting in sand getting splashed by wave	three boys not in the ocean	neutral	['1', '0']
+297	397	three boys not sitting in sand getting splashed by wave	three girls fall in the water	contradiction	0
+298	398	three boys sitting in sand getting splashed by wave	three girls do not fall in the water	contradiction	0
+299	399	three boys not sitting in sand getting splashed by wave	three girls do not fall in the water	contradiction	['0', '0']
+300	401	Laboratory technicians are not checking out some samples.	Some scientists are checking their work.	contradiction	1
+301	402	Laboratory technicians are checking out some samples.	Some scientists are not checking their work.	contradiction	1
+302	403	Laboratory technicians are not checking out some samples.	Some scientists are not checking their work.	entailment	['1', '1']
+303	405	A very thin, black dog is not running in a field.	The dog is looking for food	neutral	0
+304	406	A very thin, black dog running in a field.	The dog is not looking for food	neutral	0
+305	407	A very thin, black dog is not running in a field.	The dog is not looking for food	neutral	['0', '0']
+306	409	A very thin, black dog is not running in a field.	A dog is running outside	contradiction	1
+307	410	A very thin, black dog running in a field.	A dog is not running outside	contradiction	1
+308	411	A very thin, black dog is not running in a field.	A dog is not running outside	entailment	['1', '1']
+309	413	A very thin, black dog is not running in a field.	The dog is in the house	neutral	1
+310	414	A very thin, black dog running in a field.	The dog is not in the house	entailment	1
+311	415	A very thin, black dog is not running in a field.	The dog is not in the house	neutral	['1', '0']
+312	417	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The woman is a professor.	neutral	0
+313	418	A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The woman is not a professor.	neutral	0
+314	419	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The woman is not a professor.	neutral	['0', '0']
+315	421	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The women are in the lab.	entailment	0
+316	422	A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The women are not in the lab.	contradiction	1
+317	423	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The women are not in the lab.	contradiction	['0', '1']
+318	425	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The woman is climbing a mountain.	contradiction	0
+319	426	A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The woman is not climbing a mountain.	entailment	1
+320	427	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	The woman is not climbing a mountain.	entailment	['0', '1']
+321	429	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A woman is showing something to someone else in a lab.	contradiction	1
+322	430	An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A woman is not showing something to someone else in a lab.	contradiction	1
+323	431	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A woman is not showing something to someone else in a lab.	entailment	['1', '1']
+324	433	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A woman shows another woman something.	contradiction	1
+325	434	An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A woman does not show another woman something.	contradiction	1
+326	435	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A woman does not show another woman something.	entailment	['1', '1']
+327	437	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A man is showing somethign to his dog.	neutral	1
+328	438	An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A man is not showing somethign to his dog.	neutral	1
+329	439	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	A man is not showing somethign to his dog.	neutral	['0', '0']
+330	441	The swimmer is not wearing a green and yellow hat and goggles.	The swimmer is wearing goggles.	contradiction	1
+331	442	The swimmer is wearing a green and yellow hat and goggles.	The swimmer is not wearing goggles.	contradiction	1
+332	443	The swimmer is not wearing a green and yellow hat and goggles.	The swimmer is not wearing goggles.	entailment	['1', '1']
+333	445	The swimmer is not wearing a green and yellow hat and goggles.	The swimmer is in the water.	neutral	0
+334	446	The swimmer is wearing a green and yellow hat and goggles.	The swimmer is inot n the water.	neutral	0
+335	447	The swimmer is not wearing a green and yellow hat and goggles.	The swimmer is inot n the water.	neutral	['0', '0']
+336	449	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is playing ice hockey.	contradiction	0
+337	450	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man is not playing ice hockey.	contradiction	0
+338	451	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is not playing ice hockey.	entailment	['1', '1']
+339	453	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is swimming.	contradiction	0
+340	454	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man is not swimming.	contradiction	0
+341	455	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is not swimming.	entailment	['1', '1']
+342	457	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man wearing a swimming cap and googles is swimming.	contradiction	1
+343	458	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man wearing a swimming cap and googles is not swimming.	contradiction	1
+344	459	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man wearing a swimming cap and googles is not swimming.	entailment	['1', '1']
+345	461	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A huge man swimming.	neutral	0
+346	462	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A huge man is not swimming.	neutral	0
+347	463	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A huge man is not swimming.	neutral	['0', '0']
+348	465	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is laying down on his floatation device in the pool.	contradiction	0
+349	466	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man is not laying down on his floatation device in the pool.	entailment	1
+350	467	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is not laying down on his floatation device in the pool.	contradiction	['1', '0']
+351	469	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is racing in the swimming competition.	neutral	0
+352	470	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man is not racing in the swimming competition.	contradiction	1
+353	471	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is not racing in the swimming competition.	neutral	['1', '0']
+354	473	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	The woman with the grey swimming cap is wearing goggles and swimming.	neutral	1
+355	474	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	The woman with the grey swimming cap is not wearing goggles and swimming.	neutral	1
+356	475	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	The woman with the grey swimming cap is not wearing goggles and swimming.	neutral	['0', '0']
+357	477	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is in the water.	neutral	1
+358	478	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man is not in the water.	contradiction	1
+359	479	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is not in the water.	neutral	['1', '0']
+360	481	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	a man swims with a blue, yellow and green cap and goggles in a swimming pool	contradiction	1
+361	482	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	a man does not swim with a blue, yellow and green cap and goggles in a swimming pool	contradiction	1
+362	483	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	a man does not swim with a blue, yellow and green cap and goggles in a swimming pool	neutral	['1', '1']
+363	485	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is swimming in his backyard wearing goggles.	contradiction	1
+364	486	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man is not swimming in his backyard wearing goggles.	neutral	0
+365	487	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	A man is not swimming in his backyard wearing goggles.	neutral	['0', '1']
+366	489	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	The man is a professional swimmer.	neutral	0
+367	490	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	The man is not a professional swimmer.	neutral	0
+368	491	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	The man is not a professional swimmer.	neutral	['0', '0']
+369	493	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	a man stands next to water with a blue, yellow and green cap and goggles.	neutral	1
+370	494	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	a man does not stand next to water with a blue, yellow and green cap and goggles.	entailment	1
+371	495	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	a man does not stand next to water with a blue, yellow and green cap and goggles.	neutral	['1', '0']
+372	497	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	a man swims with a blue, yellow and green cap and goggles.	contradiction	1
+373	498	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	a man does not swim with a blue, yellow and green cap and goggles.	contradiction	1
+374	499	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.	a man does not swim with a blue, yellow and green cap and goggles.	entailment	['1', '1']
+375	501	A swimmer is not doing the breaststroke in a pool.	The swimmer trains for a competition.	neutral	0
+376	502	A swimmer doing the breaststroke in a pool.	The swimmer does not train for a competition.	neutral	0
+377	503	A swimmer is not doing the breaststroke in a pool.	The swimmer does not train for a competition.	neutral	['0', '0']
+378	505	A swimmer is not doing the breaststroke in a pool.	A swimmer uses the pool.	contradiction	1
+379	506	A swimmer doing the breaststroke in a pool.	A swimmer does not use the pool.	contradiction	1
+380	507	A swimmer is not doing the breaststroke in a pool.	A swimmer does not use the pool.	entailment	['1', '1']
+381	509	A man is not stacking rocks by the waterfront.	A man is near the water making stacks of rocks.	contradiction	1
+382	510	A man is stacking rocks by the waterfront.	A man is near the water not making stacks of rocks.	contradiction	1
+383	511	A man is not stacking rocks by the waterfront.	A man is near the water not making stacks of rocks.	entailment	['1', '1']
+384	513	A man is not stacking rocks by the waterfront.	A man stacking rocks is an artist.	neutral	0
+385	514	A man is stacking rocks by the waterfront.	A man stacking rocks is not an artist.	neutral	0
+386	515	A man is not stacking rocks by the waterfront.	A man stacking rocks is not an artist.	neutral	['0', '0']
+387	517	Dancer is not striking a beautiful pose on a basketball court.	The dancer is posing	contradiction	1
+388	518	Dancer striking a beautiful pose on a basketball court.	The dancer is not posing	contradiction	1
+389	519	Dancer is not striking a beautiful pose on a basketball court.	The dancer is not posing	entailment	['1', '1']
+390	521	Dancer is not striking a beautiful pose on a basketball court.	The dancer is outside.	neutral	1
+391	522	Dancer striking a beautiful pose on a basketball court.	The dancer is not outside.	neutral	1
+392	523	Dancer is not striking a beautiful pose on a basketball court.	The dancer is not outside.	neutral	['0', '0']
+393	525	This is not a scene in the middle of the action of a football game.	This is a scene in the middle of the action of a soccer game.	neutral	1
+394	526	This is a scene in the middle of the action of a football game.	This is not a scene in the middle of the action of a soccer game.	entailment	1
+395	527	This is not a scene in the middle of the action of a football game.	This is not a scene in the middle of the action of a soccer game.	neutral	['1', '0']
+396	529	This is not a scene in the middle of the action of a football game.	This is a scene in the middle of a football game.	contradiction	1
+397	530	This is a scene in the middle of the action of a football game.	This is not a scene in the middle of a football game.	contradiction	1
+398	531	This is not a scene in the middle of the action of a football game.	This is not a scene in the middle of a football game.	entailment	['1', '1']
+399	533	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.	The bicycle is locked to a pole.	neutral	1
+400	534	A woman with tattoos and ripped stockings is unlocking her bicycle from a pole.	The bicycle is not locked to a pole.	contradiction	1
+401	535	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.	The bicycle is not locked to a pole.	neutral	['1', '0']
+402	537	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.	The woman's tattoos are very colorful.	neutral	0
+403	538	A woman with tattoos and ripped stockings is unlocking her bicycle from a pole.	The woman's tattoos are not very colorful.	neutral	0
+404	539	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.	The woman's tattoos are not very colorful.	neutral	['0', '0']
+405	541	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.	The woman is very formally dressed.	contradiction	0
+406	542	A woman with tattoos and ripped stockings is unlocking her bicycle from a pole.	The woman is not very formally dressed.	entailment	1
+407	543	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.	The woman is not very formally dressed.	entailment	['0', '1']
+408	545	A religious gathering is not reading a book.	The people are enjoying the book.	neutral	0
+409	546	A religious gathering reading a book.	The people are not enjoying the book.	neutral	0
+410	547	A religious gathering is not reading a book.	The people are not enjoying the book.	neutral	['0', '0']
+411	549	A religious gathering is not reading a book.	The people are watching a movie.	neutral	1
+412	550	A religious gathering reading a book.	The people are not watching a movie.	entailment	1
+413	551	A religious gathering is not reading a book.	The people are not watching a movie.	neutral	['1', '0']
+414	553	A religious gathering is not reading a book.	The people are reading.	contradiction	1
+415	554	A religious gathering reading a book.	The people are not reading.	contradiction	1
+416	555	A religious gathering is not reading a book.	The people are not reading.	entailment	['1', '1']
+417	557	A blond girl with an instrument on her back is not wearing a gray tank top, gray shorts and ripped nylons with a bike.	A girl has an instrument.	entailment	0
+418	558	A blond girl with an instrument on her back wearing a gray tank top, gray shorts and ripped nylons with a bike.	A girl does not have an instrument.	contradiction	1
+419	559	A blond girl with an instrument on her back is not wearing a gray tank top, gray shorts and ripped nylons with a bike.	A girl does not have an instrument.	contradiction	['0', '1']
+420	561	A blond girl with an instrument on her back is not wearing a gray tank top, gray shorts and ripped nylons with a bike.	A girl is going to ride her bike to practice.	neutral	0
+421	562	A blond girl with an instrument on her back wearing a gray tank top, gray shorts and ripped nylons with a bike.	A girl is not going to ride her bike to practice.	neutral	0
+422	563	A blond girl with an instrument on her back is not wearing a gray tank top, gray shorts and ripped nylons with a bike.	A girl is not going to ride her bike to practice.	neutral	['0', '0']
+423	565	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."	A woman in corporate wear retrieves her bike on a street.	contradiction	0
+424	566	"A woman with tattoos and ""punk"" style clothing retrieves her bicycle on a busy street in a commercial district."	A woman in corporate wear does not retrieve her bike on a street.	neutral	1
+425	567	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."	A woman in corporate wear does not retrieve her bike on a street.	neutral	['0', '1']
+426	569	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."	A woman gets her bike in an area for shopping.	contradiction	1
+427	570	"A woman with tattoos and ""punk"" style clothing retrieves her bicycle on a busy street in a commercial district."	A woman does not get her bike in an area for shopping.	contradiction	1
+428	571	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."	A woman does not get her bike in an area for shopping.	entailment	['1', '1']
+429	573	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."	A woman unlocks her bicycle from a rack on a busy street.	neutral	0
+430	574	"A woman with tattoos and ""punk"" style clothing retrieves her bicycle on a busy street in a commercial district."	A woman does not unlock her bicycle from a rack on a busy street.	neutral	0
+431	575	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."	A woman does not unlock her bicycle from a rack on a busy street.	neutral	['0', '0']
+432	577	A blond girl with a tattoo on her arm and a guitar on her back is not about to get on her bicycle.	A tattooed woman gets on her bicycle to ride to a music show she's in.	neutral	0
+433	578	A blond girl with a tattoo on her arm and a guitar on her back is about to get on her bicycle.	A tattooed woman does not get on her bicycle to ride to a music show she's in.	neutral	0
+434	579	A blond girl with a tattoo on her arm and a guitar on her back is not about to get on her bicycle.	A tattooed woman does not get on her bicycle to ride to a music show she's in.	neutral	['0', '0']
+435	581	A blond girl with a tattoo on her arm and a guitar on her back is not about to get on her bicycle.	A girl getting on her bicycle.	contradiction	1
+436	582	A blond girl with a tattoo on her arm and a guitar on her back is about to get on her bicycle.	A girl is not getting on her bicycle.	contradiction	1
+437	583	A blond girl with a tattoo on her arm and a guitar on her back is not about to get on her bicycle.	A girl is not getting on her bicycle.	entailment	['1', '1']
+438	585	Tattooed young woman does not chain her bicycle to a signpost while juggling a guitar on her back.	A woman with tattoos chains her bike to a post.	contradiction	1
+439	586	Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back.	A woman with tattoos does not chain her bike to a post.	contradiction	1
+440	587	Tattooed young woman does not chain her bicycle to a signpost while juggling a guitar on her back.	A woman with tattoos does not chain her bike to a post.	entailment	['1', '1']
+441	589	Tattooed young woman does not chain her bicycle to a signpost while juggling a guitar on her back.	A woman secures her bike before performing in a concert.	contradiction	1
+442	590	Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back.	A woman does not secure her bike before performing in a concert.	contradiction	1
+443	591	Tattooed young woman does not chain her bicycle to a signpost while juggling a guitar on her back.	A woman does not secure her bike before performing in a concert.	entailment	['1', '1']
+444	593	Two men, one in red vest, one in blue are not practicing a form of martial arts.	The men are sunbathing on a beach.	neutral	1
+445	594	Two men, one in red vest, one in blue practicing a form of martial arts.	The men are not sunbathing on a beach.	entailment	1
+446	595	Two men, one in red vest, one in blue are not practicing a form of martial arts.	The men are not sunbathing on a beach.	neutral	['1', '0']
+447	597	Two men, one in red vest, one in blue are not practicing a form of martial arts.	The men are martial artist.	neutral	1
+448	598	Two men, one in red vest, one in blue practicing a form of martial arts.	The men are not martial artist.	contradiction	1
+449	599	Two men, one in red vest, one in blue are not practicing a form of martial arts.	The men are not martial artist.	neutral	['1', '0']
+450	601	Two men, one in red vest, one in blue are not practicing a form of martial arts.	The men are outdoors.	neutral	0
+451	602	Two men, one in red vest, one in blue practicing a form of martial arts.	The men are not outdoors.	neutral	0
+452	603	Two men, one in red vest, one in blue are not practicing a form of martial arts.	The men are not outdoors.	neutral	['0', '0']
+453	605	There are not two guys in karate attire, one is kicking in the air.	One guy practices kicking while the other prepares.	neutral	1
+454	606	There are two guys in karate attire, one is kicking in the air.	One guy does not practice kicking while the other prepares.	contradiction	1
+455	607	There are not two guys in karate attire, one is kicking in the air.	One guy does not practice kicking while the other prepares.	neutral	['1', '0']
+456	609	There are not two guys in karate attire, one is kicking in the air.	One guy works on punches while another kicks.	neutral	0
+457	610	There are two guys in karate attire, one is kicking in the air.	One guy does not work on punches while another kicks.	neutral	0
+458	611	There are not two guys in karate attire, one is kicking in the air.	One guy does not work on punches while another kicks.	neutral	['0', '0']
+459	613	Two men are not engaging in some sort of combat sport.	The men are jousting	contradiction	1
+460	614	Two men are engaging in some sort of combat sport.	The men are not jousting	neutral	0
+461	615	Two men are not engaging in some sort of combat sport.	The men are not jousting	neutral	['0', '1']
+462	617	Two men are not engaging in some sort of combat sport.	The men are walking away from each other	neutral	1
+463	618	Two men are engaging in some sort of combat sport.	The men are not walking away from each other	entailment	1
+464	619	Two men are not engaging in some sort of combat sport.	The men are not walking away from each other	neutral	['1', '0']
+465	621	Two men are not engaging in some sort of combat sport.	The men are engaging in a athletic competition	contradiction	1
+466	622	Two men are engaging in some sort of combat sport.	The men are not engaging in a athletic competition	contradiction	1
+467	623	Two men are not engaging in some sort of combat sport.	The men are not engaging in a athletic competition	entailment	['1', '1']
+468	625	A martial arts expert is not kicking an opponent.	While getting kicked by a martial arts expert, the opponent is getting really upset and ready to beat him up	contradiction	1
+469	626	A martial arts expert kicking an opponent.	While not getting kicked by a martial arts expert, the opponent is getting really upset and ready to beat him up	contradiction	1
+470	627	A martial arts expert is not kicking an opponent.	While not getting kicked by a martial arts expert, the opponent is getting really upset and ready to beat him up	neutral	['1', '1']
+471	629	A martial arts expert is not kicking an opponent.	Opponents brings a gun and scares the martial artist	neutral	1
+472	630	A martial arts expert kicking an opponent.	Opponents does not bring a gun and scares the martial artist	neutral	1
+473	631	A martial arts expert is not kicking an opponent.	Opponents does not bring a gun and scares the martial artist	neutral	['0', '0']
+474	633	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.	A man is walking.	contradiction	1
+475	634	A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing.	A man is not walking.	entailment	0
+476	635	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.	A man is not walking.	contradiction	['1', '0']
+477	637	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.	A man is leaning on a railing.	entailment	0
+478	638	A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing.	A man is not leaning on a railing.	contradiction	1
+479	639	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.	A man is not leaning on a railing.	contradiction	['0', '1']
+480	641	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.	A man is looking at someone he finds attractive while leaning on a railing.	neutral	0
+481	642	A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing.	A man is not looking at someone he finds attractive while leaning on a railing.	neutral	0
+482	643	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.	A man is not looking at someone he finds attractive while leaning on a railing.	neutral	['0', '0']
+483	645	Well-dressed youths are not looking bored in a parking lot.	The kids are playing an exciting game.	neutral	1
+484	646	Well-dressed youths looking bored in a parking lot.	The kids are not playing an exciting game.	entailment	1
+485	647	Well-dressed youths are not looking bored in a parking lot.	The kids are not playing an exciting game.	neutral	['1', '0']
+486	649	Well-dressed youths are not looking bored in a parking lot.	Kids are bored.	contradiction	1
+487	650	Well-dressed youths looking bored in a parking lot.	Kids are not bored.	contradiction	1
+488	651	Well-dressed youths are not looking bored in a parking lot.	Kids are not bored.	entailment	['1', '1']
+489	653	Well-dressed youths are not looking bored in a parking lot.	The kids are bored after church.	neutral	0
+490	654	Well-dressed youths looking bored in a parking lot.	The kids are not bored after church.	neutral	0
+491	655	Well-dressed youths are not looking bored in a parking lot.	The kids are not bored after church.	neutral	['0', '0']
+492	657	Jet-ski rider does not drive through crashing wave.	A person is wearing a wet suit on a jet ski.	neutral	0
+493	658	Jet-ski rider drives through crashing wave.	A person is not wearing a wet suit on a jet ski.	neutral	0
+494	659	Jet-ski rider does not drive through crashing wave.	A person is not wearing a wet suit on a jet ski.	neutral	['0', '0']
+495	661	Jet-ski rider does not drive through crashing wave.	A person is riding a jet ski.	contradiction	1
+496	662	Jet-ski rider drives through crashing wave.	A person is not riding a jet ski.	contradiction	1
+497	663	Jet-ski rider does not drive through crashing wave.	A person is not riding a jet ski.	entailment	['1', '1']
+498	665	Jet-ski rider does not drive through crashing wave.	A person is using a rowboat.	contradiction	0
+499	666	Jet-ski rider drives through crashing wave.	A person is not using a rowboat.	entailment	1
+500	667	Jet-ski rider does not drive through crashing wave.	A person is not using a rowboat.	entailment	['0', '1']
+501	669	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.	A man addressing a woman while another leans against a car.	contradiction	1
+502	670	A man wearing a suit with a red tie is talking to a woman wearing a dress while another woman is leaning against a red car.	A man is not addressing a woman while another leans against a car.	contradiction	1
+503	671	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.	A man is not addressing a woman while another leans against a car.	entailment	['1', '1']
+504	673	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.	A man chases a woman with a water balloon.	contradiction	0
+505	674	A man wearing a suit with a red tie is talking to a woman wearing a dress while another woman is leaning against a red car.	A man does not chase a woman with a water balloon.	entailment	1
+506	675	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.	A man does not chase a woman with a water balloon.	neutral	['1', '1']
+507	677	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.	Three people chatting after a movie let out.	neutral	0
+508	678	A man wearing a suit with a red tie is talking to a woman wearing a dress while another woman is leaning against a red car.	Three people are not chatting after a movie let out.	neutral	0
+509	679	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.	Three people are not chatting after a movie let out.	neutral	['0', '0']
+510	681	A person wearing a wetsuit does not ride a jet ski into a wave.	person riding on the water on a jet ski	contradiction	1
+511	682	A person wearing a wetsuit rides a jet ski into a wave.	person is not riding on the water on a jet ski	contradiction	1
+512	683	A person wearing a wetsuit does not ride a jet ski into a wave.	person is not riding on the water on a jet ski	entailment	['1', '1']
+513	685	A person wearing a wetsuit does not ride a jet ski into a wave.	the man is on the lake with his friends riding jet skis	neutral	0
+514	686	A person wearing a wetsuit rides a jet ski into a wave.	the man is not on the lake with his friends riding jet skis	neutral	0
+515	687	A person wearing a wetsuit does not ride a jet ski into a wave.	the man is not on the lake with his friends riding jet skis	neutral	['0', '0']
+516	689	Two people are not riding their Ski-Doos up fast rushing white waves.	The people are inside working on mTurk.	neutral	1
+517	690	Two people riding their Ski-Doos up fast rushing white waves.	The people are not inside working on mTurk.	entailment	1
+518	691	Two people are not riding their Ski-Doos up fast rushing white waves.	The people are not inside working on mTurk.	neutral	['1', '0']
+519	693	Two people are not riding their Ski-Doos up fast rushing white waves.	There are people.	entailment	0
+520	694	Two people riding their Ski-Doos up fast rushing white waves.	There are not  people.	contradiction	1
+521	695	Two people are not riding their Ski-Doos up fast rushing white waves.	There are not  people.	contradiction	['0', '1']
+522	697	Two people are not riding their Ski-Doos up fast rushing white waves.	The people are on the pacific ocean.	neutral	0
+523	698	Two people riding their Ski-Doos up fast rushing white waves.	The people are not on the pacific ocean.	neutral	0
+524	699	Two people are not riding their Ski-Doos up fast rushing white waves.	The people are not on the pacific ocean.	neutral	['0', '0']
+525	701	A man on a jet ski does not soar through the waves.	The man is jet skiing while on vacation.	neutral	0
+526	702	A man on a jet ski soars through the waves.	The man is not jet skiing while on vacation.	neutral	0
+527	703	A man on a jet ski does not soar through the waves.	The man is not jet skiing while on vacation.	neutral	['0', '0']
+528	705	A man on a jet ski does not soar through the waves.	The man is putting on suntan lotion.	neutral	1
+529	706	A man on a jet ski soars through the waves.	The man is not putting on suntan lotion.	entailment	1
+530	707	A man on a jet ski does not soar through the waves.	The man is not putting on suntan lotion.	neutral	['1', '0']
+531	709	A man on a jet ski does not soar through the waves.	A man is outside.	entailment	0
+532	710	A man on a jet ski soars through the waves.	A man is not outside.	contradiction	1
+533	711	A man on a jet ski does not soar through the waves.	A man is not outside.	contradiction	['0', '1']
+534	713	A person on a jet ski is not going over waves in an ocean.	A human on a ski	entailment	0
+535	714	A person on a jet ski is going over waves in an ocean.	A human is not on a ski	contradiction	1
+536	715	A person on a jet ski is not going over waves in an ocean.	A human is not on a ski	contradiction	['0', '1']
+537	717	A person on a jet ski is not going over waves in an ocean.	A huge human on a ski	neutral	0
+538	718	A person on a jet ski is going over waves in an ocean.	A huge human is not on a ski	neutral	0
+539	719	A person on a jet ski is not going over waves in an ocean.	A huge human is not on a ski	neutral	['0', '0']
+540	721	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are running in front of a pepsi ad.	entailment	1
+541	722	An ad showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are not running in front of a pepsi ad.	contradiction	0
+542	723	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are not running in front of a pepsi ad.	entailment	['1', '0']
+543	725	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are jogging in jerseys with a Coca Cola ad behind them.	contradiction	1
+544	726	An ad showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are not jogging in jerseys with a Coca Cola ad behind them.	contradiction	1
+545	727	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are not jogging in jerseys with a Coca Cola ad behind them.	entailment	['1', '1']
+546	729	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are running in the city.	neutral	0
+547	730	An ad showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are not running in the city.	neutral	0
+548	731	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.	Two people are not running in the city.	neutral	['0', '0']
+549	733	Young girls are not playing soccer.	There is a group of girls playing outdoors.	contradiction	1
+550	734	Young girls playing soccer.	There is not a group of girls playing outdoors.	contradiction	1
+551	735	Young girls are not playing soccer.	There is not a group of girls playing outdoors.	neutral	['1', '1']
+552	737	Young girls are not playing soccer.	There is a group of girls playing soccer.	contradiction	1
+553	738	Young girls playing soccer.	There is not a group of girls playing soccer.	contradiction	1
+554	739	Young girls are not playing soccer.	There is not a group of girls playing soccer.	entailment	['1', '1']
+555	741	A young boy, a young girl, an older woman and a man do not gather for a meal	The people are eating chicken.	neutral	0
+556	742	A young boy, a young girl, an older woman and a man gather for a meal	The people are not eating chicken.	neutral	0
+557	743	A young boy, a young girl, an older woman and a man do not gather for a meal	The people are not eating chicken.	neutral	['0', '0']
+558	745	A young boy, a young girl, an older woman and a man do not gather for a meal	The people are at church praying.	neutral	1
+559	746	A young boy, a young girl, an older woman and a man gather for a meal	The people are not at church praying.	entailment	1
+560	747	A young boy, a young girl, an older woman and a man do not gather for a meal	The people are not at church praying.	neutral	['1', '0']
+561	749	A young boy, a young girl, an older woman and a man do not gather for a meal	The people are gathered to eat.	contradiction	1
+562	750	A young boy, a young girl, an older woman and a man gather for a meal	The people are not gathered to eat.	contradiction	1
+563	751	A young boy, a young girl, an older woman and a man do not gather for a meal	The people are not gathered to eat.	entailment	['1', '1']
+564	753	An elementary schoolgirls soccer team is not practicing on the field.	girls will win the soccer game	neutral	0
+565	754	An elementary schoolgirls soccer team is practicing on the field.	girls will not win the soccer game	neutral	0
+566	755	An elementary schoolgirls soccer team is not practicing on the field.	girls will not win the soccer game	neutral	['0', '0']
+567	757	An elementary schoolgirls soccer team is not practicing on the field.	girls are going to play a game	contradiction	1
+568	758	An elementary schoolgirls soccer team is practicing on the field.	girls are not going to play a game	contradiction	1
+569	759	An elementary schoolgirls soccer team is not practicing on the field.	girls are not going to play a game	neutral	['1', '1']
+570	761	An elementary schoolgirls soccer team is not practicing on the field.	girls are sitting in the playing field.	neutral	1
+571	762	An elementary schoolgirls soccer team is practicing on the field.	girls are not sitting in the playing field.	entailment	1
+572	763	An elementary schoolgirls soccer team is not practicing on the field.	girls are not sitting in the playing field.	neutral	['1', '0']
+573	765	A group of children do not play on a soccer field.	Kids score goal in friendly game of soccer	neutral	0
+574	766	A group of children play on a soccer field.	Kids do not score goal in friendly game of soccer	neutral	0
+575	767	A group of children do not play on a soccer field.	Kids do not score goal in friendly game of soccer	neutral	['0', '0']
+576	769	A grandmother and a small child are not sitting at a table being served by a woman in a black shirt.	The grandmother and small child are inside.	neutral	1
+577	770	A grandmother and a small child are sitting at a table being served by a woman in a black shirt.	The grandmother and small child are not inside.	contradiction	1
+578	771	A grandmother and a small child are not sitting at a table being served by a woman in a black shirt.	The grandmother and small child are not inside.	neutral	['1', '0']
+579	773	A grandmother and a small child are not sitting at a table being served by a woman in a black shirt.	The child is sleeping in his carriage.	neutral	1
+580	774	A grandmother and a small child are sitting at a table being served by a woman in a black shirt.	The child is not sleeping in his carriage.	entailment	1
+581	775	A grandmother and a small child are not sitting at a table being served by a woman in a black shirt.	The child is not sleeping in his carriage.	neutral	['1', '0']
+582	777	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	Two people are sitting together.	neutral	1
+583	778	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	Two people are not sitting together.	contradiction	1
+584	779	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	Two people are not sitting together.	neutral	['1', '0']
+585	781	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A father and son eat ice cream.	neutral	1
+586	782	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	A father and son do not eat ice cream.	neutral	1
+587	783	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A father and son do not eat ice cream.	neutral	['0', '0']
+588	785	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A lady and her grandchild are being served an authentic African meal	neutral	0
+589	786	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	A lady and her grandchild are not being served an authentic African meal	neutral	0
+590	787	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A lady and her grandchild are not being served an authentic African meal	neutral	['0', '0']
+591	789	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A black servant is bringing food.	neutral	0
+592	790	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	A black servant is not bringing food.	neutral	0
+593	791	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A black servant is not bringing food.	neutral	['0', '0']
+594	793	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	An old lady and child are being served by a Frenchman	contradiction	0
+595	794	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	An old lady and child are not being served by a Frenchman	entailment	1
+596	795	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	An old lady and child are not being served by a Frenchman	entailment	['0', '1']
+597	797	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A woman and child are being served food.	entailment	0
+598	798	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	A woman and child are not  being served food.	contradiction	1
+599	799	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.	A woman and child are not  being served food.	contradiction	['0', '1']
+600	801	A girl with white and red makeup not holding a red umbrella.	A girl with black and blue makeup holding a white handkerchief.	neutral	1
+601	802	A girl with white and red makeup holding a red umbrella.	A girl with black and blue makeup not holding a white handkerchief.	neutral	1
+602	803	A girl with white and red makeup not holding a red umbrella.	A girl with black and blue makeup not holding a white handkerchief.	neutral	['0', '0']
+603	805	A girl with white and red makeup not holding a red umbrella.	A girl with white and red makeup holding a red umbrella to shield herself from the sun.	contradiction	1
+604	806	A girl with white and red makeup holding a red umbrella.	A girl with white and red makeup not holding a red umbrella to shield herself from the sun.	contradiction	1
+605	807	A girl with white and red makeup not holding a red umbrella.	A girl with white and red makeup not holding a red umbrella to shield herself from the sun.	neutral	['1', '1']
+606	809	A girl with white and red makeup not holding a red umbrella.	A girl holding an umbrella.	contradiction	1
+607	810	A girl with white and red makeup holding a red umbrella.	A girl not holding an umbrella.	contradiction	1
+608	811	A girl with white and red makeup not holding a red umbrella.	A girl not holding an umbrella.	entailment	['1', '1']
+609	813	A woman not standing under a paper umbrella.	A woman is standing up	neutral	1
+610	814	A woman stands under a paper umbrella.	A woman is not standing up	contradiction	1
+611	815	A woman not standing under a paper umbrella.	A woman is not standing up	neutral	['1', '0']
+612	817	A woman not standing under a paper umbrella.	A woman is running	neutral	1
+613	818	A woman stands under a paper umbrella.	A woman is not running	entailment	1
+614	819	A woman not standing under a paper umbrella.	A woman is not running	neutral	['1', '0']
+615	821	A person is not riding a bike on a tree.	Someone is on a bike.	neutral	1
+616	822	A person is riding a bike on a tree.	Someone is not on a bike.	contradiction	1
+617	823	A person is not riding a bike on a tree.	Someone is not on a bike.	neutral	['1', '0']
+618	825	A person is not riding a bike on a tree.	A stunt rider is balancing a bike riding across a fallen tree bridge.	contradiction	1
+619	826	A person is riding a bike on a tree.	A stunt rider is not balancing a bike riding across a fallen tree bridge.	neutral	0
+620	827	A person is not riding a bike on a tree.	A stunt rider is not balancing a bike riding across a fallen tree bridge.	neutral	['0', '1']
+621	829	A person is not riding a bike on a tree.	A guy is driving a car up a tree trunk.	entailment	1
+622	830	A person is riding a bike on a tree.	A guy is not driving a car up a tree trunk.	entailment	1
+623	831	A person is not riding a bike on a tree.	A guy is not driving a car up a tree trunk.	neutral	['1', '1']
+624	833	A girl is not standing on the rails of a boardwalk, fishing.	A girl is on a boat fishing.	neutral	1
+625	834	A girl is standing on the rails of a boardwalk, fishing.	A girl is not on a boat fishing.	entailment	1
+626	835	A girl is not standing on the rails of a boardwalk, fishing.	A girl is not on a boat fishing.	neutral	['1', '0']
+627	837	A girl is not standing on the rails of a boardwalk, fishing.	A girl is fishing.	neutral	1
+628	838	A girl is standing on the rails of a boardwalk, fishing.	A girl is not fishing.	contradiction	1
+629	839	A girl is not standing on the rails of a boardwalk, fishing.	A girl is not fishing.	neutral	['1', '0']
+630	841	A girl is not standing on the rails of a boardwalk, fishing.	A girl is fishing off of a pier with her father.	neutral	0
+631	842	A girl is standing on the rails of a boardwalk, fishing.	A girl is not fishing off of a pier with her father.	entailment	1
+632	843	A girl is not standing on the rails of a boardwalk, fishing.	A girl is not fishing off of a pier with her father.	neutral	['1', '0']
+633	845	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.	the girl is wearing a red shirt	neutral	1
+634	846	There is girl standing on the pier wearing a blue shirt and holding a fishing rod.	the girl is not wearing a red shirt	entailment	1
+635	847	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.	the girl is not wearing a red shirt	neutral	['1', '0']
+636	849	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.	the girl is fishing	entailment	0
+637	850	There is girl standing on the pier wearing a blue shirt and holding a fishing rod.	the girl is not fishing	contradiction	1
+638	851	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.	the girl is not fishing	contradiction	['0', '1']
+639	853	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.	the girl is moving the rod	neutral	0
+640	854	There is girl standing on the pier wearing a blue shirt and holding a fishing rod.	the girl is not moving the rod	neutral	0
+641	855	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.	the girl is not moving the rod	neutral	['0', '0']
+642	857	A young girl is not fishing from a dock on a lake while the sun is setting.	A girl is on the lake	neutral	0
+643	858	A young girl is fishing from a dock on a lake while the sun is setting.	A girl is not on the lake	neutral	0
+644	859	A young girl is not fishing from a dock on a lake while the sun is setting.	A girl is not on the lake	neutral	['0', '0']
+645	861	A young girl is not fishing from a dock on a lake while the sun is setting.	A young girl is fishing	contradiction	1
+646	862	A young girl is fishing from a dock on a lake while the sun is setting.	A young girl is not fishing	contradiction	1
+647	863	A young girl is not fishing from a dock on a lake while the sun is setting.	A young girl is not fishing	entailment	['1', '1']
+648	865	A young girl is not fishing from a dock on a lake while the sun is setting.	A girl is in the sun dead.	neutral	1
+649	866	A young girl is fishing from a dock on a lake while the sun is setting.	A girl is not in the sun dead.	entailment	1
+650	867	A young girl is not fishing from a dock on a lake while the sun is setting.	A girl is not in the sun dead.	neutral	['1', '0']
+651	869	a young woman not fishing off a dock at sunset.	A woman casting her last lure in the water for the day.	neutral	0
+652	870	a young woman fishing off a dock at sunset.	A woman not casting her last lure in the water for the day.	neutral	0
+653	871	a young woman not fishing off a dock at sunset.	A woman not casting her last lure in the water for the day.	neutral	['0', '0']
+654	873	a young woman not fishing off a dock at sunset.	A woman dressing a fish.	neutral	1
+655	874	a young woman fishing off a dock at sunset.	A woman not dressing a fish.	entailment	1
+656	875	a young woman not fishing off a dock at sunset.	A woman not dressing a fish.	neutral	['1', '0']
+657	877	a young woman not fishing off a dock at sunset.	Woman fishing.	contradiction	1
+658	878	a young woman fishing off a dock at sunset.	Woman not fishing.	contradiction	1
+659	879	a young woman not fishing off a dock at sunset.	Woman not fishing.	entailment	['1', '1']
+660	881	The man is not skateboarding down the railing in the middle of the steps.	a man on a skateboard	contradiction	1
+661	882	The man is skateboarding down the railing in the middle of the steps.	a man not on a skateboard	contradiction	1
+662	883	The man is not skateboarding down the railing in the middle of the steps.	a man not on a skateboard	entailment	['1', '1']
+663	885	The man is not skateboarding down the railing in the middle of the steps.	a man eating pie	neutral	1
+664	886	The man is skateboarding down the railing in the middle of the steps.	a man not eating pie	entailment	1
+665	887	The man is not skateboarding down the railing in the middle of the steps.	a man not eating pie	neutral	['1', '0']
+666	889	The man is not skateboarding down the railing in the middle of the steps.	a pro skater grinds down a rail	contradiction	1
+667	890	The man is skateboarding down the railing in the middle of the steps.	a pro skater not grinding down a rail	neutral	0
+668	891	The man is not skateboarding down the railing in the middle of the steps.	a pro skater not grinding down a rail	neutral	['0', '1']
+669	893	An older gentleman not wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	The man and his dog are going to a parade.	neutral	0
+670	894	An older gentleman wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	The man and his dog are not going to a parade.	neutral	0
+671	895	An older gentleman not wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	The man and his dog are not going to a parade.	neutral	['0', '0']
+672	897	An older gentleman not wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	A man holds a dog that has dyed fur.	entailment	0
+673	898	An older gentleman wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	A man not holding a dog that has dyed fur.	contradiction	1
+674	899	An older gentleman not wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	A man not holding a dog that has dyed fur.	contradiction	['0', '1']
+675	901	girls not sitting with their hands on their laps	the girls sit together before school	neutral	0
+676	902	girls sitting with their hands on their laps	the girls do not sit together before school	neutral	0
+677	903	girls not sitting with their hands on their laps	the girls do not sit together before school	neutral	['0', '0']
+678	905	girls not sitting with their hands on their laps	the girls sit together	neutral	1
+679	906	girls sitting with their hands on their laps	the girls do not sit together	contradiction	1
+680	907	girls not sitting with their hands on their laps	the girls do not sit together	neutral	['1', '0']
+681	909	A man not sitting in an office on a computer.	The man is surfing the internet.	neutral	0
+682	910	A man sitting in an office on a computer.	The man is not surfing the internet.	neutral	0
+683	911	A man not sitting in an office on a computer.	The man is not surfing the internet.	neutral	['0', '0']
+684	913	A man not sitting in an office on a computer.	The man is on the computer in his office.	contradiction	1
+685	914	A man sitting in an office on a computer.	The man is not on the computer in his office.	contradiction	1
+686	915	A man not sitting in an office on a computer.	The man is not on the computer in his office.	entailment	['1', '1']
+687	917	A man not sitting in an office on a computer.	The man is cleaning his dek.	neutral	1
+688	918	A man sitting in an office on a computer.	The man is not cleaning his dek.	entailment	1
+689	919	A man not sitting in an office on a computer.	The man is not cleaning his dek.	neutral	['1', '0']
+690	921	A man at his desk is not reading from his computer monitor.	a person is reading	contradiction	1
+691	922	A man at his desk is reading from his computer monitor.	a person is not reading	contradiction	1
+692	923	A man at his desk is not reading from his computer monitor.	a person is not reading	entailment	['1', '1']
+693	925	A man at his desk is not reading from his computer monitor.	A man reads the newspaper online over coffee	neutral	0
+694	926	A man at his desk is reading from his computer monitor.	A man does not read the newspaper online over coffee	neutral	0
+695	927	A man at his desk is not reading from his computer monitor.	A man does not read the newspaper online over coffee	neutral	['0', '0']
+696	929	A man at his desk is not reading from his computer monitor.	A man spelunks in a cave	contradiction	0
+697	930	A man at his desk is reading from his computer monitor.	A man not spelunking in a cave	entailment	1
+698	931	A man at his desk is not reading from his computer monitor.	A man not spelunking in a cave	entailment	['0', '1']
+699	933	A group of young women are not sitting down outside.	There are young women outside.	contradiction	1
+700	934	A group of young women are sitting down outside.	There are not young women outside.	contradiction	1
+701	935	A group of young women are not sitting down outside.	There are not young women outside.	entailment	['1', '1']
+702	937	A group of young women are not sitting down outside.	The young women are waiting to meet Vladimir Putin.	neutral	0
+703	938	A group of young women are sitting down outside.	The young women are not waiting to meet Vladimir Putin.	neutral	0
+704	939	A group of young women are not sitting down outside.	The young women are not waiting to meet Vladimir Putin.	neutral	['0', '0']
+705	941	A group of nicely-dressed women are not sitting together.	People sitting together.	contradiction	1
+706	942	A group of nicely-dressed women are sitting together.	People not sitting together.	contradiction	1
+707	943	A group of nicely-dressed women are not sitting together.	People not sitting together.	entailment	['1', '1']
+708	945	A group of nicely-dressed women are not sitting together.	Women sitting together for a picnic.	contradiction	1
+709	946	A group of nicely-dressed women are sitting together.	Women not sitting together for a picnic.	neutral	0
+710	947	A group of nicely-dressed women are not sitting together.	Women not sitting together for a picnic.	neutral	['0', '1']
+711	949	A group of nicely-dressed women are not sitting together.	Naked women standing together.	contradiction	0
+712	950	A group of nicely-dressed women are sitting together.	Naked women not standing together.	contradiction	0
+713	951	A group of nicely-dressed women are not sitting together.	Naked women not standing together.	contradiction	['0', '0']
+714	953	A couple is not walking down the street.	A couple is holding hands walking.	contradiction	1
+715	954	A couple is walking down the street.	A couple is not holding hands walking.	neutral	0
+716	955	A couple is not walking down the street.	A couple is not holding hands walking.	neutral	['0', '1']
+717	957	A couple is not walking down the street.	A couple sit down to eat dinner.	neutral	1
+718	958	A couple is walking down the street.	A couple are not sitting down to eat dinner.	entailment	1
+719	959	A couple is not walking down the street.	A couple are not sitting down to eat dinner.	neutral	['1', '0']
+720	961	A couple is not walking down the street.	A duo is strolling down the road.	contradiction	1
+721	962	A couple is walking down the street.	A duo is not strolling down the road.	contradiction	1
+722	963	A couple is not walking down the street.	A duo is not strolling down the road.	entailment	['1', '1']
+723	965	There is not a hockey player in the middle of a game.	The person is playing guitar for his friends.	neutral	1
+724	966	There is a hockey player in the middle of a game.	The person is not playing guitar for his friends.	neutral	1
+725	967	There is not a hockey player in the middle of a game.	The person is not playing guitar for his friends.	neutral	['0', '0']
+726	969	There is a not hockey player in the middle of a game.	A hockey player is getting ready to take a shot.	contradiction	1
+727	970	There is a hockey player in the middle of a game.	A hockey player is not getting ready to take a shot.	neutral	0
+728	971	There is a not hockey player in the middle of a game.	A hockey player is not getting ready to take a shot.	contradiction	['1', '0']
+729	973	There is not a hockey player in the middle of a game.	A person is playing hockey.	contradiction	1
+730	974	There is a hockey player in the middle of a game.	A person is not playing hockey.	contradiction	1
+731	975	There is not a hockey player in the middle of a game.	A person is not playing hockey.	entailment	['1', '1']
+732	977	This is not a hockey player in a red and white uniform and a white helmet.	A hockey player is dressed in a team uniform.	contradiction	1
+733	978	This is a hockey player in a red and white uniform and a white helmet.	A hockey player is not dressed in a team uniform.	contradiction	1
+734	979	This is not a hockey player in a red and white uniform and a white helmet.	A hockey player is not dressed in a team uniform.	entailment	['1', '1']
+735	981	This is not a hockey player in a red and white uniform and a white helmet.	A hockey player is skating on ice.	neutral	0
+736	982	This is a hockey player in a red and white uniform and a white helmet.	A hockey player is not skating on ice.	neutral	0
+737	983	This is not a hockey player in a red and white uniform and a white helmet.	A hockey player is not skating on ice.	neutral	['0', '0']
+738	985	Men not walking outside near a castle.	There are men walking near a German castle.	contradiction	1
+739	986	Men walking outside near a castle.	There are not men walking near a German castle.	contradiction	1
+740	987	Men not walking outside near a castle.	There are not men walking near a German castle.	entailment	['1', '1']
+741	989	Men not walking outside near a castle.	There are men running near a lake.	neutral	1
+742	990	Men walking outside near a castle.	There are not men running near a lake.	neutral	1
+743	991	Men not walking outside near a castle.	There are not men running near a lake.	neutral	['0', '0']
+744	993	Men not walking outside near a castle.	There are men walking.	contradiction	1
+745	994	Men walking outside near a castle.	There are not men walking.	contradiction	1
+746	995	Men not walking outside near a castle.	There are not men walking.	entailment	['1', '1']
+747	997	family not getting ready for wedding.	A family getting ready for a wedding.	contradiction	1
+748	998	family getting ready for wedding.	A family not getting ready for a wedding.	contradiction	1
+749	999	family not getting ready for wedding.	A family not getting ready for a wedding.	entailment	['1', '1']
+750	1001	family not getting ready for wedding.	A family sleeping in the living room.	neutral	1
+751	1002	family getting ready for wedding.	A family not sleeping in the living room.	entailment	1
+752	1003	family not getting ready for wedding.	A family not sleeping in the living room.	neutral	['1', '0']
+753	1005	family not getting ready for wedding.	A white family getting ready for a wedding.	contradiction	1
+754	1006	family getting ready for wedding.	A white family not getting ready for a wedding.	neutral	0
+755	1007	family not getting ready for wedding.	A white family not getting ready for a wedding.	neutral	['0', '1']
+756	1009	Person is not riding a bike with blue tires up a tree.	The person is asleep on the bedspread.	neutral	1
+757	1010	Person is riding a bike with blue tires up a tree.	The person is not asleep on the bedspread.	entailment	1
+758	1011	Person is not riding a bike with blue tires up a tree.	The person is not asleep on the bedspread.	neutral	['1', '0']
+759	1013	Person is not riding a bike with blue tires up a tree.	There is a person on a bike.	neutral	1
+760	1014	Person is riding a bike with blue tires up a tree.	There is not a person on a bike.	contradiction	1
+761	1015	Person is not riding a bike with blue tires up a tree.	There is not a person on a bike.	neutral	['1', '0']
+762	1017	Person is not riding a bike with blue tires up a tree.	The person is a female.	neutral	0
+763	1018	Person is riding a bike with blue tires up a tree.	The person is not a female.	neutral	0
+764	1019	Person is not riding a bike with blue tires up a tree.	The person is not a female.	neutral	['0', '0']
+765	1021	People not lining up and getting ready for Flag day in France.	People are starting to buy flags.	neutral	0
+766	1022	People lining up and getting ready for Flag day in France.	People are not starting to buy flags.	neutral	0
+767	1023	People not lining up and getting ready for Flag day in France.	People are not starting to buy flags.	neutral	['0', '0']
+768	1025	People not lining up and getting ready for Flag day in France.	People are burning flags in the street.	neutral	1
+769	1026	People lining up and getting ready for Flag day in France.	People are not burning flags in the street.	neutral	1
+770	1027	People not lining up and getting ready for Flag day in France.	People are not burning flags in the street.	neutral	['0', '0']
+771	1029	People not lining up and getting ready for Flag day in France.	People are celebrating Flag Day.	neutral	1
+772	1030	People lining up and getting ready for Flag day in France.	People are not celebrating Flag Day.	contradiction	1
+773	1031	People not lining up and getting ready for Flag day in France.	People are not celebrating Flag Day.	neutral	['1', '0']
+774	1033	seven well dressed people do not stand in a church.	Seven people attend a church service.	neutral	0
+775	1034	seven well dressed people stand in a church.	Seven people do not attend a church service.	contradiction	1
+776	1035	seven well dressed people do not stand in a church.	Seven people do not attend a church service.	neutral	['1', '0']
+777	1037	seven well dressed people do not stand in a church.	Seven people bet on the ponies.	neutral	1
+778	1038	seven well dressed people stand in a church.	Seven people do not bet on the ponies.	neutral	1
+779	1039	seven well dressed people do not stand in a church.	Seven people do not bet on the ponies.	neutral	['0', '0']
+780	1041	seven well dressed people do not stand in a church.	People stand in a church.	contradiction	1
+781	1042	seven well dressed people stand in a church.	People do not stand in a church.	contradiction	1
+782	1043	seven well dressed people do not stand in a church.	People do not stand in a church.	entailment	['1', '1']
+783	1045	A son and his parents are not taking a group picture in a church.	A son and his parents are worshipping in the church	neutral	1
+784	1046	A son and his parents are taking a group picture in a church.	A son and his parents are not worshipping in the church	neutral	1
+785	1047	A son and his parents are not taking a group picture in a church.	A son and his parents are not worshipping in the church	neutral	['0', '0']
+786	1049	A son and his parents are not taking a group picture in a church.	A son and his parents are standing in front fo the church for a selfie	neutral	0
+787	1050	A son and his parents are taking a group picture in a church.	A son and his parents are not standing in front fo the church for a selfie	neutral	0
+788	1051	A son and his parents are not taking a group picture in a church.	A son and his parents are not standing in front fo the church for a selfie	neutral	['0', '0']
+789	1053	A son and his parents are not taking a group picture in a church.	A son and his parents are in the picture	contradiction	1
+790	1054	A son and his parents are taking a group picture in a church.	A son and his parents are not in the picture	contradiction	1
+791	1055	A son and his parents are not taking a group picture in a church.	A son and his parents are not in the picture	entailment	['1', '1']
+792	1057	Two men not staring into space.	People are looking at the cosmos.	contradiction	1
+793	1058	Two men staring into space.	People are not looking at the cosmos.	contradiction	1
+794	1059	Two men not staring into space.	People are not looking at the cosmos.	neutral	['1', '1']
+795	1061	Two men not staring into space.	The men are in an underground bunker.	neutral	1
+796	1062	Two men staring into space.	The men are not in an underground bunker.	entailment	1
+797	1063	Two men not staring into space.	The men are not in an underground bunker.	neutral	['1', '0']
+798	1065	Two men not staring into space.	The men are looking up at the sky.	contradiction	1
+799	1066	Two men staring into space.	The men are not looking up at the sky.	contradiction	1
+800	1067	Two men not staring into space.	The men are not looking up at the sky.	entailment	['1', '1']
+801	1069	Two boys are not sitting to a table filled with food and snacks.	The two young kids waited patiently at the table, hoping their parents would allow them to eat all the tableful of snacks!	contradiction	1
+802	1070	Two boys are sitting to a table filled with food and snacks.	The two young kids did not wait patiently at the table, hoping their parents would allow them to eat all the tableful of snacks!	neutral	0
+803	1071	Two boys are not sitting to a table filled with food and snacks.	The two young kids did not wait patiently at the table, hoping their parents would allow them to eat all the tableful of snacks!	neutral	['0', '1']
+804	1073	Two boys are not sitting to a table filled with food and snacks.	Two young boys, candy bars and other snacks jammed in their pockets, ran across the field to get away from the store clerk.	neutral	1
+805	1074	Two boys are sitting to a table filled with food and snacks.	Two young boys, candy bars and other snacks jammed in their pockets, did not run across the field to get away from the store clerk.	neutral	1
+806	1075	Two boys are not sitting to a table filled with food and snacks.	Two young boys, candy bars and other snacks jammed in their pockets, did not run across the field to get away from the store clerk.	neutral	['0', '0']
+807	1077	Two boys are not sitting to a table filled with food and snacks.	The table was covered with lots of food.	neutral	1
+808	1078	Two boys are sitting to a table filled with food and snacks.	The table was not covered with lots of food.	contradiction	1
+809	1079	Two boys are not sitting to a table filled with food and snacks.	The table was not covered with lots of food.	contradiction	['0', '1']
+810	1081	Two teenagers are not staring across a table.	Two teenagers are facing each other.	neutral	1
+811	1082	Two teenagers are staring across a table.	Two teenagers are not facing each other.	contradiction	1
+812	1083	Two teenagers are not staring across a table.	Two teenagers are not facing each other.	neutral	['1', '0']
+813	1085	Two teenagers are not staring across a table.	The two teenagers are having a staring contest.	neutral	0
+814	1086	Two teenagers are staring across a table.	The two teenagers are not having a staring contest.	neutral	0
+815	1087	Two teenagers are not staring across a table.	The two teenagers are not having a staring contest.	neutral	['0', '0']
+816	1089	Two teenagers are not staring across a table.	One of the teenagers is looking to the left and the other to the right.	neutral	1
+817	1090	Two teenagers are staring across a table.	One of the teenagers is not looking to the left and the other to the right.	neutral	1
+818	1091	Two teenagers are not staring across a table.	One of the teenagers is not looking to the left and the other to the right.	neutral	['0', '0']
+819	1093	There is not two young men sitting at a table and there is cookies and cups on the table.	Two men share a meal.	contradiction	1
+820	1094	There is two young men sitting at a table and there is cookies and cups on the table.	Two men do not share a meal.	contradiction	1
+821	1095	There is not two young men sitting at a table and there is cookies and cups on the table.	Two men do not share a meal.	neutral	['1', '1']
+822	1097	There is not two young men sitting at a table and there is cookies and cups on the table.	People out having chicken wings.	neutral	1
+823	1098	There is two young men sitting at a table and there is cookies and cups on the table.	People not out having chicken wings.	neutral	1
+824	1099	There is not two young men sitting at a table and there is cookies and cups on the table.	People not out having chicken wings.	neutral	['0', '0']
+825	1101	There is not two young men sitting at a table and there is cookies and cups on the table.	Two men are eating dessert.	neutral	0
+826	1102	There is two young men sitting at a table and there is cookies and cups on the table.	Two men are not eating dessert.	neutral	0
+827	1103	There is not two young men sitting at a table and there is cookies and cups on the table.	Two men are not eating dessert.	neutral	['0', '0']
+828	1105	Two young men with curly hair are not seated at a table, eating.	Two young men are throwing up.	neutral	1
+829	1106	Two young men with curly hair are seated at a table, eating.	Two young men are not throwing up.	entailment	1
+830	1107	Two young men with curly hair are not seated at a table, eating.	Two young men are not throwing up.	neutral	['1', '0']
+831	1109	Two young men with curly hair are not seated at a table, eating.	Two young men are eating chinese food.	neutral	0
+832	1110	Two young men with curly hair are seated at a table, eating.	Two young men are not eating chinese food.	neutral	0
+833	1111	Two young men with curly hair are not seated at a table, eating.	Two young men are not eating chinese food.	neutral	['0', '0']
+834	1113	Two young men with curly hair are not seated at a table, eating.	Two young men are eating.	entailment	0
+835	1114	Two young men with curly hair are seated at a table, eating.	Two young men are not eating.	contradiction	1
+836	1115	Two young men with curly hair are not seated at a table, eating.	Two young men are not eating.	contradiction	['0', '1']
+837	1117	A woman wearing boots is not praying on the ground	A woman in boots is praying as she jumps in the air.	neutral	1
+838	1118	A woman wearing boots is praying on the ground	A woman in boots is not praying as she jumps in the air.	neutral	1
+839	1119	A woman wearing boots is not praying on the ground	A woman in boots is not praying as she jumps in the air.	neutral	['0', '0']
+840	1121	A woman wearing boots is not praying on the ground	A person with footwear is engaged in a religious activity.	contradiction	1
+841	1122	A woman wearing boots is praying on the ground	A person with footwear is not engaged in a religious activity.	contradiction	1
+842	1123	A woman wearing boots is not praying on the ground	A person with footwear is not engaged in a religious activity.	entailment	['1', '1']
+843	1125	A woman wearing boots is not praying on the ground	A woman prays on the ground with her hands clasped.	contradiction	1
+844	1126	A woman wearing boots is praying on the ground	A woman is not praying on the ground with her hands clasped.	neutral	0
+845	1127	A woman wearing boots is not praying on the ground	A woman is not praying on the ground with her hands clasped.	neutral	['0', '1']
+846	1129	A maintenance worker on hands and knees not cleaning out drainage ditch.	A worker cleans out a drainage ditch.	contradiction	1
+847	1130	A maintenance worker on hands and knees cleaning out drainage ditch.	A worker does not clean out a drainage ditch.	contradiction	1
+848	1131	A maintenance worker on hands and knees not cleaning out drainage ditch.	A worker does not clean out a drainage ditch.	entailment	['1', '1']
+849	1133	A maintenance worker on hands and knees not cleaning out drainage ditch.	A female worker dances on a stripper pole.	neutral	1
+850	1134	A maintenance worker on hands and knees cleaning out drainage ditch.	A female worker not dancing on a stripper pole.	neutral	1
+851	1135	A maintenance worker on hands and knees not cleaning out drainage ditch.	A female worker not dancing on a stripper pole.	neutral	['0', '0']
+852	1137	A maintenance worker on hands and knees not cleaning out drainage ditch.	A female worker cleans out a ditch.	contradiction	1
+853	1138	A maintenance worker on hands and knees cleaning out drainage ditch.	A female worker does not clean out a ditch.	contradiction	1
+854	1139	A maintenance worker on hands and knees not cleaning out drainage ditch.	A female worker does not clean out a ditch.	neutral	['1', '1']
+855	1141	A worker is not on their hands and knees at a work site by a white fence.	The worker is painting the fence	neutral	0
+856	1142	A worker is on their hands and knees at a work site by a white fence.	The worker is not painting the fence	neutral	0
+857	1143	A worker is not on their hands and knees at a work site by a white fence.	The worker is not painting the fence	neutral	['0', '0']
+858	1145	A worker is not on their hands and knees at a work site by a white fence.	The worker is working on a fence	contradiction	1
+859	1146	A worker is on their hands and knees at a work site by a white fence.	The worker is not working on a fence	contradiction	1
+860	1147	A worker is not on their hands and knees at a work site by a white fence.	The worker is not working on a fence	entailment	['1', '1']
+861	1149	A worker is not on their hands and knees at a work site by a white fence.	The worker urinating on the fence	neutral	1
+862	1150	A worker is on their hands and knees at a work site by a white fence.	The worker not urinating on the fence	neutral	1
+863	1151	A worker is not on their hands and knees at a work site by a white fence.	The worker not urinating on the fence	neutral	['0', '0']
+864	1153	A person not on their knees looking for something.	A person standing in a room.	neutral	1
+865	1154	A person on their knees looking for something.	A person not standing in a room.	neutral	1
+866	1155	A person not on their knees looking for something.	A person not standing in a room.	neutral	['0', '0']
+867	1157	A person not on their knees looking for something.	A person lost their keys and are looking for it.	neutral	0
+868	1158	A person on their knees looking for something.	A person lost their keys and are not looking for it.	neutral	0
+869	1159	A person not on their knees looking for something.	A person lost their keys and are not looking for it.	neutral	['0', '0']
+870	1161	A person not on their knees looking for something.	A person looking for something.	contradiction	1
+871	1162	A person on their knees looking for something.	A person not looking for something.	contradiction	1
+872	1163	A person not on their knees looking for something.	A person not looking for something.	entailment	['1', '1']
+873	1165	A man not attempting to fix a broken concrete wall.	A man working on a wall that is broken.	contradiction	1
+874	1166	A man attempting to fix a broken concrete wall.	A man not working on a wall that is broken.	contradiction	1
+875	1167	A man not attempting to fix a broken concrete wall.	A man not working on a wall that is broken.	entailment	['1', '1']
+876	1169	A man not attempting to fix a broken concrete wall.	A man taking a nap against a concrete wall.	neutral	1
+877	1170	A man attempting to fix a broken concrete wall.	A man not taking a nap against a concrete wall.	neutral	1
+878	1171	A man not attempting to fix a broken concrete wall.	A man not taking a nap against a concrete wall.	neutral	['0', '0']
+879	1173	A man not attempting to fix a broken concrete wall.	A man working on a wall that was broken by a car driving into it.	contradiction	1
+880	1174	A man attempting to fix a broken concrete wall.	A man not working on a wall that was broken by a car driving into it.	contradiction	1
+881	1175	A man not attempting to fix a broken concrete wall.	A man not working on a wall that was broken by a car driving into it.	neutral	['1', '1']
+882	1177	Two people do not talk while sitting by a desk.	Two people discuss their day in the office.	contradiction	1
+883	1178	Two people talk while sitting by a desk.	Two people do not discuss their day in the office.	neutral	0
+884	1179	Two people do not talk while sitting by a desk.	Two people do not discuss their day in the office.	entailment	['1', '1']
+885	1181	Two people do not talk while sitting by a desk.	Two people are standing at the water cooler.	neutral	1
+886	1182	Two people talk while sitting by a desk.	Two people are not standing at the water cooler.	entailment	1
+887	1183	Two people do not talk while sitting by a desk.	Two people are not standing at the water cooler.	neutral	['1', '0']
+888	1185	Two people do not talk while sitting by a desk.	People are sitting by a desk.	entailment	0
+889	1186	Two people talk while sitting by a desk.	People are not sitting by a desk.	contradiction	1
+890	1187	Two people do not talk while sitting by a desk.	People are not sitting by a desk.	contradiction	['0', '1']
+891	1189	Two tennis players are not talking on the tennis courts.	Everyone is at a volleyball court.	neutral	1
+892	1190	Two tennis players are talking on the tennis courts.	Everyone is not at a volleyball court.	entailment	1
+893	1191	Two tennis players are not talking on the tennis courts.	Everyone is not at a volleyball court.	neutral	['1', '0']
+894	1193	Two tennis players are not talking on the tennis courts.	Someone is about to serve.	neutral	0
+895	1194	Two tennis players are talking on the tennis courts.	Someone is not about to serve.	neutral	0
+896	1195	Two tennis players are not talking on the tennis courts.	Someone is not about to serve.	neutral	['0', '0']
+897	1197	Two tennis players are not talking on the tennis courts.	The ground is green.	neutral	1
+898	1198	Two tennis players are talking on the tennis courts.	The ground is not green.	neutral	1
+899	1199	Two tennis players are not talking on the tennis courts.	The ground is not green.	neutral	['0', '0']
+900	1201	A person on a horse doesn't jump over a broken down airplane.	A person is training his horse for a competition.	neutral	0
+901	1202	A person on a horse jumps over a broken down airplane.	A person is not training his horse for a competition.	neutral	0
+902	1203	A person on a horse doesn't jump over a broken down airplane.	A person is not training his horse for a competition.	neutral	['0', '0']
+903	1205	Two dogs are not biting on a Frisbee in the pond.	The dogs are indoors.	neutral	1
+904	1206	Two dogs biting on a Frisbee in the pond.	The dogs are not indoors.	entailment	1
+905	1207	Two dogs are not biting on a Frisbee in the pond.	The dogs are not indoors.	neutral	['1', '0']
+906	1209	A person on a horse doesn't jump over a broken down airplane.	A person is outdoors, on a horse.	entailment	0
+907	1210	A person on a horse jumps over a broken down airplane.	A person is not outdoors, on a horse.	contradiction	1
+908	1211	A person on a horse doesn't jump over a broken down airplane.	A person is not outdoors, on a horse.	contradiction	['0', '1']
+909	1213	A yellow uniformed skier is not performing a trick across a railed object.	A snowboarder is riding a ski lift.	neutral	1
+910	1214	A yellow uniformed skier is performing a trick across a railed object.	A snowboarder is not riding a ski lift.	neutral	1
+911	1215	A yellow uniformed skier is not performing a trick across a railed object.	A snowboarder is not riding a ski lift.	neutral	['0', '0']
+912	1217	A yellow uniformed skier is not performing a trick across a railed object.	A skier is competing in a competition.	neutral	0
+913	1218	A yellow uniformed skier is performing a trick across a railed object.	A skier is not competing in a competition.	neutral	0
+914	1219	A yellow uniformed skier is not performing a trick across a railed object.	A skier is not competing in a competition.	neutral	['0', '0']
+915	1221	A yellow uniformed skier is not performing a trick across a railed object.	Somebody is engaging in winter sports.	neutral	1
+916	1222	A yellow uniformed skier is performing a trick across a railed object.	Somebody is not engaging in winter sports.	contradiction	1
+917	1223	A yellow uniformed skier is not performing a trick across a railed object.	Somebody is not engaging in winter sports.	neutral	['1', '0']
+918	1225	A boy is not jumping on skateboard in the middle of a red bridge.	The boy skates down the sidewalk.	neutral	1
+919	1226	A boy is jumping on skateboard in the middle of a red bridge.	The boy doesn't skates down the sidewalk.	entailment	1
+920	1227	A boy is not jumping on skateboard in the middle of a red bridge.	The boy doesn't skates down the sidewalk.	neutral	['1', '0']
+921	1229	A boy is not jumping on skateboard in the middle of a red bridge.	The boy does a skateboarding trick.	neutral	1
+922	1230	A boy is jumping on skateboard in the middle of a red bridge.	The boy does not a skateboarding trick.	contradiction	1
+923	1231	A boy is not jumping on skateboard in the middle of a red bridge.	The boy does not a skateboarding trick.	neutral	['1', '0']
+924	1233	A boy is not jumping on skateboard in the middle of a red bridge.	The boy is wearing safety equipment.	neutral	0
+925	1234	A boy is jumping on skateboard in the middle of a red bridge.	The boy is not wearing safety equipment.	neutral	0
+926	1235	A boy is not jumping on skateboard in the middle of a red bridge.	The boy is not wearing safety equipment.	neutral	['0', '0']
+927	1237	A skier doesn't slide along a metal rail.	A skier is near the rail looking down.	neutral	0
+928	1238	A skier slides along a metal rail.	A skier is not near the rail looking down.	neutral	0
+929	1239	A skier doesn't slide along a metal rail.	A skier is not near the rail looking down.	neutral	['0', '0']
+930	1241	A skier doesn't slide along a metal rail.	A skier is near the rail.	contradiction	1
+931	1242	A skier slides along a metal rail.	A skier is not near the rail.	contradiction	1
+932	1243	A skier doesn't slide along a metal rail.	A skier is not near the rail.	neutral	['1', '1']
+933	1245	A skier doesn't slide along a metal rail.	A skier is away from the rail.	neutral	1
+934	1246	A skier slides along a metal rail.	A skier is not away from the rail.	entailment	1
+935	1247	A skier doesn't slide along a metal rail.	A skier is not away from the rail.	neutral	['1', '0']
+936	1249	Two blond women are not hugging one another.	Some women are hugging on vacation.	contradiction	1
+937	1250	Two blond women are hugging one another.	Some women are not hugging on vacation.	neutral	0
+938	1251	Two blond women are not hugging one another.	Some women are not hugging on vacation.	neutral	['0', '1']
+939	1253	Two blond women are not hugging one another.	The women are sleeping.	neutral	1
+940	1254	Two blond women are hugging one another.	The women are not sleeping.	entailment	1
+941	1255	Two blond women are not hugging one another.	The women are not sleeping.	neutral	['1', '0']
+942	1257	Two blond women are not hugging one another.	There are women showing affection.	neutral	1
+943	1258	Two blond women are hugging one another.	There are not women showing affection.	contradiction	1
+944	1259	Two blond women are not hugging one another.	There are not women showing affection.	neutral	['1', '0']
+945	1261	A few people in a restaurant setting, one of them is not drinking orange juice.	The people are eating omelettes.	neutral	0
+946	1262	A few people in a restaurant setting, one of them is drinking orange juice.	The people are not eating omelettes.	neutral	0
+947	1263	A few people in a restaurant setting, one of them is not drinking orange juice.	The people are not eating omelettes.	neutral	['0', '0']
+948	1265	A few people in a restaurant setting, one of them is not drinking orange juice.	The people are sitting at desks in school.	contradiction	0
+949	1266	A few people in a restaurant setting, one of them is drinking orange juice.	The people are not sitting at desks in school.	entailment	1
+950	1267	A few people in a restaurant setting, one of them is not drinking orange juice.	The people are not sitting at desks in school.	entailment	['0', '1']
+951	1269	A few people in a restaurant setting, one of them is not drinking orange juice.	The diners are at a restaurant.	entailment	0
+952	1270	A few people in a restaurant setting, one of them is drinking orange juice.	The diners are not at a restaurant.	contradiction	1
+953	1271	A few people in a restaurant setting, one of them is not drinking orange juice.	The diners are not at a restaurant.	contradiction	['0', '1']
+954	1273	An older man is not drinking orange juice at a restaurant.	A man is drinking juice.	neutral	1
+955	1274	An older man is drinking orange juice at a restaurant.	A man is not drinking juice.	contradiction	1
+956	1275	An older man is not drinking orange juice at a restaurant.	A man is not drinking juice.	entailment	['1', '1']
+957	1277	An older man is not drinking orange juice at a restaurant.	Two women are at a restaurant drinking wine.	neutral	1
+958	1278	An older man is drinking orange juice at a restaurant.	Two women are not at a restaurant drinking wine.	neutral	1
+959	1279	An older man is not drinking orange juice at a restaurant.	Two women are not at a restaurant drinking wine.	neutral	['0', '0']
+960	1281	An older man is not drinking orange juice at a restaurant.	A man in a restaurant is waiting for his meal to arrive.	neutral	0
+961	1282	An older man is drinking orange juice at a restaurant.	A man in a restaurant is not waiting for his meal to arrive.	neutral	0
+962	1283	An older man is not drinking orange juice at a restaurant.	A man in a restaurant is not waiting for his meal to arrive.	neutral	['0', '0']
+963	1285	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.	A blond man getting a drink of water from a fountain in the park.	contradiction	1
+964	1286	A man with blond-hair, and a brown shirt drinking out of a public water fountain.	A blond man is not getting a drink of water from a fountain in the park.	neutral	0
+965	1287	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.	A blond man is not getting a drink of water from a fountain in the park.	neutral	['0', '1']
+966	1289	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.	A blond man wearing a brown shirt is reading a book on a bench in the park	neutral	1
+967	1290	A man with blond-hair, and a brown shirt drinking out of a public water fountain.	A blond man is not wearing a brown shirt is reading a book on a bench in the park	entailment	1
+968	1291	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.	A blond man is not wearing a brown shirt is reading a book on a bench in the park	neutral	['1', '0']
+969	1293	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.	A blond man drinking water from a fountain.	contradiction	1
+970	1294	A man with blond-hair, and a brown shirt drinking out of a public water fountain.	A blond man is not drinknig water from a fountain.	contradiction	1
+971	1295	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.	A blond man is not drinknig water from a fountain.	entailment	['1', '1']
+972	1297	A blond man is not drinking from a public fountain.	The man is drinking water.	neutral	1
+973	1298	A blond man is drinking from a public fountain.	The man is not drinking water.	contradiction	1
+974	1299	A blond man is not drinking from a public fountain.	The man is not drinking water.	neutral	['1', '0']
+975	1301	A blond man is not drinking from a public fountain.	The man is very thirsty.	neutral	0
+976	1302	A blond man is drinking from a public fountain.	The man is not very thirsty.	neutral	0
+977	1303	A blond man is not drinking from a public fountain.	The man is not very thirsty.	neutral	['0', '0']
+978	1305	A blond man is not drinking from a public fountain.	The man is drinking coffee.	neutral	1
+979	1306	A blond man is drinking from a public fountain.	The man is not drinking coffee.	entailment	1
+980	1307	A blond man is not drinking from a public fountain.	The man is not drinking coffee.	neutral	['1', '0']
+981	1309	Wet brown dog does not swim towards camera.	The dog is sleeping in his bed.	neutral	1
+982	1310	Wet brown dog swims towards camera.	The dog is not sleeping in his bed.	entailment	1
+983	1311	Wet brown dog does not swim towards camera.	The dog is not sleeping in his bed.	neutral	['1', '0']
+984	1313	Wet brown dog does not swim towards camera.	A dog is playing fetch in a pond.	neutral	0
+985	1314	Wet brown dog swims towards camera.	A dog is not playing fetch in a pond.	neutral	0
+986	1315	Wet brown dog does not swim towards camera.	A dog is not playing fetch in a pond.	neutral	['0', '0']
+987	1317	Wet brown dog does not swim towards camera.	A dog is in the water.	neutral	1
+988	1318	Wet brown dog swims towards camera.	A dog is not in the water.	contradiction	1
+989	1319	Wet brown dog does not swim towards camera.	A dog is not in the water.	neutral	['1', '0']
+990	1321	The furry brown dog is not swimming in the ocean.	A dog is chasing a fish.	contradiction	1
+991	1322	The furry brown dog is swimming in the ocean.	A dog is not chasing a fish.	neutral	0
+992	1323	The furry brown dog is not swimming in the ocean.	A dog is not chasing a fish.	neutral	['0', '1']
+993	1325	The furry brown dog is not swimming in the ocean.	A dog is swimming.	contradiction	1
+994	1326	The furry brown dog is swimming in the ocean.	A dog is not swimming.	contradiction	1
+995	1327	The furry brown dog is not swimming in the ocean.	A dog is not swimming.	entailment	['1', '1']
+996	1329	The furry brown dog is not swimming in the ocean.	A dog is running around the yard.	entailment	1
+997	1330	The furry brown dog is swimming in the ocean.	A dog is not running around the yard.	neutral	1
+998	1331	The furry brown dog is not swimming in the ocean.	A dog is not running around the yard.	neutral	['0', '1']
+999	1333	A big brown dog does not swim towards the camera.	A dog is chasing a stick.	neutral	1
+1000	1334	A big brown dog swims towards the camera.	A dog is not chasing a stick.	entailment	1
+1001	1335	A big brown dog does not swim towards the camera.	A dog is not chasing a stick.	neutral	['1', '0']
+1002	1337	A big brown dog does not swim towards the camera.	A photographer is taking pictures of a dog.	neutral	0
+1003	1338	A big brown dog swims towards the camera.	A photographer is not taking pictures of a dog.	neutral	0
+1004	1339	A big brown dog does not swim towards the camera.	A photographer is not taking pictures of a dog.	neutral	['0', '0']
+1005	1341	A big brown dog does not swim towards the camera.	A dog swims towards the camera.	contradiction	1
+1006	1342	A big brown dog swims towards the camera.	A dog does not swim towards the camera.	contradiction	1
+1007	1343	A big brown dog does not swim towards the camera.	A dog does not swim towards the camera.	entailment	['1', '1']
+1008	1345	Seven joggers do not run down a path.	There are seven people jogging together.	neutral	1
+1009	1346	Seven joggers run down a path.	There are not seven people jogging together.	neutral	1
+1010	1347	Seven joggers do not run down a path.	There are not seven people jogging together.	neutral	['0', '0']
+1011	1349	High fashion ladies do not wait outside a tram beside a crowd of people in the city.	Women are waiting by a tram.	contradiction	1
+1012	1350	High fashion ladies wait outside a tram beside a crowd of people in the city.	Women are not waiting by a tram.	contradiction	1
+1013	1351	High fashion ladies do not wait outside a tram beside a crowd of people in the city.	Women are not waiting by a tram.	entailment	['1', '1']
+1014	1353	Seven joggers do not run down a path.	The joggers are sitting on the sidewalk.	neutral	1
+1015	1354	Seven joggers run down a path.	The joggers are not sitting on the sidewalk.	entailment	1
+1016	1355	Seven joggers do not run down a path.	The joggers are not sitting on the sidewalk.	neutral	['1', '0']
+1017	1357	Seven joggers do not run down a path.	The joggers are running together outside.	contradiction	1
+1018	1358	Seven joggers run down a path.	The joggers are not running together outside.	contradiction	1
+1019	1359	Seven joggers do not run down a path.	The joggers are not running together outside.	entailment	['1', '1']
+1020	1361	A man, woman, and child are not enjoying themselves on a beach.	A family of three is at the beach.	neutral	1
+1021	1362	A man, woman, and child enjoying themselves on a beach.	A family of three is not at the beach.	contradiction	1
+1022	1363	A man, woman, and child are not enjoying themselves on a beach.	A family of three is not at the beach.	contradiction	['0', '1']
+1023	1365	A man, woman, and child are not enjoying themselves on a beach.	A family of three is at the mall shopping.	neutral	1
+1024	1366	A man, woman, and child enjoying themselves on a beach.	A family of three is not at the mall shopping.	entailment	1
+1025	1367	A man, woman, and child are not enjoying themselves on a beach.	A family of three is not at the mall shopping.	neutral	['1', '0']
+1026	1369	Two people are not working on computers.	The people are talking a chemistry exam.	neutral	1
+1027	1370	Two people working on computers.	The people are not talking a chemistry exam.	neutral	1
+1028	1371	Two people are not working on computers.	The people are not talking a chemistry exam.	neutral	['0', '0']
+1029	1373	Two people are not working on computers.	The people are near the computers.	neutral	1
+1030	1374	Two people working on computers.	The people are not near the computers.	contradiction	1
+1031	1375	Two people are not working on computers.	The people are not near the computers.	neutral	['1', '0']
+1032	1377	Two people are not working on computers.	The people work in an office building.	neutral	0
+1033	1378	Two people working on computers.	The people do not work in an office building.	neutral	0
+1034	1379	Two people are not working on computers.	The people do not work in an office building.	neutral	['0', '0']
+1035	1381	A couple are not playing with a little boy on the beach.	A couple are playing with a young child outside.	contradiction	1
+1036	1382	A couple playing with a little boy on the beach.	A couple are not playing with a young child outside.	contradiction	1
+1037	1383	A couple are not playing with a little boy on the beach.	A couple are not playing with a young child outside.	entailment	['1', '1']
+1038	1385	A couple are not playing with a little boy on the beach.	A couple are playing frisbee with a young child at the beach.	contradiction	1
+1039	1386	A couple playing with a little boy on the beach.	A couple are not playing frisbee with a young child at the beach.	contradiction	1
+1040	1387	A couple are not playing with a little boy on the beach.	A couple are not playing frisbee with a young child at the beach.	entailment	['1', '1']
+1041	1389	A couple are not playing with a little boy on the beach.	A couple watch a little girl play by herself on the beach.	neutral	1
+1042	1390	A couple playing with a little boy on the beach.	A couple do not watch a little girl play by herself on the beach.	neutral	1
+1043	1391	A couple are not playing with a little boy on the beach.	A couple do not watch a little girl play by herself on the beach.	neutral	['0', '0']
+1044	1393	A couple do not play in the tide with their young son.	The family is sitting down for dinner.	neutral	1
+1045	1394	A couple play in the tide with their young son.	The family is not sitting down for dinner.	entailment	1
+1046	1395	A couple do not play in the tide with their young son.	The family is not sitting down for dinner.	neutral	['1', '0']
+1047	1397	A couple do not play in the tide with their young son.	The family is outside.	neutral	1
+1048	1398	A couple play in the tide with their young son.	The family is not outside.	contradiction	1
+1049	1399	A couple do not play in the tide with their young son.	The family is not outside.	neutral	['1', '0']
+1050	1401	Two women, one old, are not looking at a map.	The two woman are taking pictures with their cameras.	neutral	1
+1051	1402	Two women, one old, looking at a map.	The two woman are not taking pictures with their cameras.	entailment	1
+1052	1403	Two women, one old, are not looking at a map.	The two woman are not taking pictures with their cameras.	neutral	['1', '0']
+1053	1405	Two women, one old, are not looking at a map.	The two women are looking at a map.	contradiction	1
+1054	1406	Two women, one old, looking at a map.	The two women are not looking at a map.	contradiction	1
+1055	1407	Two women, one old, are not looking at a map.	The two women are not looking at a map.	entailment	['1', '1']
+1056	1409	Four children are not playing on a sculpture of a bear.	Old ladies are gathered for tea.	neutral	1
+1057	1410	Four children playing on a sculpture of a bear.	Old ladies are not gathered for tea.	neutral	1
+1058	1411	Four children are not playing on a sculpture of a bear.	Old ladies are not gathered for tea.	neutral	['0', '0']
+1059	1413	A woman is not looking at a city map.	A woman views a map.	neutral	1
+1060	1414	A woman is looking at a city map.	A woman does not view a map.	contradiction	1
+1061	1415	A woman is not looking at a city map.	A woman does not view a map.	neutral	['1', '0']
+1062	1417	Four children are not playing on a sculpture of a bear.	Kids are playing on a sculpture.	contradiction	1
+1063	1418	Four children playing on a sculpture of a bear.	Kids are not playing on a sculpture.	contradiction	1
+1064	1419	Four children are not playing on a sculpture of a bear.	Kids are not playing on a sculpture.	entailment	['1', '1']
+1065	1421	A woman is not looking at a city map.	A woman uses GPS in her car.	neutral	1
+1066	1422	A woman is looking at a city map.	A woman does not use GPS in her car.	entailment	1
+1067	1423	A woman is not looking at a city map.	A woman does not use GPS in her car.	neutral	['1', '0']
+1068	1425	Three people are not in a body of water.	A woman is lying on the beach alone.	neutral	1
+1069	1426	Three people are in a body of water.	A woman is not lying on the beach alone.	neutral	1
+1070	1427	Three people are not in a body of water.	A woman is not lying on the beach alone.	neutral	['0', '0']
+1071	1429	Three people are not in a body of water.	Three friends are swimming in the lake.	contradiction	1
+1072	1430	Three people are in a body of water.	Three friends are not swimming in the lake.	neutral	0
+1073	1431	Three people are not in a body of water.	Three friends are not swimming in the lake.	neutral	['0', '1']
+1074	1433	Three people are not in a body of water.	The water has people in it.	neutral	1
+1075	1434	Three people are in a body of water.	The water does not have people in it.	contradiction	1
+1076	1435	Three people are not in a body of water.	The water does not have people in it.	neutral	['1', '0']
+1077	1437	A woman is not asking for directions in front of a colorful map.	A lady is asking for directions to her meeting	contradiction	1
+1078	1438	A woman asking for directions in front of a colorful map.	A lady is not asking for directions to her meeting	contradiction	1
+1079	1439	A woman is not asking for directions in front of a colorful map.	A lady is not asking for directions to her meeting	neutral	['1', '1']
+1080	1441	A woman is not asking for directions in front of a colorful map.	A lady is asking for directions to her meeting with her directors	contradiction	1
+1081	1442	A woman asking for directions in front of a colorful map.	A lady is not asking for directions to her meeting with her directors	contradiction	1
+1082	1443	A woman is not asking for directions in front of a colorful map.	A lady is not asking for directions to her meeting with her directors	neutral	['1', '1']
+1083	1445	A woman is not asking for directions in front of a colorful map.	While watching a movie he falls a sleep on the street	neutral	1
+1084	1446	A woman asking for directions in front of a colorful map.	While watching a movie he does not fall a sleep on the street	neutral	1
+1085	1447	A woman is not asking for directions in front of a colorful map.	While watching a movie he does not fall a sleep on the street	neutral	['0', '0']
+1086	1449	Two women are not standing in front of a map.	two women are lost	neutral	0
+1087	1450	Two women standing in front of a map.	two women are not lost	neutral	0
+1088	1451	Two women are not standing in front of a map.	two women are not lost	neutral	['0', '0']
+1089	1453	Two women are not standing in front of a map.	two women standing	neutral	1
+1090	1454	Two women standing in front of a map.	two women are not standing	contradiction	1
+1091	1455	Two women are not standing in front of a map.	two women are not standing	neutral	['1', '0']
+1092	1457	Two women are not standing in front of a map.	a boy eats grapes	neutral	1
+1093	1458	Two women standing in front of a map.	a boy does not eat grapes	neutral	1
+1094	1459	Two women are not standing in front of a map.	a boy does not eat grapes	neutral	['0', '0']
+1095	1461	A group of kids do not play in the spray of water from a fountain.	The fountain is broken	neutral	1
+1096	1462	A group of kids plays in the spray of water from a fountain.	The fountain is not broken	entailment	1
+1097	1463	A group of kids do not play in the spray of water from a fountain.	The fountain is not broken	neutral	['1', '0']
+1098	1465	A group of kids do not play in the spray of water from a fountain.	The fountain is spraying	neutral	1
+1099	1466	A group of kids plays in the spray of water from a fountain.	The fountain is not spraying	contradiction	1
+1100	1467	A group of kids do not play in the spray of water from a fountain.	The fountain is not spraying	neutral	['1', '0']
+1101	1469	A group of kids do not play in the spray of water from a fountain.	The sun is shining brightly	neutral	0
+1102	1470	A group of kids plays in the spray of water from a fountain.	The sun is not shining brightly	neutral	0
+1103	1471	A group of kids do not play in the spray of water from a fountain.	The sun is not shining brightly	neutral	['0', '0']
+1104	1473	A person does not walk between two buildings.	The person is walking in between some buildings.	contradiction	1
+1105	1474	A person walks between two buildings.	The person is not walking in between some buildings.	contradiction	1
+1106	1475	A person does not walk between two buildings.	The person is not walking in between some buildings.	entailment	['1', '1']
+1107	1477	A person does not walk between two buildings.	The person walks between the bank and the hardware store.	contradiction	1
+1108	1478	A person walks between two buildings.	The person does not walk between the bank and the hardware store.	neutral	0
+1109	1479	A person does not walk between two buildings.	The person does not walk between the bank and the hardware store.	neutral	['0', '1']
+1110	1481	A person does not walk between two buildings.	The person is sleeping in the alley way.	neutral	1
+1111	1482	A person walks between two buildings.	The person is not sleeping in the alley way.	entailment	1
+1112	1483	A person does not walk between two buildings.	The person is not sleeping in the alley way.	neutral	['1', '0']
+1113	1485	A blond woman does not stand alone in a city alleyway.	The woman waits by the alley for her friend.	neutral	0
+1114	1486	A blond woman stands alone in a city alleyway.	The woman does not wait by the alley for her friend.	neutral	0
+1115	1487	A blond woman does not stand alone in a city alleyway.	The woman does not wait by the alley for her friend.	neutral	['0', '0']
+1116	1489	A blond woman does not stand alone in a city alleyway.	A woman is outside.	neutral	1
+1117	1490	A blond woman stands alone in a city alleyway.	A woman is not outside.	contradiction	1
+1118	1491	A blond woman does not stand alone in a city alleyway.	A woman is not outside.	neutral	['1', '0']
+1119	1493	A blond woman does not stand alone in a city alleyway.	The dark headed woman stands alone in a city.	neutral	1
+1120	1494	A blond woman stands alone in a city alleyway.	The dark headed woman does not stand alone in a city.	neutral	1
+1121	1495	A blond woman does not stand alone in a city alleyway.	The dark headed woman does not stand alone in a city.	neutral	['0', '0']
+1122	1497	Women are not working at looms.	Women are working	neutral	1
+1123	1498	Women are working at looms.	Women are not working	contradiction	1
+1124	1499	Women are not working at looms.	Women are not working	neutral	['1', '0']
+1125	1501	Women are not working at looms.	Women are puking	neutral	0
+1126	1502	Women are working at looms.	Women are not puking	entailment	1
+1127	1503	Women are not working at looms.	Women are not puking	neutral	['1', '0']
+1128	1505	Women are not working at looms.	Women are indoors	neutral	1
+1129	1506	Women are working at looms.	Women are not indoors	neutral	1
+1130	1507	Women are not working at looms.	Women are not indoors	neutral	['0', '0']
+1131	1509	A man in a blue shirt is not driving a Segway type vehicle.	A woman in a green shirt is sitting down.	neutral	1
+1132	1510	A man in a blue shirt driving a Segway type vehicle.	A woman in a green shirt is not sitting down.	neutral	1
+1133	1511	A man in a blue shirt is not driving a Segway type vehicle.	A woman in a green shirt is not sitting down.	neutral	['0', '0']
+1134	1513	A man in a blue shirt is not driving a Segway type vehicle.	A man is swimming in a pool.	neutral	1
+1135	1514	A man in a blue shirt driving a Segway type vehicle.	A man is not swimming in a pool.	entailment	1
+1136	1515	A man in a blue shirt is not driving a Segway type vehicle.	A man is not swimming in a pool.	neutral	['1', '0']
+1137	1517	A man in a blue shirt is not driving a Segway type vehicle.	A very tall man is driving a vehicle	neutral	0
+1138	1518	A man in a blue shirt driving a Segway type vehicle.	A very tall man is not driving a vehicle	neutral	0
+1139	1519	A man in a blue shirt is not driving a Segway type vehicle.	A very tall man is not driving a vehicle	neutral	['0', '0']
+1140	1521	A young boy is not wearing a white jumpsuit.	A boy wears his favorite outfit.	neutral	0
+1141	1522	A young boy is wearing a white jumpsuit.	A boy does not wear his favorite outfit.	neutral	0
+1142	1523	A young boy is not wearing a white jumpsuit.	A boy does not wear his favorite outfit.	neutral	['0', '0']
+1143	1525	A young boy is not wearing a white jumpsuit.	A girl wears a blue jumpsuit.	neutral	1
+1144	1526	A young boy is wearing a white jumpsuit.	A girl does not wear a blue jumpsuit.	neutral	1
+1145	1527	A young boy is not wearing a white jumpsuit.	A girl does not wear a blue jumpsuit.	neutral	['0', '0']
+1146	1529	A young boy is not wearing a white jumpsuit.	A boy wears a white outfit.	contradiction	1
+1147	1530	A young boy is wearing a white jumpsuit.	A boy does not wear a white outfit.	contradiction	1
+1148	1531	A young boy is not wearing a white jumpsuit.	A boy does not wear a white outfit.	neutral	['1', '1']
+1149	1533	Two brown dog do not play together in the water.	dogs fight over toy	neutral	0
+1150	1534	Two brown dog play together in the water.	dogs do not fight over toy	neutral	0
+1151	1535	Two brown dog do not play together in the water.	dogs do not fight over toy	neutral	['0', '0']
+1152	1537	Two brown dog do not play together in the water.	girl follows boy	neutral	1
+1153	1538	Two brown dog play together in the water.	girl does not follow boy	neutral	1
+1154	1539	Two brown dog do not play together in the water.	girl does not follow boy	neutral	['0', '0']
+1155	1541	Two brown dog do not play together in the water.	dogs playing	contradiction	1
+1156	1542	Two brown dog play together in the water.	dogs are not playing	contradiction	1
+1157	1543	Two brown dog do not play together in the water.	dogs are not playing	entailment	['1', '1']
+1158	1545	Two dogs do not play in the water.	The dogs are resting under a tree.	neutral	1
+1159	1546	Two dogs play in the water.	The dogs are not resting under a tree.	entailment	1
+1160	1547	Two dogs do not play in the water.	The dogs are not resting under a tree.	neutral	['1', '0']
+1161	1549	Two dogs do not play in the water.	The dogs are barking loudly.	neutral	0
+1162	1550	Two dogs play in the water.	The dogs are not barking loudly.	neutral	0
+1163	1551	Two dogs do not play in the water.	The dogs are not barking loudly.	neutral	['0', '0']
+1164	1553	Two dogs do not play in the water.	The dogs are wet.	neutral	1
+1165	1554	Two dogs play in the water.	The dogs are not wet.	contradiction	1
+1166	1555	Two dogs do not play in the water.	The dogs are not wet.	neutral	['1', '0']
+1167	1557	Asian woman is not harvesting wheat.	There is a woman with wheat.	contradiction	1
+1168	1558	Asian woman harvesting wheat.	There is not a woman with wheat.	contradiction	1
+1169	1559	Asian woman is not harvesting wheat.	There is not a woman with wheat.	neutral	['1', '1']
+1170	1561	Asian woman is not harvesting wheat.	The woman is selling wheat.	neutral	0
+1171	1562	Asian woman harvesting wheat.	The woman is not selling wheat.	neutral	0
+1172	1563	Asian woman is not harvesting wheat.	The woman is not selling wheat.	neutral	['0', '0']
+1173	1565	Asian woman is not harvesting wheat.	The woman is eating corn.	neutral	1
+1174	1566	Asian woman harvesting wheat.	The woman is not eating corn.	entailment	1
+1175	1567	Asian woman is not harvesting wheat.	The woman is not eating corn.	neutral	['1', '0']
+1176	1569	A man in red pants is not walking on rocks.	The rocks are big.	neutral	0
+1177	1570	A man in red pants walking on rocks.	The rocks are not big.	neutral	0
+1178	1571	A man in red pants is not walking on rocks.	The rocks are not big.	neutral	['0', '0']
+1179	1573	A man in red pants is not walking on rocks.	The man is surfing.	neutral	1
+1180	1574	A man in red pants walking on rocks.	The man is not surfing.	entailment	1
+1181	1575	A man in red pants is not walking on rocks.	The man is not surfing.	neutral	['1', '0']
+1182	1577	Two dogs are not biting on a Frisbee in the pond.	The dogs are siblings.	neutral	0
+1183	1578	Two dogs biting on a Frisbee in the pond.	The dogs are not siblings.	neutral	0
+1184	1579	Two dogs are not biting on a Frisbee in the pond.	The dogs are not siblings.	neutral	['0', '0']
+1185	1581	A male with a hat a is not sweeping the road.	A man is sitting on a porch.	neutral	1
+1186	1582	A male with a hat a is sweeping the road.	A man is not sitting on a porch.	entailment	1
+1187	1583	A male with a hat a is not sweeping the road.	A man is not sitting on a porch.	neutral	['1', '0']
+1188	1585	A male with a hat a is not sweeping the road.	A male is cleaning outside.	neutral	1
+1189	1586	A male with a hat a is sweeping the road.	A male is not cleaning outside.	contradiction	1
+1190	1587	A male with a hat a is not sweeping the road.	A male is not cleaning outside.	neutral	['1', '0']
+1191	1589	A male with a hat a is not sweeping the road.	An old man is outside of his home.	neutral	0
+1192	1590	A male with a hat a is sweeping the road.	An old man is not outside of his not home.	contradiction	1
+1193	1591	A male with a hat a is not sweeping the road.	An old man is not outside of his not home.	neutral	['1', '0']
+1194	1593	A group of people are not waving a flag on stage	An american flag is being waved.	neutral	0
+1195	1594	A group of people waving a flag on stage	An american flag is not being waved.	neutral	0
+1196	1595	A group of people are not waving a flag on stage	An american flag is not being waved.	neutral	['0', '0']
+1197	1597	A group of people are not waving a flag on stage	A crowd has a flag	contradiction	1
+1198	1598	A group of people waving a flag on stage	A crowd does not have a flag	neutral	1
+1199	1599	A group of people are not waving a flag on stage	A crowd does not have a flag	neutral	['0', '1']
+1200	1601	Two men on bicycles are not competing in a race.	People are riding bikes.	entailment	0
+1201	1602	Two men on bicycles competing in a race.	People are not riding bikes.	contradiction	1
+1202	1603	Two men on bicycles are not competing in a race.	People are not riding bikes.	contradiction	['0', '1']
+1203	1605	Two men on bicycles are not competing in a race.	Men are riding bicycles on the street.	neutral	0
+1204	1606	Two men on bicycles competing in a race.	Men are not riding bicycles on the street.	contradiction	1
+1205	1607	Two men on bicycles are not competing in a race.	Men are not riding bicycles on the street.	neutral	['1', '0']
+1206	1609	Two men on bicycles are not competing in a race.	A few people are catching fish.	neutral	1
+1207	1610	Two men on bicycles competing in a race.	A few people are not catching fish.	entailment	1
+1208	1611	Two men on bicycles are not competing in a race.	A few people are not catching fish.	neutral	['1', '0']
+1209	1613	A young boy in a field of flowers is not carrying a ball	boy leaving baseball game	neutral	0
+1210	1614	A young boy in a field of flowers carrying a ball	boy is not leaving baseball game	neutral	0
+1211	1615	A young boy in a field of flowers is not carrying a ball	boy is not leaving baseball game	neutral	['0', '0']
+1212	1617	A young boy is not sitting in a green tunnel	A girl is sitting	neutral	1
+1213	1618	A young boy is sitting in a green tunnel	A girl is not sitting	neutral	1
+1214	1619	A young boy is not sitting in a green tunnel	A girl is not sitting	neutral	['0', '0']
+1215	1621	A young boy is not sitting in a green tunnel	The boy is wearing a green shirt	neutral	0
+1216	1622	A young boy is sitting in a green tunnel	The boy is not wearing a green shirt	neutral	0
+1217	1623	A young boy is not sitting in a green tunnel	The boy is not wearing a green shirt	neutral	['0', '0']
+1218	1625	Two doctors do not perform surgery on patient.	Two surgeons are having lunch.	neutral	1
+1219	1626	Two doctors perform surgery on patient.	Two surgeons are not having lunch.	entailment	1
+1220	1627	Two doctors do not perform surgery on patient.	Two surgeons are not having lunch.	neutral	['1', '0']
+1221	1629	Two doctors do not perform surgery on patient.	Doctors are performing surgery.	contradiction	1
+1222	1630	Two doctors perform surgery on patient.	Doctors are not performing surgery.	contradiction	1
+1223	1631	Two doctors do not perform surgery on patient.	Doctors are not performing surgery.	entailment	['1', '1']
+1224	1633	Two doctors do not perform surgery on patient.	Two doctors are performing surgery on a man.	contradiction	1
+1225	1634	Two doctors perform surgery on patient.	Two doctors are not performing surgery on a man.	neutral	0
+1226	1635	Two doctors do not perform surgery on patient.	Two doctors are not performing surgery on a man.	neutral	['0', '1']
+1227	1637	Kids are not on a amusement ride.	Kids ride their favorite amusement ride.	contradiction	1
+1228	1638	Kids are on a amusement ride.	Kids do not ride their favorite amusement do not ride.	neutral	0
+1229	1639	Kids are not on a amusement ride.	Kids do not ride their favorite amusement do not ride.	neutral	['0', '1']
+1230	1641	Kids are not on a amusement ride.	A car is broke down on the side of the road.	neutral	1
+1231	1642	Kids are on a amusement ride.	A car is not broke down on the side of the road.	neutral	1
+1232	1643	Kids are not on a amusement ride.	A car is not broke down on the side of the road.	neutral	['0', '0']
+1233	1645	Kids are not on a amusement ride.	Kids ride an amusement ride.	contradiction	1
+1234	1646	Kids are on a amusement ride.	Kids do not ride an amusement do not ride.	contradiction	1
+1235	1647	Kids are not on a amusement ride.	Kids do not ride an amusement do not ride.	entailment	['1', '1']
+1236	1649	A little boy in a blue shirt is not holding a toy.	Boy dressed in blue carrying toy to a toybox.	contradiction	1
+1237	1650	A little boy in a blue shirt holding a toy.	Boy dressed in blue is not carrying toy to a toybox.	neutral	0
+1238	1651	A little boy in a blue shirt is not holding a toy.	Boy dressed in blue is not carrying toy to a toybox.	entailment	['1', '1']
+1239	1653	a man is not swimming inside of a pool	there is a man in a pool.	contradiction	1
+1240	1654	a man is swimming inside of a pool	there is not a man in a pool.	contradiction	1
+1241	1655	a man is not swimming inside of a pool	there is not a man in a pool.	entailment	['1', '1']
+1242	1657	A young boy is not sitting in a green tunnel	The boy is sitting	contradiction	1
+1243	1658	A young boy is sitting in a green tunnel	The boy is not sitting	contradiction	1
+1244	1659	A young boy is not sitting in a green tunnel	The boy is not sitting	entailment	['1', '1']
+1245	1661	The little boy is not jumping into a puddle on the street.	The boy is walking across the field with his dog.	neutral	1
+1246	1662	The little boy is jumping into a puddle on the street.	The boy is not walking across the field with his dog.	neutral	1
+1247	1663	The little boy is not jumping into a puddle on the street.	The boy is not walking across the field with his dog.	neutral	['0', '0']
+1248	1665	A girl does not swing high in the air.	A girl is laying in the pool	neutral	1
+1249	1666	A girl swings high in the air.	A girl is not laying in the pool	entailment	1
+1250	1667	A girl does not swing high in the air.	A girl is not laying in the pool	neutral	['1', '0']
+1251	1669	A girl does not swing high in the air.	A girl is on a swing	neutral	1
+1252	1670	A girl swings high in the air.	A girl is not laying on a swing	contradiction	1
+1253	1671	A girl does not swing high in the air.	A girl is not laying on a swing	neutral	['1', '0']
+1254	1673	A view of the back of a woman not having a beverage.	woman drinks a beer	contradiction	1
+1255	1674	A view of the back of a woman having a beverage.	woman does not drink a beer	neutral	0
+1256	1675	A view of the back of a woman not having a beverage.	woman does not drink a beer	neutral	['0', '1']
+1257	1677	A view of the back of a woman not having a beverage.	woman dumps the drink on a man	neutral	1
+1258	1678	A view of the back of a woman having a beverage.	woman does not dump the drink on a man	entailment	1
+1259	1679	A view of the back of a woman not having a beverage.	woman does not dump the drink on a man	neutral	['1', '0']
+1260	1681	A view of the back of a woman not having a beverage.	woman has a drink	contradiction	1
+1261	1682	A view of the back of a woman having a beverage.	woman does not have a drink	contradiction	1
+1262	1683	A view of the back of a woman not having a beverage.	woman does not have a drink	entailment	['1', '1']
+1263	1685	A person does not ride his bicycle in the sand beside the ocean.	A person is falling off his bike.	neutral	1
+1264	1686	A person rides his bicycle in the sand beside the ocean.	A person is not falling off his bike.	entailment	1
+1265	1687	A person does not ride his bicycle in the sand beside the ocean.	A person is not falling off his bike.	neutral	['1', '0']
+1266	1689	A person does not ride his bicycle in the sand beside the ocean.	A person is on a boat.	neutral	1
+1267	1690	A person rides his bicycle in the sand beside the ocean.	A person is not on a boat.	entailment	1
+1268	1691	A person does not ride his bicycle in the sand beside the ocean.	A person is not on a boat.	neutral	['1', '0']
+1269	1693	A person does not ride his bicycle in the sand beside the ocean.	A person is on a beach.	entailment	0
+1270	1694	A person rides his bicycle in the sand beside the ocean.	A person is not on a beach.	contradiction	1
+1271	1695	A person does not ride his bicycle in the sand beside the ocean.	A person is not on a beach.	contradiction	['0', '1']
+1272	1697	A group of people do not prepare hot air balloons for takeoff.	A group of people are outside.	neutral	1
+1273	1698	A group of people prepare hot air balloons for takeoff.	A group of people are not outside.	contradiction	1
+1274	1699	A group of people do not prepare hot air balloons for takeoff.	A group of people are not outside.	neutral	['1', '0']
+1275	1701	A group of people do not prepare hot air balloons for takeoff.	There are hot air balloons on the ground and air.	neutral	0
+1276	1702	A group of people prepare hot air balloons for takeoff.	There are not hot air balloons on the ground and air.	contradiction	1
+1277	1703	A group of people do not prepare hot air balloons for takeoff.	There are not hot air balloons on the ground and air.	neutral	['1', '0']
+1278	1705	a little girl is not sitting in a seat.	She is in a chair.	contradiction	1
+1279	1706	a little girl sitting in a seat.	She is not in a chair.	contradiction	1
+1280	1707	a little girl is not sitting in a seat.	She is not in a chair.	entailment	['1', '1']
+1281	1709	A group of young people with instruments are not on stage.	People are performing as a band for a crowd.	contradiction	1
+1282	1710	A group of young people with instruments are on stage.	People are not performing as a band for a crowd.	contradiction	1
+1283	1711	A group of young people with instruments are not on stage.	People are not performing as a band for a crowd.	entailment	['1', '1']
+1284	1713	A group of young people with instruments are not on stage.	Young people are playing water polo.	neutral	1
+1285	1714	A group of young people with instruments are on stage.	Young people are not playing water polo.	entailment	1
+1286	1715	A group of young people with instruments are not on stage.	Young people are not playing water polo.	neutral	['1', '0']
+1287	1717	A group of young people with instruments are not on stage.	People are playing music.	neutral	0
+1288	1718	A group of young people with instruments are on stage.	People are not playing music.	neutral	0
+1289	1719	A group of young people with instruments are not on stage.	People are not playing music.	neutral	['0', '0']
+1290	1721	A man in a black shirt is not playing a guitar.	He is playing a song.	neutral	1
+1291	1722	A man in a black shirt is playing a guitar.	He is not playing a song.	contradiction	1
+1292	1723	A man in a black shirt is not playing a guitar.	He is not playing a song.	entailment	['1', '1']
+1293	1725	A man in a black shirt is not playing a guitar.	The man is wearing a blue shirt.	contradiction	0
+1294	1726	A man in a black shirt is playing a guitar.	The man is not wearing a blue shirt.	entailment	1
+1295	1727	A man in a black shirt is not playing a guitar.	The man is not wearing a blue shirt.	entailment	['0', '1']
+1296	1729	A man in a black shirt is not playing a guitar.	The man is wearing black.	entailment	0
+1297	1730	A man in a black shirt is playing a guitar.	The man is not wearing black.	contradiction	1
+1298	1731	A man in a black shirt is not playing a guitar.	The man is not wearing black.	contradiction	['0', '1']
+1299	1733	A young boy is not playing in the grass.	The boy is playing make believe.	neutral	0
+1300	1734	A young boy playing in the grass.	The boy is not playing make believe.	neutral	0
+1301	1735	A young boy is not playing in the grass.	The boy is not playing make believe.	neutral	['0', '0']
+1302	1737	A young boy is not playing in the grass.	There is a child in the grass.	contradiction	1
+1303	1738	A young boy playing in the grass.	There is not a child in the grass.	contradiction	1
+1304	1739	A young boy is not playing in the grass.	There is not a child in the grass.	entailment	['1', '1']
+1305	1741	A young boy is not playing in the grass.	The boy is in the sand.	neutral	1
+1306	1742	A young boy playing in the grass.	The boy is not in the sand.	entailment	1
+1307	1743	A young boy is not playing in the grass.	The boy is not in the sand.	neutral	['1', '0']
+1308	1745	A man and a woman are not looking at produce on display.	A man and women are staring at heads of lettuce.	contradiction	1
+1309	1746	A man and a woman are looking at produce on display.	A man and women are not staring at heads of lettuce.	neutral	0
+1310	1747	A man and a woman are not looking at produce on display.	A man and women are not staring at heads of lettuce.	neutral	['0', '1']
+1311	1749	A man and a woman are not looking at produce on display.	Two men throw produce at each other for fun.	neutral	1
+1312	1750	A man and a woman are looking at produce on display.	Two men do not throw produce at each other for fun.	neutral	1
+1313	1751	A man and a woman are not looking at produce on display.	Two men do not throw produce at each other for fun.	neutral	['0', '0']
+1314	1753	A man and a woman are not looking at produce on display.	A man and woman are looking at produce.	contradiction	1
+1315	1754	A man and a woman are looking at produce on display.	A man and woman are not looking at produce.	contradiction	1
+1316	1755	A man and a woman are not looking at produce on display.	A man and woman are not looking at produce.	entailment	['1', '1']
+1317	1757	The little boy is not jumping into a puddle on the street.	The boy is outside.	neutral	1
+1318	1758	The little boy is jumping into a puddle on the street.	The boy is not outside.	contradiction	1
+1319	1759	The little boy is not jumping into a puddle on the street.	The boy is not outside.	neutral	['1', '0']
+1320	1761	People are not throwing tomatoes at each other.	The men are covered in tomatoes.	neutral	0
+1321	1762	People are throwing tomatoes at each other.	The men are not covered in tomatoes.	neutral	0
+1322	1763	People are not throwing tomatoes at each other.	The men are not covered in tomatoes.	neutral	['0', '0']
+1323	1765	People are not throwing tomatoes at each other.	The people are having a food fight.	neutral	1
+1324	1766	People are throwing tomatoes at each other.	The people are not having a food fight.	contradiction	1
+1325	1767	People are not throwing tomatoes at each other.	The people are not having a food fight.	neutral	['1', '0']
+1326	1769	A man and a woman are not talking in a park	A man and woman are talking in the aquarium.	neutral	1
+1327	1770	A man and a woman are talking in a park	A man and woman are not talking in the aquarium.	entailment	1
+1328	1771	A man and a woman are not talking in a park	A man and woman are not talking in the aquarium.	neutral	['1', '0']
+1329	1773	A man and a woman are not talking in a park	The couple discuss their financial future in the park.	contradiction	1
+1330	1774	A man and a woman are talking in a park	The couple do not discuss their financial future in the park.	neutral	0
+1331	1775	A man and a woman are not talking in a park	The couple do not discuss their financial future in the park.	neutral	['0', '1']
+1332	1777	A man and a woman are not talking in a park	A pair of people are talking outdoors.	neutral	1
+1333	1778	A man and a woman are talking in a park	A pair of people are not talking outdoors.	contradiction	1
+1334	1779	A man and a woman are not talking in a park	A pair of people are not talking outdoors.	neutral	['1', '0']
+1335	1781	Girl does not play with colorful letters on the floor.	The girl is playing a video game in the bath.	neutral	1
+1336	1782	Girl plays with colorful letters on the floor.	The girl is not playing a video game in the bath.	entailment	1
+1337	1783	Girl does not play with colorful letters on the floor.	The girl is not playing a video game in the bath.	neutral	['1', '0']
+1338	1785	Girl does not play with colorful letters on the floor.	The girl is spelling out her favorite words with colored letters.	contradiction	1
+1339	1786	Girl plays with colorful letters on the floor.	The girl is not spelling out her favorite words with colored letters.	neutral	0
+1340	1787	Girl does not play with colorful letters on the floor.	The girl is not spelling out her favorite words with colored letters.	neutral	['0', '1']
+1341	1789	Dog are not herding cows	Animals are near each other.	neutral	1
+1342	1790	Dog herding cows	Animals are not near each other.	contradiction	1
+1343	1791	Dog are not herding cows	Animals are not near each other.	neutral	['1', '0']
+1344	1793	A lady with bright orange hair is not walking in a crowd.	The woman is asleep.	neutral	1
+1345	1794	A lady with bright orange hair walking in a crowd.	The woman is not asleep.	entailment	1
+1346	1795	A lady with bright orange hair is not walking in a crowd.	The woman is not asleep.	neutral	['1', '0']
+1347	1797	A lady with bright orange hair is not walking in a crowd.	A woman is near a group of people.	neutral	1
+1348	1798	A lady with bright orange hair walking in a crowd.	A woman is not near a group of people.	contradiction	1
+1349	1799	A lady with bright orange hair is not walking in a crowd.	A woman is not near a group of people.	neutral	['1', '0']
+1350	1801	A lady with bright orange hair is not walking in a crowd.	The street performer is entertaining the tourists.	neutral	1
+1351	1802	A lady with bright orange hair walking in a crowd.	The street performer is not entertaining the tourists.	neutral	1
+1352	1803	A lady with bright orange hair is not walking in a crowd.	The street performer is not entertaining the tourists.	neutral	['0', '0']
+1353	1805	A man does not waterski with a life jacket.	Hitler rides a jetski in this Kawasaki advertisement.	contradiction	0
+1354	1806	A man waterskies with a life jacket.	Hitler does not ride a jetski in this Kawasaki advertisement.	neutral	1
+1355	1807	A man does not waterski with a life jacket.	Hitler does not ride a jetski in this Kawasaki advertisement.	neutral	['0', '1']
+1356	1809	A man does not waterski with a life jacket.	A lifeguard races across the water.	neutral	0
+1357	1810	A man waterskies with a life jacket.	A lifeguard does not race across the water.	neutral	0
+1358	1811	A man does not waterski with a life jacket.	A lifeguard does not race across the water.	neutral	['0', '0']
+1359	1813	A man does not waterski with a life jacket.	The man is enjoying the ocean.	neutral	0
+1360	1814	A man waterskies with a life jacket.	The man is not enjoying the ocean.	neutral	0
+1361	1815	A man does not waterski with a life jacket.	The man is not enjoying the ocean.	neutral	['0', '0']
+1362	1817	A group of children do not enjoy their time on the beach.	A group of adults are swimming at the beach.	neutral	1
+1363	1818	A group of children enjoy their time on the beach.	A group of adults are not swimming at the beach.	neutral	1
+1364	1819	A group of children do not enjoy their time on the beach.	A group of adults are not swimming at the beach.	neutral	['0', '0']
+1365	1821	A group of children do not enjoy their time on the beach.	Children are swimming at the beach.	neutral	0
+1366	1822	A group of children enjoy their time on the beach.	Children are not swimming at the beach.	neutral	0
+1367	1823	A group of children do not enjoy their time on the beach.	Children are not swimming at the beach.	neutral	['0', '0']
+1368	1825	A group of children do not enjoy their time on the beach.	Children are at the beach.	entailment	0
+1369	1826	A group of children enjoy their time on the beach.	Children are not at the beach.	contradiction	1
+1370	1827	A group of children do not enjoy their time on the beach.	Children are not at the beach.	contradiction	['0', '1']
+1371	1829	A guy is not waxing a wooden floor with wax.	the guy is dead	neutral	1
+1372	1830	A guy waxing a wooden floor with wax.	the guy is not dead	entailment	1
+1373	1831	A guy is not waxing a wooden floor with wax.	the guy is not dead	neutral	['1', '0']
+1374	1833	A guy is not waxing a wooden floor with wax.	a guy is waxing	contradiction	1
+1375	1834	A guy waxing a wooden floor with wax.	a guy is not waxing	contradiction	1
+1376	1835	A guy is not waxing a wooden floor with wax.	a guy is not waxing	entailment	['1', '1']
+1377	1837	A guy is not waxing a wooden floor with wax.	the guy is paid	neutral	0
+1378	1838	A guy waxing a wooden floor with wax.	the guy is not paid	neutral	0
+1379	1839	A guy is not waxing a wooden floor with wax.	the guy is not paid	neutral	['0', '0']
+1380	1841	A man is not jumping sideways in the ocean.	A man sits in a hotel lobby.	neutral	1
+1381	1842	A man jumping sideways in the ocean.	A man does not sit in a hotel lobby.	entailment	1
+1382	1843	A man is not jumping sideways in the ocean.	A man does not sit in a hotel lobby.	neutral	['1', '0']
+1383	1845	A man is not jumping sideways in the ocean.	A man jumps in the ocean.	contradiction	1
+1384	1846	A man jumping sideways in the ocean.	A man does not jump in the ocean.	contradiction	1
+1385	1847	A man is not jumping sideways in the ocean.	A man does not jump in the ocean.	entailment	['1', '1']
+1386	1849	An older gentleman is not speaking at a podium.	A man giving a speech	neutral	0
+1387	1850	An older gentleman speaking at a podium.	A man is not giving a speech	neutral	0
+1388	1851	An older gentleman is not speaking at a podium.	A man is not giving a speech	entailment	['1', '1']
+1389	1853	Dog are not herding cows	Cats are sleeping inside the room.	neutral	1
+1390	1854	Dog herding cows	Cats are not sleeping inside the room.	neutral	1
+1391	1855	Dog are not herding cows	Cats are not sleeping inside the room.	neutral	['0', '0']
+1392	1857	A young barefoot girl in a pink dress is not jumping outside.	A little girl is playing jump rope.	contradiction	1
+1393	1858	A young barefoot girl in a pink dress is jumping outside.	A little girl is not playing jump rope.	neutral	0
+1394	1859	A young barefoot girl in a pink dress is not jumping outside.	A little girl is not playing jump rope.	neutral	['0', '1']
+1395	1861	A young barefoot girl in a pink dress is not jumping outside.	A child is playing.	neutral	1
+1396	1862	A young barefoot girl in a pink dress is jumping outside.	A child is not playing.	contradiction	1
+1397	1863	A young barefoot girl in a pink dress is not jumping outside.	A child is not playing.	neutral	['1', '0']
+1398	1865	A boy in red does not slide down an inflatable ride.	A boy rolls around an inflatable ride.	neutral	0
+1399	1866	A boy in red slides down an inflatable ride.	A boy does not roll around an inflatable ride.	neutral	0
+1400	1867	A boy in red does not slide down an inflatable ride.	A boy does not roll around an inflatable ride.	neutral	['0', '0']
+1401	1869	A boy in red does not slide down an inflatable ride.	A boy is playing on an inflatable ride.	contradiction	1
+1402	1870	A boy in red slides down an inflatable ride.	A boy is not playing on an inflatable ride.	contradiction	1
+1403	1871	A boy in red does not slide down an inflatable ride.	A boy is not playing on an inflatable ride.	entailment	['1', '1']
+1404	1873	A boy in red does not slide down an inflatable ride.	A boy pierces a knife through an inflatable ride.	neutral	1
+1405	1874	A boy in red slides down an inflatable ride.	A boy does not pierce a knife through an inflatable ride.	neutral	1
+1406	1875	A boy in red does not slide down an inflatable ride.	A boy does not pierce a knife through an inflatable ride.	neutral	['0', '0']
+1407	1877	A man is not reading a newspaper in a car dealership.	A man is at a car dealership.	entailment	0
+1408	1878	A man is reading a newspaper in a car dealership.	A man is not at a car dealership.	contradiction	1
+1409	1879	A man is not reading a newspaper in a car dealership.	A man is not at a car dealership.	contradiction	['0', '1']
+1410	1881	a little girl is not sitting in a seat.	She is standing on the seat.	neutral	1
+1411	1882	a little girl sitting in a seat.	She is not standing on the seat.	entailment	1
+1412	1883	a little girl is not sitting in a seat.	She is not standing on the seat.	neutral	['1', '0']
+1413	1885	A man is not reading a newspaper in a car dealership.	A man is reading a magazine at the hospital.	neutral	1
+1414	1886	A man is reading a newspaper in a car dealership.	A man is not reading a magazine at the hospital.	entailment	1
+1415	1887	A man is not reading a newspaper in a car dealership.	A man is not reading a magazine at the hospital.	neutral	['1', '0']
+1416	1889	Group yoga class is not exercising.	A group of people holding various positions for a period of time.	neutral	0
+1417	1890	Group yoga class exercising.	A group of people are not holding various positions for a period of time.	contradiction	1
+1418	1891	Group yoga class is not exercising.	A group of people are not holding various positions for a period of time.	neutral	['1', '0']
+1419	1893	Group yoga class is not exercising.	The yoga group are eating chips and fries.	neutral	1
+1420	1894	Group yoga class exercising.	The yoga group are not eating chips and fries.	entailment	1
+1421	1895	Group yoga class is not exercising.	The yoga group are not eating chips and fries.	neutral	['1', '0']
+1422	1897	Group yoga class is not exercising.	Half of the yoga group are female.	neutral	0
+1423	1898	Group yoga class exercising.	Half of the yoga group are not female.	neutral	0
+1424	1899	Group yoga class is not exercising.	Half of the yoga group are not female.	neutral	['0', '0']
+1425	1901	Three women in dress suits do not walk by a building.	Three women are traveling by foot.	neutral	1
+1426	1902	Three women in dress suits walk by a building.	Three women are not traveling by foot.	contradiction	1
+1427	1903	Three women in dress suits do not walk by a building.	Three women are not traveling by foot.	neutral	['1', '0']
+1428	1905	Three women in dress suits do not walk by a building.	The suits are gray.	neutral	0
+1429	1906	Three women in dress suits walk by a building.	The suits are not gray.	neutral	0
+1430	1907	Three women in dress suits do not walk by a building.	The suits are not gray.	neutral	['0', '0']
+1431	1909	Three women in dress suits do not walk by a building.	The woman are wearing bikinis.	contradiction	0
+1432	1910	Three women in dress suits walk by a building.	The woman are not wearing bikinis.	entailment	1
+1433	1911	Three women in dress suits do not walk by a building.	The woman are not wearing bikinis.	entailment	['0', '1']
+1434	1913	A child is not looking out of a door.	The child is asleep.	neutral	1
+1435	1914	A child is looking out of a door.	The child is not asleep.	entailment	1
+1436	1915	A child is not looking out of a door.	The child is not asleep.	neutral	['1', '0']
+1437	1917	A child is not looking out of a door.	The door is open.	neutral	0
+1438	1918	A child is looking out of a door.	The door is not open.	contradiction	1
+1439	1919	A child is not looking out of a door.	The door is not open.	neutral	['1', '0']
+1440	1921	A child is not looking out of a door.	There is a door.	neutral	1
+1441	1922	A child is looking out of a door.	There is not a door.	contradiction	1
+1442	1923	A child is not looking out of a door.	There is not a door.	neutral	['1', '0']
+1443	1925	kids are not drawing something on paper	The kids are drawing pictures of animals.	contradiction	1
+1444	1926	kids drawing something on paper	The kids are not drawing pictures of animals.	neutral	0
+1445	1927	kids are not drawing something on paper	The kids are not drawing pictures of animals.	neutral	['0', '1']
+1446	1929	Young man is not walking dog	The man is walking his cat.	neutral	1
+1447	1930	Young man walking dog	The man is not walking his cat.	entailment	1
+1448	1931	Young man is not walking dog	The man is not walking his cat.	neutral	['1', '0']
+1449	1933	kids are not drawing something on paper	The kids are cutting ribbons.	neutral	1
+1450	1934	kids drawing something on paper	The kids are not cutting ribbons.	entailment	1
+1451	1935	kids are not drawing something on paper	The kids are not cutting ribbons.	neutral	['1', '0']
+1452	1937	A young woman is not singing into a microphone.	The woman playing the trumpet.	neutral	1
+1453	1938	A young woman is singing into a microphone.	The woman is not playing the trumpet.	entailment	1
+1454	1939	A young woman is not singing into a microphone.	The woman is not playing the trumpet.	neutral	['1', '0']
+1455	1941	A young woman is not singing into a microphone.	The woman is in a band.	neutral	0
+1456	1942	A young woman is singing into a microphone.	The woman is not in a band.	neutral	0
+1457	1943	A young woman is not singing into a microphone.	The woman is not in a band.	neutral	['0', '0']
+1458	1945	A young woman is not singing into a microphone.	The woman is singing.	neutral	1
+1459	1946	A young woman is singing into a microphone.	The woman is not singing.	contradiction	1
+1460	1947	A young woman is not singing into a microphone.	The woman is not singing.	neutral	['1', '0']
+1461	1949	A diver is not swimming with a turtle.	A sick turtle is swimming by a diver.	contradiction	1
+1462	1950	A diver is swimming with a turtle.	A sick turtle is not swimming by a diver.	contradiction	1
+1463	1951	A diver is not swimming with a turtle.	A sick turtle is not swimming by a diver.	neutral	['1', '1']
+1464	1953	A diver is not swimming with a turtle.	A lion is eating raw meat at the zoo.	neutral	1
+1465	1954	A diver is swimming with a turtle.	A lion is not eating raw meat at the zoo.	neutral	1
+1466	1955	A diver is not swimming with a turtle.	A lion is not eating raw meat at the zoo.	neutral	['0', '0']
+1467	1957	A boy in overalls does not blow bubbles.	A boy in overalls is playing with bubbles outside.	contradiction	1
+1468	1958	A boy in overalls blows bubbles.	A boy in overalls is not playing with bubbles outside.	neutral	0
+1469	1959	A boy in overalls does not blow bubbles.	A boy in overalls is not playing with bubbles outside.	entailment	['1', '1']
+1470	1961	A boy in overalls does not blow bubbles.	A boy is blowing bubbles.	contradiction	1
+1471	1962	A boy in overalls blows bubbles.	A boy is not blowing bubbles.	contradiction	1
+1472	1963	A boy in overalls does not blow bubbles.	A boy is not blowing bubbles.	entailment	['1', '1']
+1473	1965	A boy in overalls does not blow bubbles.	A man is juggling in the park.	neutral	1
+1474	1966	A boy in overalls blows bubbles.	A man is not juggling in the park.	neutral	1
+1475	1967	A boy in overalls does not blow bubbles.	A man is not juggling in the park.	neutral	['0', '0']
+1476	1969	Two children are not playing on the floor with toy trains.	The children played on the floor with their new christmas toys.	neutral	0
+1477	1970	Two children playing on the floor with toy trains.	The children did not play on the floor with their new christmas toys.	neutral	0
+1478	1971	Two children are not playing on the floor with toy trains.	The children did not play on the floor with their new christmas toys.	neutral	['0', '0']
+1479	1973	Two children are not playing on the floor with toy trains.	The children played on the floor.	neutral	1
+1480	1974	Two children playing on the floor with toy trains.	The children did not play on the floor.	contradiction	1
+1481	1975	Two children are not playing on the floor with toy trains.	The children did not play on the floor.	neutral	['1', '0']
+1482	1977	Two children are not playing on the floor with toy trains.	The girls slept on the floor next to the toys.	neutral	1
+1483	1978	Two children playing on the floor with toy trains.	The girls did not sleep on the floor next to the toys.	neutral	1
+1484	1979	Two children are not playing on the floor with toy trains.	The girls did not sleep on the floor next to the toys.	neutral	['0', '0']
+1485	1981	A man in a blue shirt, is not jumping down a hill in a park.	A man is sleeping.	neutral	1
+1486	1982	A man in a blue shirt, jumping down a hill in a park.	A man is not sleeping.	entailment	1
+1487	1983	A man in a blue shirt, is not jumping down a hill in a park.	A man is not sleeping.	neutral	['1', '0']
+1488	1985	A man in a blue shirt, is not jumping down a hill in a park.	a man is wearing blue	entailment	0
+1489	1986	A man in a blue shirt, jumping down a hill in a park.	a man is not wearing blue	contradiction	1
+1490	1987	A man in a blue shirt, is not jumping down a hill in a park.	a man is not wearing blue	contradiction	['0', '1']
+1491	1989	Two boys do not stand in an ocean as the sun sets.	Boys are standing	contradiction	1
+1492	1990	Two boys stand in an ocean as the sun sets.	Boys are not standing	contradiction	1
+1493	1991	Two boys do not stand in an ocean as the sun sets.	Boys are not standing	entailment	['1', '1']
+1494	1993	Two boys do not stand in an ocean as the sun sets.	The ocean is calm	neutral	0
+1495	1994	Two boys stand in an ocean as the sun sets.	The ocean is not calm	neutral	0
+1496	1995	Two boys do not stand in an ocean as the sun sets.	The ocean is not calm	neutral	['0', '0']
+1497	1997	Two boys do not stand in an ocean as the sun sets.	The boys are surfing	neutral	0
+1498	1998	Two boys stand in an ocean as the sun sets.	The boys are not surfing	entailment	1
+1499	1999	Two boys do not stand in an ocean as the sun sets.	The boys are not surfing	neutral	['1', '0']
