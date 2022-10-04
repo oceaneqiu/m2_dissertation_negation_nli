@@ -1,0 +1,1001 @@
+	positif	negatif
+0	A barefoot young girl in a pink gown is asleep on a hard wood floor cuddling her baby doll.	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.
+1	Her doll brings her comfort.	Her doll does not bring her comfort.
+2	A barefoot young girl in a pink gown is asleep on a hard wood floor cuddling her baby doll.	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.
+3	A girl is playing with her doll outside.	A girl is not playing with her doll outside.
+4	A barefoot young girl in a pink gown is asleep on a hard wood floor cuddling her baby doll.	A barefoot young girl in a pink gown is not asleep on a hard wood floor cuddling her baby doll.
+5	The girl is wearing shoes.	The girl is not wearing shoes.
+6	a girl sleeping with a baby doll wearing a princess costume	a girl not sleeping with a baby doll wearing a princess costume
+7	The doll is naked.	The doll is not naked.
+8	a girl sleeping with a baby doll wearing a princess costume	a girl not sleeping with a baby doll wearing a princess costume
+9	The doll is a large.	The doll is not a large.
+10	a girl sleeping with a baby doll wearing a princess costume	a girl not sleeping with a baby doll wearing a princess costume
+11	There is a girl.	There is not a girl.
+12	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+13	The girl is in outer space.	The girl is not in outer space.
+14	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+15	A girl failing at playing hide and go seek.	A girl not failing at playing hide and go seek.
+16	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+17	A girl is sleeping.	A girl is not sleeping.
+18	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+19	The girl is in a sleeping bag.	The girl is not in a sleeping bag.
+20	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+21	Some little girls like to sleep with their dolls.	Some little girls do not like to sleep with their dolls.
+22	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+23	Her dolls are in the cabinet.	Her dolls are not in the cabinet.
+24	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+25	A girl napping with her dolls.	A girl not napping with her dolls.
+26	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+27	She is in a foster home.	She is not in a foster home.
+28	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+29	The girl is near her dolls.	The girl is not near her dolls.
+30	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+31	The girl is watching TV	The girl is not watching TV
+32	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+33	A girl exhausted after playing with her dolls.	A girl is not exhausted after playing with her dolls.
+34	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+35	A girl has a blanket over her and her dolls.	A girl does not have a blanket over her and her dolls.
+36	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+37	All young children hate to sleep with dolls.	All young children do not hate to sleep with dolls.
+38	There is a girl in all pink sleeping on the floor with her dolls.	There is not a girl in all pink sleeping on the floor with her dolls.
+39	She loves her dolls.	She does not love her dolls.
+40	An African American man smiling.	An African American man not smiling.
+41	The man is crying.	The man is not crying.
+42	An African American man smiling.	An African American man not smiling.
+43	The man is happy.	The man is not happy.
+44	An African American man smiling.	An African American man not smiling.
+45	The man is showing his teeth to a doctor.	The man is not showing his teeth to a doctor.
+46	A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes.	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.
+47	A boy is walking outside.	A boy is not walking outside.
+48	A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes.	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.
+49	A grandmother is hiking on a nature trail with her grandson.	A grandmother is not hiking on a nature trail with her grandson.
+50	A boy in a red shirt walks through a trail followed by an elderly woman dressed in tan clothes.	A boy in a red shirt does not walk through a trail followed by an elderly woman dressed in tan clothes.
+51	A elderly woman is being mugged by a young boy dressed in black.	A elderly woman is not being mugged by a young boy dressed in black.
+52	A man stands with his arms crossed, smiling at something out of view.	A man does not stand with his arms crossed, smiling at something out of view.
+53	The guy is smiling at something.	The guy is not smiling at something.
+54	A man stands with his arms crossed, smiling at something out of view.	A man does not stand with his arms crossed, smiling at something out of view.
+55	The man is smiling at a friend.	The man is not smiling at a friend.
+56	A man stands with his arms crossed, smiling at something out of view.	A man does not stand with his arms crossed, smiling at something out of view.
+57	The guy is getting pissed off.	The guy is not getting pissed off.
+58	A bald headed man in business casual attire is amused by something occurring off-screen- likely a comedic performance.	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.
+59	The man is indoors.	The man is not indoors.
+60	A bald headed man in business casual attire is amused by something occurring off-screen- likely a comedic performance.	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.
+61	The man is watching a movie.	The man is not watching a movie.
+62	A bald headed man in business casual attire is amused by something occurring off-screen- likely a comedic performance.	A bald headed man in business casual attire is not amused by something occurring off-screen- likely a comedic performance.
+63	The man is wearing short pants and a muscle shirt.	The man is not wearing short pants and a muscle shirt.
+64	This little girl is riding her bike.	This little girl is not riding her bike.
+65	A young girl plays golf with her father.	A young girl does not play golf with her father.
+66	This little girl is riding her bike.	This little girl is not riding her bike.
+67	A young girl rides her bike.	A young girl does not ride her bike.
+68	This little girl is riding her bike.	This little girl is not riding her bike.
+69	A young girl rides her bike in the grass.	A young girl does not ride her bike in the grass.
+70	A man in blue jeans with other people smiling at someone else.	A man in blue jeans with other people not smiling at someone else.
+71	A man is smiling at his family member.	A man is not smiling at his family member.
+72	A man in blue jeans with other people smiling at someone else.	A man in blue jeans with other people not smiling at someone else.
+73	A person wears a pair of pants.	A person does not wear a pair of pants.
+74	A man in blue jeans with other people smiling at someone else.	A man in blue jeans with other people not smiling at someone else.
+75	A man in khakis frowns at someone else.	A man in khakis frowns at someone else.
+76	A man sitting on a step in front of a red door smoking.	A man not sitting on a step in front of a red door smoking.
+77	A woman applying makeup in the mirror.	A woman not applying makeup in the mirror.
+78	A man sitting on a step in front of a red door smoking.	A man not sitting on a step in front of a red door smoking.
+79	A man smoking a cigarette in front of a building.	A man not smoking a cigarette in front of a building.
+80	A man sitting on a step in front of a red door smoking.	A man not sitting on a step in front of a red door smoking.
+81	A man sitting outside his home, smoking.	A man not sitting outside his home, smoking.
+82	Man in a white t-shirt, smoking a cigarette, sitting in front of a red door.	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.
+83	The man is sitting on his stoop.	The man is not sitting on his stoop.
+84	Man in a white t-shirt, smoking a cigarette, sitting in front of a red door.	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.
+85	The man is wearing a green shirt.	The man is not wearing a green shirt.
+86	Man in a white t-shirt, smoking a cigarette, sitting in front of a red door.	Man in a white t-shirt, not smoking a cigarette, sitting in front of a red door.
+87	The man is smoking a cigarette.	The man is not smoking a cigarette.
+88	A asian man smoking on porch.	A asian man not smoking on porch.
+89	the man is wearing a robe	the man is not wearing a robe
+90	A asian man smoking on porch.	A asian man not smoking on porch.
+91	the man is outside.	the man is not outside.
+92	A asian man smoking on porch.	A asian man not smoking on porch.
+93	the man is smoking.	the man is not smoking.
+94	A man in black sneakers is sitting and smoking.	A man in black sneakers is not sitting and smoking.
+95	The man is a world-class sprinter, and has just won the gold medal at the U.S. Track Invitational.	The man is not a world-class sprinter, and has just won the gold medal at the U.S. Track Invitational.
+96	A man in black sneakers is sitting and smoking.	A man in black sneakers is not sitting and smoking.
+97	There is one man in the picture.	There is not one man in the picture.
+98	A man in black sneakers is sitting and smoking.	A man in black sneakers is not sitting and smoking.
+99	The man is taking a break from his job as a server at the local cafe.	The man is not taking a break from his job as a server at the local cafe.
+100	A man sitting on a step.	A man not sitting on a step.
+101	a man is sitting	a man not is sitting
+102	A man sitting on a step.	A man not sitting on a step.
+103	the man is a model	the man is not a model
+104	A man sitting on a step.	A man not sitting on a step.
+105	the man is standing	the man is not standing
+106	Two dark-haired women in white dresses walk past a enlarged photograph of two golfers.	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.
+107	Men jumping on a raft.	Men not jumping on a raft.
+108	Two dark-haired women in white dresses walk past a enlarged photograph of two golfers.	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.
+109	Two women walking.	Two women not walking.
+110	Two dark-haired women in white dresses walk past a enlarged photograph of two golfers.	Two dark-haired women in white dresses do not walk past a enlarged photograph of two golfers.
+111	Two ladies at an art gallery.	Two ladies not at an art gallery.
+112	Three people are pushing a heavy machine.	Three people are not pushing a heavy machine.
+113	The people are laying in bed.	The people are not laying in bed.
+114	Three people are pushing a heavy machine.	Three people are not pushing a heavy machine.
+115	The people are pushing heavy equipment.	The people are not pushing heavy equipment.
+116	Three people are pushing a heavy machine.	Three people are not pushing a heavy machine.
+117	The people are factory workers.	The people are not factory workers.
+118	a man, a woman, and a younger girl are moving a device with a conveyor belt	a man, a woman, and a younger girl are not moving a device with a conveyor belt
+119	The parents silently wished they could transport their daughter via conveyor belt as well.	The parents silently did not wish they could transport their daughter via conveyor belt as well.
+120	a man, a woman, and a younger girl are moving a device with a conveyor belt	a man, a woman, and a younger girl are not moving a device with a conveyor belt
+121	People utilize modern technology.	People do not utilize modern technology.
+122	a man, a woman, and a younger girl are moving a device with a conveyor belt	a man, a woman, and a younger girl are not moving a device with a conveyor belt
+123	A family pushes a device with sheer muscle power.	A family does not push a device with sheer muscle power.
+124	Three people push a piece of large machinery through the street.	Three people do not push a piece of large machinery through the street.
+125	Three people are running to catch a train.	Three people are not running to catch a train.
+126	Three people push a piece of large machinery through the street.	Three people do not push a piece of large machinery through the street.
+127	These people are trying to place big machinery in another room	These people are not trying to place big machinery in another room
+128	Three people push a piece of large machinery through the street.	Three people do not push a piece of large machinery through the street.
+129	people are transporting a big machinery.	people are not transporting a big machinery.
+130	People attempting to move X-ray machine down the street.	People do not attempt to move X-ray machine down the street.
+131	Several persons try to move a medical equipment.	Several persons do not try to move a medical equipment.
+132	People attempting to move X-ray machine down the street.	People do not attempt to move X-ray machine down the street.
+133	Men working in healthcare support service.	Men not working in healthcare support service.
+134	People attempting to move X-ray machine down the street.	People do not attempt to move X-ray machine down the street.
+135	X-ray machine was ready for the next patient.	X-ray machine was not ready for the next patient.
+136	Three people are pushing a large machine down a street.	Three people are not pushing a large machine down a street.
+137	Three men are pushing a machine.	Three men are not pushing a machine.
+138	Three people are pushing a large machine down a street.	Three people are not pushing a large machine down a street.
+139	Three people carry a large machine across the hall.	Three people do not carry a large machine across the hall.
+140	Three people are pushing a large machine down a street.	Three people are not pushing a large machine down a street.
+141	A few people are outside  moving a machine.	A few people are not outside  moving a machine.
+142	A girl stands in a dimly lit area.	A girl does not stand in a dimly lit area.
+143	A boy stands in a dimly lit area.	A boy does not stand in a dimly lit area.
+144	A girl stands in a dimly lit area.	A girl does not stand in a dimly lit area.
+145	A person stands in a dimly lit area.	A person does not stand in a dimly lit area.
+146	A girl stands in a dimly lit area.	A girl does not stand in a dimly lit area.
+147	A sad girl stands in a dimly lit area.	A sad girl does not stand in a dimly lit area.
+148	a lone woamn wearing a black hoodie and blue jeans standing on a sidewalk	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk
+149	A woman wearing a dress outside.	A woman not wearing a dress outside.
+150	a lone woamn wearing a black hoodie and blue jeans standing on a sidewalk	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk
+151	A woman is waiting for a taxi.	A woman is not waiting for a taxi.
+152	a lone woamn wearing a black hoodie and blue jeans standing on a sidewalk	a lone woman not wearing a black hoodie and blue jeans standing on a sidewalk
+153	A woman wearing clothes outside.	A woman not wearing clothes outside.
+154	Girl with crossed arms stands in stone corridor, seated figure in background.	Girl with crossed arms does not stand in stone corridor, seated figure in background.
+155	A girl is sleeping.	A girl is not sleeping.
+156	Girl with crossed arms stands in stone corridor, seated figure in background.	Girl with crossed arms does not stand in stone corridor, seated figure in background.
+157	A girl is standing.	A girl is not standing.
+158	Girl with crossed arms stands in stone corridor, seated figure in background.	Girl with crossed arms does not stand in stone corridor, seated figure in background.
+159	A girl is waiting.	A girl is not waiting.
+160	Girl stands in subway waiting on something.	Girl does not stand in subway waiting on something.
+161	Male is standing in the middle of a bus.	Male is not standing in the middle of a bus.
+162	Girl stands in subway waiting on something.	Girl does not stand in subway waiting on something.
+163	Girls is standing at train station.	Girls is not standing at train station.
+164	Girl stands in subway waiting on something.	Girl does not stand in subway waiting on something.
+165	Girl is standing in a restaurant.	Girl is not standing in a restaurant.
+166	A female in blue jeans is standing in an enclosed area with arms folded.	A female in blue jeans is not standing in an enclosed area with arms folded.
+167	A girl is wearing pants.	A girl is not wearing pants.
+168	A female in blue jeans is standing in an enclosed area with arms folded.	A female in blue jeans is not standing in an enclosed area with arms folded.
+169	A coach in uniform stands watching the team with his arms folded.	A coach in uniform does not stand watching the team with his arms folded.
+170	A female in blue jeans is standing in an enclosed area with arms folded.	A female in blue jeans is not standing in an enclosed area with arms folded.
+171	A model is wearing jeans and is posing for a moody-looking teenage angst picture.	A model is not wearing jeans and is posing for a moody-looking teenage angst picture.
+172	Men working in dirty conditions with red fabric.	Men not working in dirty conditions with red fabric.
+173	Men are leaving a clean home.	Men are not leaving a clean home.
+174	Men working in dirty conditions with red fabric.	Men not working in dirty conditions with red fabric.
+175	Men are working in a dirty room with red material	Men are not working in a dirty room with red material
+176	Men working in dirty conditions with red fabric.	Men not working in dirty conditions with red fabric.
+177	Men are making a house dirty with some fabric	Men are not making a house dirty with some fabric
+178	People in a very poor country go about their daily lives.	People in a very poor country do not go about their daily lives.
+179	There are destitute people.	There are not destitute people.
+180	People in a very poor country go about their daily lives.	People in a very poor country do not go about their daily lives.
+181	The people live in a rich country.	The people do not live in a rich country.
+182	People in a very poor country go about their daily lives.	People in a very poor country do not go about their daily lives.
+183	Some of them live in slums.	Some of them do not live in slums.
+184	Three men work in an alley, while a woman watches from a balcony.	Three men do not work in an alley, while a woman watches from a balcony.
+185	some people are being watched	some people are not being watched
+186	Three men work in an alley, while a woman watches from a balcony.	Three men do not work in an alley, while a woman watches from a balcony.
+187	a couple of men are playing guitars	a couple of men are not playing guitars
+188	Three men work in an alley, while a woman watches from a balcony.	Three men do not work in an alley, while a woman watches from a balcony.
+189	a woman is looking at men doing something	a woman is not looking at men doing something
+190	A person wearing red is at the forefront of an underdeveloped city with man hanging cloths visible.	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.
+191	The person is laying on the hot beach.	The person is not laying on the hot beach.
+192	A person wearing red is at the forefront of an underdeveloped city with man hanging cloths visible.	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.
+193	The person is wearing red.	The person is not wearing red.
+194	A person wearing red is at the forefront of an underdeveloped city with man hanging cloths visible.	A person wearing red is not at the forefront of an underdeveloped city with man hanging cloths visible.
+195	The person is outside.	The person is not outside.
+196	three boys sitting in sand getting splashed by wave	three boys not sitting in sand getting splashed by wave
+197	three boys in the ocean	three boys not in the ocean
+198	three boys sitting in sand getting splashed by wave	three boys not sitting in sand getting splashed by wave
+199	three girls fall in the water	three girls do not fall in the water
+200	Laboratory technicians are checking out some samples.	Laboratory technicians are not checking out some samples.
+201	Some scientists are checking their work.	Some scientists are not checking their work.
+202	A very thin, black dog running in a field.	A very thin, black dog is not running in a field.
+203	The dog is looking for food	The dog is not looking for food
+204	A very thin, black dog running in a field.	A very thin, black dog is not running in a field.
+205	A dog is running outside	A dog is not running outside
+206	A very thin, black dog running in a field.	A very thin, black dog is not running in a field.
+207	The dog is in the house	The dog is not in the house
+208	A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.
+209	The woman is a professor.	The woman is not a professor.
+210	A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.
+211	The women are in the lab.	The women are not in the lab.
+212	A woman is standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.	A woman is not standing behind and supervising another woman in blue gloves working with specimens under a clean hood in a laboratory.
+213	The woman is climbing a mountain.	The woman is not climbing a mountain.
+214	An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.
+215	A woman is showing something to someone else in a lab.	A woman is not showing something to someone else in a lab.
+216	An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.
+217	A woman shows another woman something.	A woman does not show another woman something.
+218	An older woman shows a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.	An older woman does not show a younger woman in blue gloves and a blue shirt something to observe in a scientific research tissue culture hood.
+219	A man is showing somethign to his dog.	A man is not showing somethign to his dog.
+220	The swimmer is wearing a green and yellow hat and goggles.	The swimmer is not wearing a green and yellow hat and goggles.
+221	The swimmer is wearing goggles.	The swimmer is not wearing goggles.
+222	The swimmer is wearing a green and yellow hat and goggles.	The swimmer is not wearing a green and yellow hat and goggles.
+223	The swimmer is in the water.	The swimmer is inot n the water.
+224	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+225	A man is playing ice hockey.	A man is not playing ice hockey.
+226	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+227	A man is swimming.	A man is not swimming.
+228	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+229	A man wearing a swimming cap and googles is swimming.	A man wearing a swimming cap and googles is not swimming.
+230	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+231	A huge man swimming.	A huge man is not swimming.
+232	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+233	A man is laying down on his floatation device in the pool.	A man is not laying down on his floatation device in the pool.
+234	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+235	A man is racing in the swimming competition.	A man is not racing in the swimming competition.
+236	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+237	The woman with the grey swimming cap is wearing goggles and swimming.	The woman with the grey swimming cap is not wearing goggles and swimming.
+238	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+239	A man is in the water.	A man is not in the water.
+240	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+241	a man swims with a blue, yellow and green cap and goggles in a swimming pool	a man does not swim with a blue, yellow and green cap and goggles in a swimming pool
+242	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+243	A man is swimming in his backyard wearing goggles.	A man is not swimming in his backyard wearing goggles.
+244	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+245	The man is a professional swimmer.	The man is not a professional swimmer.
+246	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+247	a man stands next to water with a blue, yellow and green cap and goggles.	a man does not stand next to water with a blue, yellow and green cap and goggles.
+248	A man with a blue, yellow and green swimming cap is wearing goggles and swimming.	A man with a blue, yellow and green swimming cap is not wearing goggles and swimming.
+249	a man swims with a blue, yellow and green cap and goggles.	a man does not swim with a blue, yellow and green cap and goggles.
+250	A swimmer doing the breaststroke in a pool.	A swimmer is not doing the breaststroke in a pool.
+251	The swimmer trains for a competition.	The swimmer does not train for a competition.
+252	A swimmer doing the breaststroke in a pool.	A swimmer is not doing the breaststroke in a pool.
+253	A swimmer uses the pool.	A swimmer does not use the pool.
+254	A man is stacking rocks by the waterfront.	A man is not stacking rocks by the waterfront.
+255	A man is near the water making stacks of rocks.	A man is near the water not making stacks of rocks.
+256	A man is stacking rocks by the waterfront.	A man is not stacking rocks by the waterfront.
+257	A man stacking rocks is an artist.	A man stacking rocks is not an artist.
+258	Dancer striking a beautiful pose on a basketball court.	Dancer is not striking a beautiful pose on a basketball court.
+259	The dancer is posing	The dancer is not posing
+260	Dancer striking a beautiful pose on a basketball court.	Dancer is not striking a beautiful pose on a basketball court.
+261	The dancer is outside.	The dancer is not outside.
+262	This is a scene in the middle of the action of a football game.	This is not a scene in the middle of the action of a football game.
+263	This is a scene in the middle of the action of a soccer game.	This is not a scene in the middle of the action of a soccer game.
+264	This is a scene in the middle of the action of a football game.	This is not a scene in the middle of the action of a football game.
+265	This is a scene in the middle of a football game.	This is not a scene in the middle of a football game.
+266	A woman with tattoos and ripped stockings is unlocking her bicycle from a pole.	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.
+267	The bicycle is locked to a pole.	The bicycle is not locked to a pole.
+268	A woman with tattoos and ripped stockings is unlocking her bicycle from a pole.	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.
+269	The woman's tattoos are very colorful.	The woman's tattoos are not very colorful.
+270	A woman with tattoos and ripped stockings is unlocking her bicycle from a pole.	A woman with tattoos and ripped stockings is not unlocking her bicycle from a pole.
+271	The woman is very formally dressed.	The woman is not very formally dressed.
+272	A religious gathering reading a book.	A religious gathering is not reading a book.
+273	The people are enjoying the book.	The people are not enjoying the book.
+274	A religious gathering reading a book.	A religious gathering is not reading a book.
+275	The people are watching a movie.	The people are not watching a movie.
+276	A religious gathering reading a book.	A religious gathering is not reading a book.
+277	The people are reading.	The people are not reading.
+278	A blond girl with an instrument on her back wearing a gray tank top, gray shorts and ripped nylons with a bike.	A blond girl with an instrument on her back is not wearing a gray tank top, gray shorts and ripped nylons with a bike.
+279	A girl has an instrument.	A girl does not have an instrument.
+280	A blond girl with an instrument on her back wearing a gray tank top, gray shorts and ripped nylons with a bike.	A blond girl with an instrument on her back is not wearing a gray tank top, gray shorts and ripped nylons with a bike.
+281	A girl is going to ride her bike to practice.	A girl is not going to ride her bike to practice.
+282	"A woman with tattoos and ""punk"" style clothing retrieves her bicycle on a busy street in a commercial district."	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."
+283	A woman in corporate wear retrieves her bike on a street.	A woman in corporate wear does not retrieve her bike on a street.
+284	"A woman with tattoos and ""punk"" style clothing retrieves her bicycle on a busy street in a commercial district."	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."
+285	A woman gets her bike in an area for shopping.	A woman does not get her bike in an area for shopping.
+286	"A woman with tattoos and ""punk"" style clothing retrieves her bicycle on a busy street in a commercial district."	"A woman with tattoos and ""punk"" style clothing does not retrieve her bicycle on a busy street in a commercial district."
+287	A woman unlocks her bicycle from a rack on a busy street.	A woman does not unlock her bicycle from a rack on a busy street.
+288	A blond girl with a tattoo on her arm and a guitar on her back is about to get on her bicycle.	A blond girl with a tattoo on her arm and a guitar on her back is not about to get on her bicycle.
+289	A tattooed woman gets on her bicycle to ride to a music show she's in.	A tattooed woman does not get on her bicycle to ride to a music show she's in.
+290	A blond girl with a tattoo on her arm and a guitar on her back is about to get on her bicycle.	A blond girl with a tattoo on her arm and a guitar on her back is not about to get on her bicycle.
+291	A girl getting on her bicycle.	A girl is not getting on her bicycle.
+292	Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back.	Tattooed young woman does not chain her bicycle to a signpost while juggling a guitar on her back.
+293	A woman with tattoos chains her bike to a post.	A woman with tattoos does not chain her bike to a post.
+294	Tattooed young woman chains her bicycle to a signpost while juggling a guitar on her back.	Tattooed young woman does not chain her bicycle to a signpost while juggling a guitar on her back.
+295	A woman secures her bike before performing in a concert.	A woman does not secure her bike before performing in a concert.
+296	Two men, one in red vest, one in blue practicing a form of martial arts.	Two men, one in red vest, one in blue are not practicing a form of martial arts.
+297	The men are sunbathing on a beach.	The men are not sunbathing on a beach.
+298	Two men, one in red vest, one in blue practicing a form of martial arts.	Two men, one in red vest, one in blue are not practicing a form of martial arts.
+299	The men are martial artist.	The men are not martial artist.
+300	Two men, one in red vest, one in blue practicing a form of martial arts.	Two men, one in red vest, one in blue are not practicing a form of martial arts.
+301	The men are outdoors.	The men are not outdoors.
+302	There are two guys in karate attire, one is kicking in the air.	There are not two guys in karate attire, one is kicking in the air.
+303	One guy practices kicking while the other prepares.	One guy does not practice kicking while the other prepares.
+304	There are two guys in karate attire, one is kicking in the air.	There are not two guys in karate attire, one is kicking in the air.
+305	One guy works on punches while another kicks.	One guy does not work on punches while another kicks.
+306	Two men are engaging in some sort of combat sport.	Two men are not engaging in some sort of combat sport.
+307	The men are jousting	The men are not jousting
+308	Two men are engaging in some sort of combat sport.	Two men are not engaging in some sort of combat sport.
+309	The men are walking away from each other	The men are not walking away from each other
+310	Two men are engaging in some sort of combat sport.	Two men are not engaging in some sort of combat sport.
+311	The men are engaging in a athletic competition	The men are not engaging in a athletic competition
+312	A martial arts expert kicking an opponent.	A martial arts expert is not kicking an opponent.
+313	While getting kicked by a martial arts expert, the opponent is getting really upset and ready to beat him up	While not getting kicked by a martial arts expert, the opponent is getting really upset and ready to beat him up
+314	A martial arts expert kicking an opponent.	A martial arts expert is not kicking an opponent.
+315	Opponents brings a gun and scares the martial artist	Opponents does not bring a gun and scares the martial artist
+316	A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing.	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.
+317	A man is walking.	A man is not walking.
+318	A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing.	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.
+319	A man is leaning on a railing.	A man is not leaning on a railing.
+320	A man with a gray beard wearing a light green Seattle Seahawks hoodie looks at something while leaning on a railing.	A man with a gray beard wearing a light green Seattle Seahawks hoodie does not look at something while leaning on a railing.
+321	A man is looking at someone he finds attractive while leaning on a railing.	A man is not looking at someone he finds attractive while leaning on a railing.
+322	Well-dressed youths looking bored in a parking lot.	Well-dressed youths are not looking bored in a parking lot.
+323	The kids are playing an exciting game.	The kids are not playing an exciting game.
+324	Well-dressed youths looking bored in a parking lot.	Well-dressed youths are not looking bored in a parking lot.
+325	Kids are bored.	Kids are not bored.
+326	Well-dressed youths looking bored in a parking lot.	Well-dressed youths are not looking bored in a parking lot.
+327	The kids are bored after church.	The kids are not bored after church.
+328	Jet-ski rider drives through crashing wave.	Jet-ski rider does not drive through crashing wave.
+329	A person is wearing a wet suit on a jet ski.	A person is not wearing a wet suit on a jet ski.
+330	Jet-ski rider drives through crashing wave.	Jet-ski rider does not drive through crashing wave.
+331	A person is riding a jet ski.	A person is not riding a jet ski.
+332	Jet-ski rider drives through crashing wave.	Jet-ski rider does not drive through crashing wave.
+333	A person is using a rowboat.	A person is not using a rowboat.
+334	A man wearing a suit with a red tie is talking to a woman wearing a dress while another woman is leaning against a red car.	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.
+335	A man addressing a woman while another leans against a car.	A man is not addressing a woman while another leans against a car.
+336	A man wearing a suit with a red tie is talking to a woman wearing a dress while another woman is leaning against a red car.	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.
+337	A man chases a woman with a water balloon.	A man does not chase a woman with a water balloon.
+338	A man wearing a suit with a red tie is talking to a woman wearing a dress while another woman is leaning against a red car.	A man wearing a suit with a red tie is not talking to a woman wearing a dress while another woman is leaning against a red car.
+339	Three people chatting after a movie let out.	Three people are not chatting after a movie let out.
+340	A person wearing a wetsuit rides a jet ski into a wave.	A person wearing a wetsuit does not ride a jet ski into a wave.
+341	person riding on the water on a jet ski	person is not riding on the water on a jet ski
+342	A person wearing a wetsuit rides a jet ski into a wave.	A person wearing a wetsuit does not ride a jet ski into a wave.
+343	the man is on the lake with his friends riding jet skis	the man is not on the lake with his friends riding jet skis
+344	Two people riding their Ski-Doos up fast rushing white waves.	Two people are not riding their Ski-Doos up fast rushing white waves.
+345	The people are inside working on mTurk.	The people are not inside working on mTurk.
+346	Two people riding their Ski-Doos up fast rushing white waves.	Two people are not riding their Ski-Doos up fast rushing white waves.
+347	There are people.	There are not  people.
+348	Two people riding their Ski-Doos up fast rushing white waves.	Two people are not riding their Ski-Doos up fast rushing white waves.
+349	The people are on the pacific ocean.	The people are not on the pacific ocean.
+350	A man on a jet ski soars through the waves.	A man on a jet ski does not soar through the waves.
+351	The man is jet skiing while on vacation.	The man is not jet skiing while on vacation.
+352	A man on a jet ski soars through the waves.	A man on a jet ski does not soar through the waves.
+353	The man is putting on suntan lotion.	The man is not putting on suntan lotion.
+354	A man on a jet ski soars through the waves.	A man on a jet ski does not soar through the waves.
+355	A man is outside.	A man is not outside.
+356	A person on a jet ski is going over waves in an ocean.	A person on a jet ski is not going over waves in an ocean.
+357	A human on a ski	A human is not on a ski
+358	A person on a jet ski is going over waves in an ocean.	A person on a jet ski is not going over waves in an ocean.
+359	A huge human on a ski	A huge human is not on a ski
+360	An ad showing Coca Cola in the background and two runners in black Nutrilite jerseys.	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.
+361	Two people are running in front of a pepsi ad.	Two people are not running in front of a pepsi ad.
+362	An ad showing Coca Cola in the background and two runners in black Nutrilite jerseys.	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.
+363	Two people are jogging in jerseys with a Coca Cola ad behind them.	Two people are not jogging in jerseys with a Coca Cola ad behind them.
+364	An ad showing Coca Cola in the background and two runners in black Nutrilite jerseys.	An ad is not showing Coca Cola in the background and two runners in black Nutrilite jerseys.
+365	Two people are running in the city.	Two people are not running in the city.
+366	Young girls playing soccer.	Young girls are not playing soccer.
+367	There is a group of girls playing outdoors.	There is not a group of girls playing outdoors.
+368	Young girls playing soccer.	Young girls are not playing soccer.
+369	There is a group of girls playing soccer.	There is not a group of girls playing soccer.
+370	A young boy, a young girl, an older woman and a man gather for a meal	A young boy, a young girl, an older woman and a man do not gather for a meal
+371	The people are eating chicken.	The people are not eating chicken.
+372	A young boy, a young girl, an older woman and a man gather for a meal	A young boy, a young girl, an older woman and a man do not gather for a meal
+373	The people are at church praying.	The people are not at church praying.
+374	A young boy, a young girl, an older woman and a man gather for a meal	A young boy, a young girl, an older woman and a man do not gather for a meal
+375	The people are gathered to eat.	The people are not gathered to eat.
+376	An elementary schoolgirls soccer team is practicing on the field.	An elementary schoolgirls soccer team is not practicing on the field.
+377	girls will win the soccer game	girls will not win the soccer game
+378	An elementary schoolgirls soccer team is practicing on the field.	An elementary schoolgirls soccer team is not practicing on the field.
+379	girls are going to play a game	girls are not going to play a game
+380	An elementary schoolgirls soccer team is practicing on the field.	An elementary schoolgirls soccer team is not practicing on the field.
+381	girls are sitting in the playing field.	girls are not sitting in the playing field.
+382	A group of children play on a soccer field.	A group of children do not play on a soccer field.
+383	Kids score goal in friendly game of soccer	Kids do not score goal in friendly game of soccer
+384	A grandmother and a small child are sitting at a table being served by a woman in a black shirt.	A grandmother and a small child are not sitting at a table being served by a woman in a black shirt.
+385	The grandmother and small child are inside.	The grandmother and small child are not inside.
+386	A grandmother and a small child are sitting at a table being served by a woman in a black shirt.	A grandmother and a small child are not sitting at a table being served by a woman in a black shirt.
+387	The child is sleeping in his carriage.	The child is not sleeping in his carriage.
+388	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.
+389	Two people are sitting together.	Two people are not sitting together.
+390	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.
+391	A father and son eat ice cream.	A father and son do not eat ice cream.
+392	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.
+393	A lady and her grandchild are being served an authentic African meal	A lady and her grandchild are not being served an authentic African meal
+394	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.
+395	A black servant is bringing food.	A black servant is not bringing food.
+396	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.
+397	An old lady and child are being served by a Frenchman	An old lady and child are not being served by a Frenchman
+398	an old lady and a child are sitting at an ornate green table whilst being served by food by an African person.	an old lady and a child are not sitting at an ornate green table whilst being served by food by an African person.
+399	A woman and child are being served food.	A woman and child are not  being served food.
+400	A girl with white and red makeup holding a red umbrella.	A girl with white and red makeup not holding a red umbrella.
+401	A girl with black and blue makeup holding a white handkerchief.	A girl with black and blue makeup not holding a white handkerchief.
+402	A girl with white and red makeup holding a red umbrella.	A girl with white and red makeup not holding a red umbrella.
+403	A girl with white and red makeup holding a red umbrella to shield herself from the sun.	A girl with white and red makeup not holding a red umbrella to shield herself from the sun.
+404	A girl with white and red makeup holding a red umbrella.	A girl with white and red makeup not holding a red umbrella.
+405	A girl holding an umbrella.	A girl not holding an umbrella.
+406	A woman stands under a paper umbrella.	A woman not standing under a paper umbrella.
+407	A woman is standing up	A woman is not standing up
+408	A woman stands under a paper umbrella.	A woman not standing under a paper umbrella.
+409	A woman is running	A woman is not running
+410	A person is riding a bike on a tree.	A person is not riding a bike on a tree.
+411	Someone is on a bike.	Someone is not on a bike.
+412	A person is riding a bike on a tree.	A person is not riding a bike on a tree.
+413	A stunt rider is balancing a bike riding across a fallen tree bridge.	A stunt rider is not balancing a bike riding across a fallen tree bridge.
+414	A person is riding a bike on a tree.	A person is not riding a bike on a tree.
+415	A guy is driving a car up a tree trunk.	A guy is not driving a car up a tree trunk.
+416	A girl is standing on the rails of a boardwalk, fishing.	A girl is not standing on the rails of a boardwalk, fishing.
+417	A girl is on a boat fishing.	A girl is not on a boat fishing.
+418	A girl is standing on the rails of a boardwalk, fishing.	A girl is not standing on the rails of a boardwalk, fishing.
+419	A girl is fishing.	A girl is not fishing.
+420	A girl is standing on the rails of a boardwalk, fishing.	A girl is not standing on the rails of a boardwalk, fishing.
+421	A girl is fishing off of a pier with her father.	A girl is not fishing off of a pier with her father.
+422	There is girl standing on the pier wearing a blue shirt and holding a fishing rod.	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.
+423	the girl is wearing a red shirt	the girl is not wearing a red shirt
+424	There is girl standing on the pier wearing a blue shirt and holding a fishing rod.	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.
+425	the girl is fishing	the girl is not fishing
+426	There is girl standing on the pier wearing a blue shirt and holding a fishing rod.	There is girl standing on the pier not wearing a blue shirt and holding a fishing rod.
+427	the girl is moving the rod	the girl is not moving the rod
+428	A young girl is fishing from a dock on a lake while the sun is setting.	A young girl is not fishing from a dock on a lake while the sun is setting.
+429	A girl is on the lake	A girl is not on the lake
+430	A young girl is fishing from a dock on a lake while the sun is setting.	A young girl is not fishing from a dock on a lake while the sun is setting.
+431	A young girl is fishing	A young girl is not fishing
+432	A young girl is fishing from a dock on a lake while the sun is setting.	A young girl is not fishing from a dock on a lake while the sun is setting.
+433	A girl is in the sun dead.	A girl is not in the sun dead.
+434	a young woman fishing off a dock at sunset.	a young woman not fishing off a dock at sunset.
+435	A woman casting her last lure in the water for the day.	A woman not casting her last lure in the water for the day.
+436	a young woman fishing off a dock at sunset.	a young woman not fishing off a dock at sunset.
+437	A woman dressing a fish.	A woman not dressing a fish.
+438	a young woman fishing off a dock at sunset.	a young woman not fishing off a dock at sunset.
+439	Woman fishing.	Woman not fishing.
+440	The man is skateboarding down the railing in the middle of the steps.	The man is not skateboarding down the railing in the middle of the steps.
+441	a man on a skateboard	a man not on a skateboard
+442	The man is skateboarding down the railing in the middle of the steps.	The man is not skateboarding down the railing in the middle of the steps.
+443	a man eating pie	a man not eating pie
+444	The man is skateboarding down the railing in the middle of the steps.	The man is not skateboarding down the railing in the middle of the steps.
+445	a pro skater grinds down a rail	a pro skater not grinding down a rail
+446	An older gentleman wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	An older gentleman not wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.
+447	The man and his dog are going to a parade.	The man and his dog are not going to a parade.
+448	An older gentleman wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.	An older gentleman not wearing an elaborate headdress holding a white dog that has had its fur dyed several colors.
+449	A man holds a dog that has dyed fur.	A man not holding a dog that has dyed fur.
+450	girls sitting with their hands on their laps	girls not sitting with their hands on their laps
+451	the girls sit together before school	the girls do not sit together before school
+452	girls sitting with their hands on their laps	girls not sitting with their hands on their laps
+453	the girls sit together	the girls do not sit together
+454	A man sitting in an office on a computer.	A man not sitting in an office on a computer.
+455	The man is surfing the internet.	The man is not surfing the internet.
+456	A man sitting in an office on a computer.	A man not sitting in an office on a computer.
+457	The man is on the computer in his office.	The man is not on the computer in his office.
+458	A man sitting in an office on a computer.	A man not sitting in an office on a computer.
+459	The man is cleaning his dek.	The man is not cleaning his dek.
+460	A man at his desk is reading from his computer monitor.	A man at his desk is not reading from his computer monitor.
+461	a person is reading	a person is not reading
+462	A man at his desk is reading from his computer monitor.	A man at his desk is not reading from his computer monitor.
+463	A man reads the newspaper online over coffee	A man does not read the newspaper online over coffee
+464	A man at his desk is reading from his computer monitor.	A man at his desk is not reading from his computer monitor.
+465	A man spelunks in a cave	A man not spelunking in a cave
+466	A group of young women are sitting down outside.	A group of young women are not sitting down outside.
+467	There are young women outside.	There are not young women outside.
+468	A group of young women are sitting down outside.	A group of young women are not sitting down outside.
+469	The young women are waiting to meet Vladimir Putin.	The young women are not waiting to meet Vladimir Putin.
+470	A group of nicely-dressed women are sitting together.	A group of nicely-dressed women are not sitting together.
+471	People sitting together.	People not sitting together.
+472	A group of nicely-dressed women are sitting together.	A group of nicely-dressed women are not sitting together.
+473	Women sitting together for a picnic.	Women not sitting together for a picnic.
+474	A group of nicely-dressed women are sitting together.	A group of nicely-dressed women are not sitting together.
+475	Naked women standing together.	Naked women not standing together.
+476	A couple is walking down the street.	A couple is not walking down the street.
+477	A couple is holding hands walking.	A couple is not holding hands walking.
+478	A couple is walking down the street.	A couple is not walking down the street.
+479	A couple sit down to eat dinner.	A couple are not sitting down to eat dinner.
+480	A couple is walking down the street.	A couple is not walking down the street.
+481	A duo is strolling down the road.	A duo is not strolling down the road.
+482	There is a hockey player in the middle of a game.	There is not a hockey player in the middle of a game.
+483	The person is playing guitar for his friends.	The person is not playing guitar for his friends.
+484	There is a hockey player in the middle of a game.	There is a not hockey player in the middle of a game.
+485	A hockey player is getting ready to take a shot.	A hockey player is not getting ready to take a shot.
+486	There is a hockey player in the middle of a game.	There is not a hockey player in the middle of a game.
+487	A person is playing hockey.	A person is not playing hockey.
+488	This is a hockey player in a red and white uniform and a white helmet.	This is not a hockey player in a red and white uniform and a white helmet.
+489	A hockey player is dressed in a team uniform.	A hockey player is not dressed in a team uniform.
+490	This is a hockey player in a red and white uniform and a white helmet.	This is not a hockey player in a red and white uniform and a white helmet.
+491	A hockey player is skating on ice.	A hockey player is not skating on ice.
+492	Men walking outside near a castle.	Men not walking outside near a castle.
+493	There are men walking near a German castle.	There are not men walking near a German castle.
+494	Men walking outside near a castle.	Men not walking outside near a castle.
+495	There are men running near a lake.	There are not men running near a lake.
+496	Men walking outside near a castle.	Men not walking outside near a castle.
+497	There are men walking.	There are not men walking.
+498	family getting ready for wedding.	family not getting ready for wedding.
+499	A family getting ready for a wedding.	A family not getting ready for a wedding.
+500	family getting ready for wedding.	family not getting ready for wedding.
+501	A family sleeping in the living room.	A family not sleeping in the living room.
+502	family getting ready for wedding.	family not getting ready for wedding.
+503	A white family getting ready for a wedding.	A white family not getting ready for a wedding.
+504	Person is riding a bike with blue tires up a tree.	Person is not riding a bike with blue tires up a tree.
+505	The person is asleep on the bedspread.	The person is not asleep on the bedspread.
+506	Person is riding a bike with blue tires up a tree.	Person is not riding a bike with blue tires up a tree.
+507	There is a person on a bike.	There is not a person on a bike.
+508	Person is riding a bike with blue tires up a tree.	Person is not riding a bike with blue tires up a tree.
+509	The person is a female.	The person is not a female.
+510	People lining up and getting ready for Flag day in France.	People not lining up and getting ready for Flag day in France.
+511	People are starting to buy flags.	People are not starting to buy flags.
+512	People lining up and getting ready for Flag day in France.	People not lining up and getting ready for Flag day in France.
+513	People are burning flags in the street.	People are not burning flags in the street.
+514	People lining up and getting ready for Flag day in France.	People not lining up and getting ready for Flag day in France.
+515	People are celebrating Flag Day.	People are not celebrating Flag Day.
+516	seven well dressed people stand in a church.	seven well dressed people do not stand in a church.
+517	Seven people attend a church service.	Seven people do not attend a church service.
+518	seven well dressed people stand in a church.	seven well dressed people do not stand in a church.
+519	Seven people bet on the ponies.	Seven people do not bet on the ponies.
+520	seven well dressed people stand in a church.	seven well dressed people do not stand in a church.
+521	People stand in a church.	People do not stand in a church.
+522	A son and his parents are taking a group picture in a church.	A son and his parents are not taking a group picture in a church.
+523	A son and his parents are worshipping in the church	A son and his parents are not worshipping in the church
+524	A son and his parents are taking a group picture in a church.	A son and his parents are not taking a group picture in a church.
+525	A son and his parents are standing in front fo the church for a selfie	A son and his parents are not standing in front fo the church for a selfie
+526	A son and his parents are taking a group picture in a church.	A son and his parents are not taking a group picture in a church.
+527	A son and his parents are in the picture	A son and his parents are not in the picture
+528	Two men staring into space.	Two men not staring into space.
+529	People are looking at the cosmos.	People are not looking at the cosmos.
+530	Two men staring into space.	Two men not staring into space.
+531	The men are in an underground bunker.	The men are not in an underground bunker.
+532	Two men staring into space.	Two men not staring into space.
+533	The men are looking up at the sky.	The men are not looking up at the sky.
+534	Two boys are sitting to a table filled with food and snacks.	Two boys are not sitting to a table filled with food and snacks.
+535	The two young kids waited patiently at the table, hoping their parents would allow them to eat all the tableful of snacks!	The two young kids did not wait patiently at the table, hoping their parents would allow them to eat all the tableful of snacks!
+536	Two boys are sitting to a table filled with food and snacks.	Two boys are not sitting to a table filled with food and snacks.
+537	Two young boys, candy bars and other snacks jammed in their pockets, ran across the field to get away from the store clerk.	Two young boys, candy bars and other snacks jammed in their pockets, did not run across the field to get away from the store clerk.
+538	Two boys are sitting to a table filled with food and snacks.	Two boys are not sitting to a table filled with food and snacks.
+539	The table was covered with lots of food.	The table was not covered with lots of food.
+540	Two teenagers are staring across a table.	Two teenagers are not staring across a table.
+541	Two teenagers are facing each other.	Two teenagers are not facing each other.
+542	Two teenagers are staring across a table.	Two teenagers are not staring across a table.
+543	The two teenagers are having a staring contest.	The two teenagers are not having a staring contest.
+544	Two teenagers are staring across a table.	Two teenagers are not staring across a table.
+545	One of the teenagers is looking to the left and the other to the right.	One of the teenagers is not looking to the left and the other to the right.
+546	There is two young men sitting at a table and there is cookies and cups on the table.	There is not two young men sitting at a table and there is cookies and cups on the table.
+547	Two men share a meal.	Two men do not share a meal.
+548	There is two young men sitting at a table and there is cookies and cups on the table.	There is not two young men sitting at a table and there is cookies and cups on the table.
+549	People out having chicken wings.	People not out having chicken wings.
+550	There is two young men sitting at a table and there is cookies and cups on the table.	There is not two young men sitting at a table and there is cookies and cups on the table.
+551	Two men are eating dessert.	Two men are not eating dessert.
+552	Two young men with curly hair are seated at a table, eating.	Two young men with curly hair are not seated at a table, eating.
+553	Two young men are throwing up.	Two young men are not throwing up.
+554	Two young men with curly hair are seated at a table, eating.	Two young men with curly hair are not seated at a table, eating.
+555	Two young men are eating chinese food.	Two young men are not eating chinese food.
+556	Two young men with curly hair are seated at a table, eating.	Two young men with curly hair are not seated at a table, eating.
+557	Two young men are eating.	Two young men are not eating.
+558	A woman wearing boots is praying on the ground	A woman wearing boots is not praying on the ground
+559	A woman in boots is praying as she jumps in the air.	A woman in boots is not praying as she jumps in the air.
+560	A woman wearing boots is praying on the ground	A woman wearing boots is not praying on the ground
+561	A person with footwear is engaged in a religious activity.	A person with footwear is not engaged in a religious activity.
+562	A woman wearing boots is praying on the ground	A woman wearing boots is not praying on the ground
+563	A woman prays on the ground with her hands clasped.	A woman is not praying on the ground with her hands clasped.
+564	A maintenance worker on hands and knees cleaning out drainage ditch.	A maintenance worker on hands and knees not cleaning out drainage ditch.
+565	A worker cleans out a drainage ditch.	A worker does not clean out a drainage ditch.
+566	A maintenance worker on hands and knees cleaning out drainage ditch.	A maintenance worker on hands and knees not cleaning out drainage ditch.
+567	A female worker dances on a stripper pole.	A female worker not dancing on a stripper pole.
+568	A maintenance worker on hands and knees cleaning out drainage ditch.	A maintenance worker on hands and knees not cleaning out drainage ditch.
+569	A female worker cleans out a ditch.	A female worker does not clean out a ditch.
+570	A worker is on their hands and knees at a work site by a white fence.	A worker is not on their hands and knees at a work site by a white fence.
+571	The worker is painting the fence	The worker is not painting the fence
+572	A worker is on their hands and knees at a work site by a white fence.	A worker is not on their hands and knees at a work site by a white fence.
+573	The worker is working on a fence	The worker is not working on a fence
+574	A worker is on their hands and knees at a work site by a white fence.	A worker is not on their hands and knees at a work site by a white fence.
+575	The worker urinating on the fence	The worker not urinating on the fence
+576	A person on their knees looking for something.	A person not on their knees looking for something.
+577	A person standing in a room.	A person not standing in a room.
+578	A person on their knees looking for something.	A person not on their knees looking for something.
+579	A person lost their keys and are looking for it.	A person lost their keys and are not looking for it.
+580	A person on their knees looking for something.	A person not on their knees looking for something.
+581	A person looking for something.	A person not looking for something.
+582	A man attempting to fix a broken concrete wall.	A man not attempting to fix a broken concrete wall.
+583	A man working on a wall that is broken.	A man not working on a wall that is broken.
+584	A man attempting to fix a broken concrete wall.	A man not attempting to fix a broken concrete wall.
+585	A man taking a nap against a concrete wall.	A man not taking a nap against a concrete wall.
+586	A man attempting to fix a broken concrete wall.	A man not attempting to fix a broken concrete wall.
+587	A man working on a wall that was broken by a car driving into it.	A man not working on a wall that was broken by a car driving into it.
+588	Two people talk while sitting by a desk.	Two people do not talk while sitting by a desk.
+589	Two people discuss their day in the office.	Two people do not discuss their day in the office.
+590	Two people talk while sitting by a desk.	Two people do not talk while sitting by a desk.
+591	Two people are standing at the water cooler.	Two people are not standing at the water cooler.
+592	Two people talk while sitting by a desk.	Two people do not talk while sitting by a desk.
+593	People are sitting by a desk.	People are not sitting by a desk.
+594	Two tennis players are talking on the tennis courts.	Two tennis players are not talking on the tennis courts.
+595	Everyone is at a volleyball court.	Everyone is not at a volleyball court.
+596	Two tennis players are talking on the tennis courts.	Two tennis players are not talking on the tennis courts.
+597	Someone is about to serve.	Someone is not about to serve.
+598	Two tennis players are talking on the tennis courts.	Two tennis players are not talking on the tennis courts.
+599	The ground is green.	The ground is not green.
+600	A person on a horse jumps over a broken down airplane.	A person on a horse doesn't jump over a broken down airplane.
+601	A person is training his horse for a competition.	A person is not training his horse for a competition.
+602	Two dogs biting on a Frisbee in the pond.	Two dogs are not biting on a Frisbee in the pond.
+603	The dogs are indoors.	The dogs are not indoors.
+604	A person on a horse jumps over a broken down airplane.	A person on a horse doesn't jump over a broken down airplane.
+605	A person is outdoors, on a horse.	A person is not outdoors, on a horse.
+606	A yellow uniformed skier is performing a trick across a railed object.	A yellow uniformed skier is not performing a trick across a railed object.
+607	A snowboarder is riding a ski lift.	A snowboarder is not riding a ski lift.
+608	A yellow uniformed skier is performing a trick across a railed object.	A yellow uniformed skier is not performing a trick across a railed object.
+609	A skier is competing in a competition.	A skier is not competing in a competition.
+610	A yellow uniformed skier is performing a trick across a railed object.	A yellow uniformed skier is not performing a trick across a railed object.
+611	Somebody is engaging in winter sports.	Somebody is not engaging in winter sports.
+612	A boy is jumping on skateboard in the middle of a red bridge.	A boy is not jumping on skateboard in the middle of a red bridge.
+613	The boy skates down the sidewalk.	The boy doesn't skates down the sidewalk.
+614	A boy is jumping on skateboard in the middle of a red bridge.	A boy is not jumping on skateboard in the middle of a red bridge.
+615	The boy does a skateboarding trick.	The boy does not a skateboarding trick.
+616	A boy is jumping on skateboard in the middle of a red bridge.	A boy is not jumping on skateboard in the middle of a red bridge.
+617	The boy is wearing safety equipment.	The boy is not wearing safety equipment.
+618	A skier slides along a metal rail.	A skier doesn't slide along a metal rail.
+619	A skier is near the rail looking down.	A skier is not near the rail looking down.
+620	A skier slides along a metal rail.	A skier doesn't slide along a metal rail.
+621	A skier is near the rail.	A skier is not near the rail.
+622	A skier slides along a metal rail.	A skier doesn't slide along a metal rail.
+623	A skier is away from the rail.	A skier is not away from the rail.
+624	Two blond women are hugging one another.	Two blond women are not hugging one another.
+625	Some women are hugging on vacation.	Some women are not hugging on vacation.
+626	Two blond women are hugging one another.	Two blond women are not hugging one another.
+627	The women are sleeping.	The women are not sleeping.
+628	Two blond women are hugging one another.	Two blond women are not hugging one another.
+629	There are women showing affection.	There are not women showing affection.
+630	A few people in a restaurant setting, one of them is drinking orange juice.	A few people in a restaurant setting, one of them is not drinking orange juice.
+631	The people are eating omelettes.	The people are not eating omelettes.
+632	A few people in a restaurant setting, one of them is drinking orange juice.	A few people in a restaurant setting, one of them is not drinking orange juice.
+633	The people are sitting at desks in school.	The people are not sitting at desks in school.
+634	A few people in a restaurant setting, one of them is drinking orange juice.	A few people in a restaurant setting, one of them is not drinking orange juice.
+635	The diners are at a restaurant.	The diners are not at a restaurant.
+636	An older man is drinking orange juice at a restaurant.	An older man is not drinking orange juice at a restaurant.
+637	A man is drinking juice.	A man is not drinking juice.
+638	An older man is drinking orange juice at a restaurant.	An older man is not drinking orange juice at a restaurant.
+639	Two women are at a restaurant drinking wine.	Two women are not at a restaurant drinking wine.
+640	An older man is drinking orange juice at a restaurant.	An older man is not drinking orange juice at a restaurant.
+641	A man in a restaurant is waiting for his meal to arrive.	A man in a restaurant is not waiting for his meal to arrive.
+642	A man with blond-hair, and a brown shirt drinking out of a public water fountain.	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.
+643	A blond man getting a drink of water from a fountain in the park.	A blond man is not getting a drink of water from a fountain in the park.
+644	A man with blond-hair, and a brown shirt drinking out of a public water fountain.	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.
+645	A blond man wearing a brown shirt is reading a book on a bench in the park	A blond man is not wearing a brown shirt is reading a book on a bench in the park
+646	A man with blond-hair, and a brown shirt drinking out of a public water fountain.	A man with blond-hair, and a brown shirt is not drinking out of a public water fountain.
+647	A blond man drinking water from a fountain.	A blond man is not drinknig water from a fountain.
+648	A blond man is drinking from a public fountain.	A blond man is not drinking from a public fountain.
+649	The man is drinking water.	The man is not drinking water.
+650	A blond man is drinking from a public fountain.	A blond man is not drinking from a public fountain.
+651	The man is very thirsty.	The man is not very thirsty.
+652	A blond man is drinking from a public fountain.	A blond man is not drinking from a public fountain.
+653	The man is drinking coffee.	The man is not drinking coffee.
+654	Wet brown dog swims towards camera.	Wet brown dog does not swim towards camera.
+655	The dog is sleeping in his bed.	The dog is not sleeping in his bed.
+656	Wet brown dog swims towards camera.	Wet brown dog does not swim towards camera.
+657	A dog is playing fetch in a pond.	A dog is not playing fetch in a pond.
+658	Wet brown dog swims towards camera.	Wet brown dog does not swim towards camera.
+659	A dog is in the water.	A dog is not in the water.
+660	The furry brown dog is swimming in the ocean.	The furry brown dog is not swimming in the ocean.
+661	A dog is chasing a fish.	A dog is not chasing a fish.
+662	The furry brown dog is swimming in the ocean.	The furry brown dog is not swimming in the ocean.
+663	A dog is swimming.	A dog is not swimming.
+664	The furry brown dog is swimming in the ocean.	The furry brown dog is not swimming in the ocean.
+665	A dog is running around the yard.	A dog is not running around the yard.
+666	A big brown dog swims towards the camera.	A big brown dog does not swim towards the camera.
+667	A dog is chasing a stick.	A dog is not chasing a stick.
+668	A big brown dog swims towards the camera.	A big brown dog does not swim towards the camera.
+669	A photographer is taking pictures of a dog.	A photographer is not taking pictures of a dog.
+670	A big brown dog swims towards the camera.	A big brown dog does not swim towards the camera.
+671	A dog swims towards the camera.	A dog does not swim towards the camera.
+672	Seven joggers run down a path.	Seven joggers do not run down a path.
+673	There are seven people jogging together.	There are not seven people jogging together.
+674	High fashion ladies wait outside a tram beside a crowd of people in the city.	High fashion ladies do not wait outside a tram beside a crowd of people in the city.
+675	Women are waiting by a tram.	Women are not waiting by a tram.
+676	Seven joggers run down a path.	Seven joggers do not run down a path.
+677	The joggers are sitting on the sidewalk.	The joggers are not sitting on the sidewalk.
+678	Seven joggers run down a path.	Seven joggers do not run down a path.
+679	The joggers are running together outside.	The joggers are not running together outside.
+680	A man, woman, and child enjoying themselves on a beach.	A man, woman, and child are not enjoying themselves on a beach.
+681	A family of three is at the beach.	A family of three is not at the beach.
+682	A man, woman, and child enjoying themselves on a beach.	A man, woman, and child are not enjoying themselves on a beach.
+683	A family of three is at the mall shopping.	A family of three is not at the mall shopping.
+684	Two people working on computers.	Two people are not working on computers.
+685	The people are talking a chemistry exam.	The people are not talking a chemistry exam.
+686	Two people working on computers.	Two people are not working on computers.
+687	The people are near the computers.	The people are not near the computers.
+688	Two people working on computers.	Two people are not working on computers.
+689	The people work in an office building.	The people do not work in an office building.
+690	A couple playing with a little boy on the beach.	A couple are not playing with a little boy on the beach.
+691	A couple are playing with a young child outside.	A couple are not playing with a young child outside.
+692	A couple playing with a little boy on the beach.	A couple are not playing with a little boy on the beach.
+693	A couple are playing frisbee with a young child at the beach.	A couple are not playing frisbee with a young child at the beach.
+694	A couple playing with a little boy on the beach.	A couple are not playing with a little boy on the beach.
+695	A couple watch a little girl play by herself on the beach.	A couple do not watch a little girl play by herself on the beach.
+696	A couple play in the tide with their young son.	A couple do not play in the tide with their young son.
+697	The family is sitting down for dinner.	The family is not sitting down for dinner.
+698	A couple play in the tide with their young son.	A couple do not play in the tide with their young son.
+699	The family is outside.	The family is not outside.
+700	Two women, one old, looking at a map.	Two women, one old, are not looking at a map.
+701	The two woman are taking pictures with their cameras.	The two woman are not taking pictures with their cameras.
+702	Two women, one old, looking at a map.	Two women, one old, are not looking at a map.
+703	The two women are looking at a map.	The two women are not looking at a map.
+704	Four children playing on a sculpture of a bear.	Four children are not playing on a sculpture of a bear.
+705	Old ladies are gathered for tea.	Old ladies are not gathered for tea.
+706	A woman is looking at a city map.	A woman is not looking at a city map.
+707	A woman views a map.	A woman does not view a map.
+708	Four children playing on a sculpture of a bear.	Four children are not playing on a sculpture of a bear.
+709	Kids are playing on a sculpture.	Kids are not playing on a sculpture.
+710	A woman is looking at a city map.	A woman is not looking at a city map.
+711	A woman uses GPS in her car.	A woman does not use GPS in her car.
+712	Three people are in a body of water.	Three people are not in a body of water.
+713	A woman is lying on the beach alone.	A woman is not lying on the beach alone.
+714	Three people are in a body of water.	Three people are not in a body of water.
+715	Three friends are swimming in the lake.	Three friends are not swimming in the lake.
+716	Three people are in a body of water.	Three people are not in a body of water.
+717	The water has people in it.	The water does not have people in it.
+718	A woman asking for directions in front of a colorful map.	A woman is not asking for directions in front of a colorful map.
+719	A lady is asking for directions to her meeting	A lady is not asking for directions to her meeting
+720	A woman asking for directions in front of a colorful map.	A woman is not asking for directions in front of a colorful map.
+721	A lady is asking for directions to her meeting with her directors	A lady is not asking for directions to her meeting with her directors
+722	A woman asking for directions in front of a colorful map.	A woman is not asking for directions in front of a colorful map.
+723	While watching a movie he falls a sleep on the street	While watching a movie he does not fall a sleep on the street
+724	Two women standing in front of a map.	Two women are not standing in front of a map.
+725	two women are lost	two women are not lost
+726	Two women standing in front of a map.	Two women are not standing in front of a map.
+727	two women standing	two women are not standing
+728	Two women standing in front of a map.	Two women are not standing in front of a map.
+729	a boy eats grapes	a boy does not eat grapes
+730	A group of kids plays in the spray of water from a fountain.	A group of kids do not play in the spray of water from a fountain.
+731	The fountain is broken	The fountain is not broken
+732	A group of kids plays in the spray of water from a fountain.	A group of kids do not play in the spray of water from a fountain.
+733	The fountain is spraying	The fountain is not spraying
+734	A group of kids plays in the spray of water from a fountain.	A group of kids do not play in the spray of water from a fountain.
+735	The sun is shining brightly	The sun is not shining brightly
+736	A person walks between two buildings.	A person does not walk between two buildings.
+737	The person is walking in between some buildings.	The person is not walking in between some buildings.
+738	A person walks between two buildings.	A person does not walk between two buildings.
+739	The person walks between the bank and the hardware store.	The person does not walk between the bank and the hardware store.
+740	A person walks between two buildings.	A person does not walk between two buildings.
+741	The person is sleeping in the alley way.	The person is not sleeping in the alley way.
+742	A blond woman stands alone in a city alleyway.	A blond woman does not stand alone in a city alleyway.
+743	The woman waits by the alley for her friend.	The woman does not wait by the alley for her friend.
+744	A blond woman stands alone in a city alleyway.	A blond woman does not stand alone in a city alleyway.
+745	A woman is outside.	A woman is not outside.
+746	A blond woman stands alone in a city alleyway.	A blond woman does not stand alone in a city alleyway.
+747	The dark headed woman stands alone in a city.	The dark headed woman does not stand alone in a city.
+748	Women are working at looms.	Women are not working at looms.
+749	Women are working	Women are not working
+750	Women are working at looms.	Women are not working at looms.
+751	Women are puking	Women are not puking
+752	Women are working at looms.	Women are not working at looms.
+753	Women are indoors	Women are not indoors
+754	A man in a blue shirt driving a Segway type vehicle.	A man in a blue shirt is not driving a Segway type vehicle.
+755	A woman in a green shirt is sitting down.	A woman in a green shirt is not sitting down.
+756	A man in a blue shirt driving a Segway type vehicle.	A man in a blue shirt is not driving a Segway type vehicle.
+757	A man is swimming in a pool.	A man is not swimming in a pool.
+758	A man in a blue shirt driving a Segway type vehicle.	A man in a blue shirt is not driving a Segway type vehicle.
+759	A very tall man is driving a vehicle	A very tall man is not driving a vehicle
+760	A young boy is wearing a white jumpsuit.	A young boy is not wearing a white jumpsuit.
+761	A boy wears his favorite outfit.	A boy does not wear his favorite outfit.
+762	A young boy is wearing a white jumpsuit.	A young boy is not wearing a white jumpsuit.
+763	A girl wears a blue jumpsuit.	A girl does not wear a blue jumpsuit.
+764	A young boy is wearing a white jumpsuit.	A young boy is not wearing a white jumpsuit.
+765	A boy wears a white outfit.	A boy does not wear a white outfit.
+766	Two brown dog play together in the water.	Two brown dog do not play together in the water.
+767	dogs fight over toy	dogs do not fight over toy
+768	Two brown dog play together in the water.	Two brown dog do not play together in the water.
+769	girl follows boy	girl does not follow boy
+770	Two brown dog play together in the water.	Two brown dog do not play together in the water.
+771	dogs playing	dogs are not playing
+772	Two dogs play in the water.	Two dogs do not play in the water.
+773	The dogs are resting under a tree.	The dogs are not resting under a tree.
+774	Two dogs play in the water.	Two dogs do not play in the water.
+775	The dogs are barking loudly.	The dogs are not barking loudly.
+776	Two dogs play in the water.	Two dogs do not play in the water.
+777	The dogs are wet.	The dogs are not wet.
+778	Asian woman harvesting wheat.	Asian woman is not harvesting wheat.
+779	There is a woman with wheat.	There is not a woman with wheat.
+780	Asian woman harvesting wheat.	Asian woman is not harvesting wheat.
+781	The woman is selling wheat.	The woman is not selling wheat.
+782	Asian woman harvesting wheat.	Asian woman is not harvesting wheat.
+783	The woman is eating corn.	The woman is not eating corn.
+784	A man in red pants walking on rocks.	A man in red pants is not walking on rocks.
+785	The rocks are big.	The rocks are not big.
+786	A man in red pants walking on rocks.	A man in red pants is not walking on rocks.
+787	The man is surfing.	The man is not surfing.
+788	Two dogs biting on a Frisbee in the pond.	Two dogs are not biting on a Frisbee in the pond.
+789	The dogs are siblings.	The dogs are not siblings.
+790	A male with a hat a is sweeping the road.	A male with a hat a is not sweeping the road.
+791	A man is sitting on a porch.	A man is not sitting on a porch.
+792	A male with a hat a is sweeping the road.	A male with a hat a is not sweeping the road.
+793	A male is cleaning outside.	A male is not cleaning outside.
+794	A male with a hat a is sweeping the road.	A male with a hat a is not sweeping the road.
+795	An old man is outside of his home.	An old man is not outside of his not home.
+796	A group of people waving a flag on stage	A group of people are not waving a flag on stage
+797	An american flag is being waved.	An american flag is not being waved.
+798	A group of people waving a flag on stage	A group of people are not waving a flag on stage
+799	A crowd has a flag	A crowd does not have a flag
+800	Two men on bicycles competing in a race.	Two men on bicycles are not competing in a race.
+801	People are riding bikes.	People are not riding bikes.
+802	Two men on bicycles competing in a race.	Two men on bicycles are not competing in a race.
+803	Men are riding bicycles on the street.	Men are not riding bicycles on the street.
+804	Two men on bicycles competing in a race.	Two men on bicycles are not competing in a race.
+805	A few people are catching fish.	A few people are not catching fish.
+806	A young boy in a field of flowers carrying a ball	A young boy in a field of flowers is not carrying a ball
+807	boy leaving baseball game	boy is not leaving baseball game
+808	A young boy is sitting in a green tunnel	A young boy is not sitting in a green tunnel
+809	A girl is sitting	A girl is not sitting
+810	A young boy is sitting in a green tunnel	A young boy is not sitting in a green tunnel
+811	The boy is wearing a green shirt	The boy is not wearing a green shirt
+812	Two doctors perform surgery on patient.	Two doctors do not perform surgery on patient.
+813	Two surgeons are having lunch.	Two surgeons are not having lunch.
+814	Two doctors perform surgery on patient.	Two doctors do not perform surgery on patient.
+815	Doctors are performing surgery.	Doctors are not performing surgery.
+816	Two doctors perform surgery on patient.	Two doctors do not perform surgery on patient.
+817	Two doctors are performing surgery on a man.	Two doctors are not performing surgery on a man.
+818	Kids are on a amusement ride.	Kids are not on a amusement ride.
+819	Kids ride their favorite amusement ride.	Kids do not ride their favorite amusement do not ride.
+820	Kids are on a amusement ride.	Kids are not on a amusement ride.
+821	A car is broke down on the side of the road.	A car is not broke down on the side of the road.
+822	Kids are on a amusement ride.	Kids are not on a amusement ride.
+823	Kids ride an amusement ride.	Kids do not ride an amusement do not ride.
+824	A little boy in a blue shirt holding a toy.	A little boy in a blue shirt is not holding a toy.
+825	Boy dressed in blue carrying toy to a toybox.	Boy dressed in blue is not carrying toy to a toybox.
+826	a man is swimming inside of a pool	a man is not swimming inside of a pool
+827	there is a man in a pool.	there is not a man in a pool.
+828	A young boy is sitting in a green tunnel	A young boy is not sitting in a green tunnel
+829	The boy is sitting	The boy is not sitting
+830	The little boy is jumping into a puddle on the street.	The little boy is not jumping into a puddle on the street.
+831	The boy is walking across the field with his dog.	The boy is not walking across the field with his dog.
+832	A girl swings high in the air.	A girl does not swing high in the air.
+833	A girl is laying in the pool	A girl is not laying in the pool
+834	A girl swings high in the air.	A girl does not swing high in the air.
+835	A girl is on a swing	A girl is not laying on a swing
+836	A view of the back of a woman having a beverage.	A view of the back of a woman not having a beverage.
+837	woman drinks a beer	woman does not drink a beer
+838	A view of the back of a woman having a beverage.	A view of the back of a woman not having a beverage.
+839	woman dumps the drink on a man	woman does not dump the drink on a man
+840	A view of the back of a woman having a beverage.	A view of the back of a woman not having a beverage.
+841	woman has a drink	woman does not have a drink
+842	A person rides his bicycle in the sand beside the ocean.	A person does not ride his bicycle in the sand beside the ocean.
+843	A person is falling off his bike.	A person is not falling off his bike.
+844	A person rides his bicycle in the sand beside the ocean.	A person does not ride his bicycle in the sand beside the ocean.
+845	A person is on a boat.	A person is not on a boat.
+846	A person rides his bicycle in the sand beside the ocean.	A person does not ride his bicycle in the sand beside the ocean.
+847	A person is on a beach.	A person is not on a beach.
+848	A group of people prepare hot air balloons for takeoff.	A group of people do not prepare hot air balloons for takeoff.
+849	A group of people are outside.	A group of people are not outside.
+850	A group of people prepare hot air balloons for takeoff.	A group of people do not prepare hot air balloons for takeoff.
+851	There are hot air balloons on the ground and air.	There are not hot air balloons on the ground and air.
+852	a little girl sitting in a seat.	a little girl is not sitting in a seat.
+853	She is in a chair.	She is not in a chair.
+854	A group of young people with instruments are on stage.	A group of young people with instruments are not on stage.
+855	People are performing as a band for a crowd.	People are not performing as a band for a crowd.
+856	A group of young people with instruments are on stage.	A group of young people with instruments are not on stage.
+857	Young people are playing water polo.	Young people are not playing water polo.
+858	A group of young people with instruments are on stage.	A group of young people with instruments are not on stage.
+859	People are playing music.	People are not playing music.
+860	A man in a black shirt is playing a guitar.	A man in a black shirt is not playing a guitar.
+861	He is playing a song.	He is not playing a song.
+862	A man in a black shirt is playing a guitar.	A man in a black shirt is not playing a guitar.
+863	The man is wearing a blue shirt.	The man is not wearing a blue shirt.
+864	A man in a black shirt is playing a guitar.	A man in a black shirt is not playing a guitar.
+865	The man is wearing black.	The man is not wearing black.
+866	A young boy playing in the grass.	A young boy is not playing in the grass.
+867	The boy is playing make believe.	The boy is not playing make believe.
+868	A young boy playing in the grass.	A young boy is not playing in the grass.
+869	There is a child in the grass.	There is not a child in the grass.
+870	A young boy playing in the grass.	A young boy is not playing in the grass.
+871	The boy is in the sand.	The boy is not in the sand.
+872	A man and a woman are looking at produce on display.	A man and a woman are not looking at produce on display.
+873	A man and women are staring at heads of lettuce.	A man and women are not staring at heads of lettuce.
+874	A man and a woman are looking at produce on display.	A man and a woman are not looking at produce on display.
+875	Two men throw produce at each other for fun.	Two men do not throw produce at each other for fun.
+876	A man and a woman are looking at produce on display.	A man and a woman are not looking at produce on display.
+877	A man and woman are looking at produce.	A man and woman are not looking at produce.
+878	The little boy is jumping into a puddle on the street.	The little boy is not jumping into a puddle on the street.
+879	The boy is outside.	The boy is not outside.
+880	People are throwing tomatoes at each other.	People are not throwing tomatoes at each other.
+881	The men are covered in tomatoes.	The men are not covered in tomatoes.
+882	People are throwing tomatoes at each other.	People are not throwing tomatoes at each other.
+883	The people are having a food fight.	The people are not having a food fight.
+884	A man and a woman are talking in a park	A man and a woman are not talking in a park
+885	A man and woman are talking in the aquarium.	A man and woman are not talking in the aquarium.
+886	A man and a woman are talking in a park	A man and a woman are not talking in a park
+887	The couple discuss their financial future in the park.	The couple do not discuss their financial future in the park.
+888	A man and a woman are talking in a park	A man and a woman are not talking in a park
+889	A pair of people are talking outdoors.	A pair of people are not talking outdoors.
+890	Girl plays with colorful letters on the floor.	Girl does not play with colorful letters on the floor.
+891	The girl is playing a video game in the bath.	The girl is not playing a video game in the bath.
+892	Girl plays with colorful letters on the floor.	Girl does not play with colorful letters on the floor.
+893	The girl is spelling out her favorite words with colored letters.	The girl is not spelling out her favorite words with colored letters.
+894	Dog herding cows	Dog are not herding cows
+895	Animals are near each other.	Animals are not near each other.
+896	A lady with bright orange hair walking in a crowd.	A lady with bright orange hair is not walking in a crowd.
+897	The woman is asleep.	The woman is not asleep.
+898	A lady with bright orange hair walking in a crowd.	A lady with bright orange hair is not walking in a crowd.
+899	A woman is near a group of people.	A woman is not near a group of people.
+900	A lady with bright orange hair walking in a crowd.	A lady with bright orange hair is not walking in a crowd.
+901	The street performer is entertaining the tourists.	The street performer is not entertaining the tourists.
+902	A man waterskies with a life jacket.	A man does not waterski with a life jacket.
+903	Hitler rides a jetski in this Kawasaki advertisement.	Hitler does not ride a jetski in this Kawasaki advertisement.
+904	A man waterskies with a life jacket.	A man does not waterski with a life jacket.
+905	A lifeguard races across the water.	A lifeguard does not race across the water.
+906	A man waterskies with a life jacket.	A man does not waterski with a life jacket.
+907	The man is enjoying the ocean.	The man is not enjoying the ocean.
+908	A group of children enjoy their time on the beach.	A group of children do not enjoy their time on the beach.
+909	A group of adults are swimming at the beach.	A group of adults are not swimming at the beach.
+910	A group of children enjoy their time on the beach.	A group of children do not enjoy their time on the beach.
+911	Children are swimming at the beach.	Children are not swimming at the beach.
+912	A group of children enjoy their time on the beach.	A group of children do not enjoy their time on the beach.
+913	Children are at the beach.	Children are not at the beach.
+914	A guy waxing a wooden floor with wax.	A guy is not waxing a wooden floor with wax.
+915	the guy is dead	the guy is not dead
+916	A guy waxing a wooden floor with wax.	A guy is not waxing a wooden floor with wax.
+917	a guy is waxing	a guy is not waxing
+918	A guy waxing a wooden floor with wax.	A guy is not waxing a wooden floor with wax.
+919	the guy is paid	the guy is not paid
+920	A man jumping sideways in the ocean.	A man is not jumping sideways in the ocean.
+921	A man sits in a hotel lobby.	A man does not sit in a hotel lobby.
+922	A man jumping sideways in the ocean.	A man is not jumping sideways in the ocean.
+923	A man jumps in the ocean.	A man does not jump in the ocean.
+924	An older gentleman speaking at a podium.	An older gentleman is not speaking at a podium.
+925	A man giving a speech	A man is not giving a speech
+926	Dog herding cows	Dog are not herding cows
+927	Cats are sleeping inside the room.	Cats are not sleeping inside the room.
+928	A young barefoot girl in a pink dress is jumping outside.	A young barefoot girl in a pink dress is not jumping outside.
+929	A little girl is playing jump rope.	A little girl is not playing jump rope.
+930	A young barefoot girl in a pink dress is jumping outside.	A young barefoot girl in a pink dress is not jumping outside.
+931	A child is playing.	A child is not playing.
+932	A boy in red slides down an inflatable ride.	A boy in red does not slide down an inflatable ride.
+933	A boy rolls around an inflatable ride.	A boy does not roll around an inflatable ride.
+934	A boy in red slides down an inflatable ride.	A boy in red does not slide down an inflatable ride.
+935	A boy is playing on an inflatable ride.	A boy is not playing on an inflatable ride.
+936	A boy in red slides down an inflatable ride.	A boy in red does not slide down an inflatable ride.
+937	A boy pierces a knife through an inflatable ride.	A boy does not pierce a knife through an inflatable ride.
+938	A man is reading a newspaper in a car dealership.	A man is not reading a newspaper in a car dealership.
+939	A man is at a car dealership.	A man is not at a car dealership.
+940	a little girl sitting in a seat.	a little girl is not sitting in a seat.
+941	She is standing on the seat.	She is not standing on the seat.
+942	A man is reading a newspaper in a car dealership.	A man is not reading a newspaper in a car dealership.
+943	A man is reading a magazine at the hospital.	A man is not reading a magazine at the hospital.
+944	Group yoga class exercising.	Group yoga class is not exercising.
+945	A group of people holding various positions for a period of time.	A group of people are not holding various positions for a period of time.
+946	Group yoga class exercising.	Group yoga class is not exercising.
+947	The yoga group are eating chips and fries.	The yoga group are not eating chips and fries.
+948	Group yoga class exercising.	Group yoga class is not exercising.
+949	Half of the yoga group are female.	Half of the yoga group are not female.
+950	Three women in dress suits walk by a building.	Three women in dress suits do not walk by a building.
+951	Three women are traveling by foot.	Three women are not traveling by foot.
+952	Three women in dress suits walk by a building.	Three women in dress suits do not walk by a building.
+953	The suits are gray.	The suits are not gray.
+954	Three women in dress suits walk by a building.	Three women in dress suits do not walk by a building.
+955	The woman are wearing bikinis.	The woman are not wearing bikinis.
+956	A child is looking out of a door.	A child is not looking out of a door.
+957	The child is asleep.	The child is not asleep.
+958	A child is looking out of a door.	A child is not looking out of a door.
+959	The door is open.	The door is not open.
+960	A child is looking out of a door.	A child is not looking out of a door.
+961	There is a door.	There is not a door.
+962	kids drawing something on paper	kids are not drawing something on paper
+963	The kids are drawing pictures of animals.	The kids are not drawing pictures of animals.
+964	Young man walking dog	Young man is not walking dog
+965	The man is walking his cat.	The man is not walking his cat.
+966	kids drawing something on paper	kids are not drawing something on paper
+967	The kids are cutting ribbons.	The kids are not cutting ribbons.
+968	A young woman is singing into a microphone.	A young woman is not singing into a microphone.
+969	The woman playing the trumpet.	The woman is not playing the trumpet.
+970	A young woman is singing into a microphone.	A young woman is not singing into a microphone.
+971	The woman is in a band.	The woman is not in a band.
+972	A young woman is singing into a microphone.	A young woman is not singing into a microphone.
+973	The woman is singing.	The woman is not singing.
+974	A diver is swimming with a turtle.	A diver is not swimming with a turtle.
+975	A sick turtle is swimming by a diver.	A sick turtle is not swimming by a diver.
+976	A diver is swimming with a turtle.	A diver is not swimming with a turtle.
+977	A lion is eating raw meat at the zoo.	A lion is not eating raw meat at the zoo.
+978	A boy in overalls blows bubbles.	A boy in overalls does not blow bubbles.
+979	A boy in overalls is playing with bubbles outside.	A boy in overalls is not playing with bubbles outside.
+980	A boy in overalls blows bubbles.	A boy in overalls does not blow bubbles.
+981	A boy is blowing bubbles.	A boy is not blowing bubbles.
+982	A boy in overalls blows bubbles.	A boy in overalls does not blow bubbles.
+983	A man is juggling in the park.	A man is not juggling in the park.
+984	Two children playing on the floor with toy trains.	Two children are not playing on the floor with toy trains.
+985	The children played on the floor with their new christmas toys.	The children did not play on the floor with their new christmas toys.
+986	Two children playing on the floor with toy trains.	Two children are not playing on the floor with toy trains.
+987	The children played on the floor.	The children did not play on the floor.
+988	Two children playing on the floor with toy trains.	Two children are not playing on the floor with toy trains.
+989	The girls slept on the floor next to the toys.	The girls did not sleep on the floor next to the toys.
+990	A man in a blue shirt, jumping down a hill in a park.	A man in a blue shirt, is not jumping down a hill in a park.
+991	A man is sleeping.	A man is not sleeping.
+992	A man in a blue shirt, jumping down a hill in a park.	A man in a blue shirt, is not jumping down a hill in a park.
+993	a man is wearing blue	a man is not wearing blue
+994	Two boys stand in an ocean as the sun sets.	Two boys do not stand in an ocean as the sun sets.
+995	Boys are standing	Boys are not standing
+996	Two boys stand in an ocean as the sun sets.	Two boys do not stand in an ocean as the sun sets.
+997	The ocean is calm	The ocean is not calm
+998	Two boys stand in an ocean as the sun sets.	Two boys do not stand in an ocean as the sun sets.
+999	The boys are surfing	The boys are not surfing
